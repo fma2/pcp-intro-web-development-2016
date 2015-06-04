@@ -64,7 +64,7 @@ Grades will be based on class attendance each day; active participation in class
 ####<a name="week4">Week 4</a>
 | Unit          | Lessons     | Projects |
 | ------------- |-------------|----------|
-| **4**: [Special Topics]()  | Wordpress <br>Javascript and jQuery <br>Github Pages |  |
+| **4**: [Special Topics]()  | Wordpress <br>Javascript and jQuery <br>Git<br>Github Pages |  |
 | **5**: [Putting it All Together: Final Project]()  |  | Final Project |
 
 
