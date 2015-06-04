@@ -43,8 +43,8 @@ Grades will be based on class attendance each day; active participation in class
 
 | Unit          | Lessons     | Projects |
 | ------------- |-------------|----------|
-| **0**: [Prework]()  | |  |
-| **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/0-intro.md)  | 1.1. Why Programming <br>1.2. How do web apps work? <br>1.3. Explore HTML and CSS <br>1.4. Command Line<br> 1.5. Document Object Model |  |
+| **0**: [Prework](https://github.com/fma2/pcp-intro-web-development/blob/master/units/0-prework)  | |  |
+| **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)  | 1.1. Why Programming <br>1.2. How do web apps work? <br>1.3. Explore HTML and CSS <br>1.4. Command Line<br> 1.5. Document Object Model |  |
 | **2A**: [Introduction to HTML]()  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | Build a personal landing page |
 
 ####<a id="week2">Week 2</a>
