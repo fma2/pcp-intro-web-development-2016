@@ -51,7 +51,7 @@ Grades will be based on class attendance each day; active participation in class
 
 | Unit          | Lessons     | Projects |
 | ------------- |-------------|----------|
-| **2B**: [Introduction to CSS]()  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats <br> 2B.4. Advanced Positioning | |
+| **2B**: [Introduction to CSS]()  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats | |
 | **2C**: [Advanced HTML/CSS]()  | 2C.1. Advanced Positioning | Build a 3-page website|
 
 
