@@ -3,9 +3,13 @@
 Welcome to Introduction to Web Development!  Below is the curriculum for this introductory course in HTML/CSS for beginners in the Pre-College Program at Barnard College. 
 
 Use the links below to jump to a section of this page
+
 [Course Description, Goals, and Learning Outcomes]()
+
 [Topics]()
+
 [Course Grading]()
+
 [Course Schedule]()
 
 
