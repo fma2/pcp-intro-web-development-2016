@@ -9,6 +9,11 @@ Use the links below to jump to a section of this page.
 	- [Topics](#topics)
 	- [Course Grading](#grading)
 - [Course Schedule](#schedule)
+	- [Week 1](#week1)
+	- [Week 2](#week2)
+	- [Week 3](#week3)
+	- [Week 4](#week4)
+- [Homework](#homework)
 
 
 ##<a name="description">Course Description</a>
@@ -34,17 +39,42 @@ Grades will be based on class attendance each day; active participation in class
 
 ##<a name="schedule">Class Schedule</a>
 
+####<a name="week1">Week 1</a>
+
 | Unit          | Lessons     | Projects |
 | ------------- |-------------|----------|
-| **0**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/0-intro.md)  | 0.1. Why Programming <br>0.2. How do web apps work? | N/A |
-| **1**: [Introduction to HTML/CSS]()  | 1.1. Explore HTML/CSS <br>1.2. Document Object Model <br> 1.3. HTML Document Structure <br> 1.4. Tags, elements, attributes <br> 1.5. CSS Selectors <br> 1.6. Semantic HTML | Build a personal landing page |
-| **2**: [CSS Positioning]()  | 3.1. The Box Model <br>3.2. Floats <br> 3.3. Advanced Positioning | Build a 3-page website|
-| **3**: [Grid Based Design]()  | 4.1. Responsive Design <br>4.2. Grid Based Web Design <br> 4.3. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
-| **4**: [Special Topics]()  | Wordpress <br>Javascript and jQuery <br>Github Pages | Final Project |
+| **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/0-intro.md)  | 0.1. Why Programming <br>0.2. How do web apps work? <br>0.3. Explore HTML and CSS <br>0.4. Command Line<br> 0.5. Document Object Model |  |
+| **2A**: [Introduction to HTML]()  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | Build a personal landing page |
 
-**Homework:** Access all [Homework Assignments]() 
+####<a name="week2">Week 2</a>
 
-**Course Evaluation Survey:** [Form]() 
+| Unit          | Lessons     | Projects |
+| ------------- |-------------|----------|
+| **2B**: [Introduction to CSS]()  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats <br> 2B.4. Advanced Positioning | |
+| **2C**: [Advanced HTML/CSS]()  | 2C.1. Advanced Positioning | Build a 3-page website|
+
+
+####<a name="week3">Week 3</a>
+
+| Unit          | Lessons     | Projects |
+| ------------- |-------------|----------|
+| **3**: [Grid Based Design]()  | 3.1. Responsive Design <br>3.2. Grid Based Web Design <br> 3.3. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
+
+
+####<a name="week4">Week 4</a>
+| Unit          | Lessons     | Projects |
+| ------------- |-------------|----------|
+| **4**: [Special Topics]()  | Wordpress <br>Javascript and jQuery <br>Github Pages |  |
+| **5**: [Putting it All Together: Final Project]()  |  | Final Project |
+
+
+##<a name="homework">Homework</a>
+
+Access all [Homework Assignments]() 
+
+##Course Evaluation
+
+[Form]() 
 
 
  
