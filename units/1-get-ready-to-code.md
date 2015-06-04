@@ -5,23 +5,23 @@ Welcome to Unit 1!  Before we get into coding, let's start with basics.
 
 Use the links below to jump to a section of this page.
 
-- [1.1: Why Programming?](#whyprogramming)
-- [1.2. How do web apps work?](#webapps)
+- [1.1: Why Programming?](#11-whyprogramming)
+- [1.2. How do web apps work?](#12-webapps)
 	- [What is a Web App?]()
 	- [Not A Series of Tubes]()
-- [1.3. Explore HTML and CSS]()
-- [1.4. Command Line]()
-- [1.5. Document Object Model]()
+- [1.3. Explore HTML and CSS](#13-explore)
+- [1.4. Command Line](#14-commandline)
+- [1.5. Document Object Model](#15-dom)
 - [Resources](#resources)
 
 
-##<a id="whyprogramming">1.1: Why Programming?</a>
+##<a id="11-whyprogramming">1.1: Why Programming?</a>
 
 + Read - [Why Programming]() 
 
 **Key Takeaway:** While not everyone wants to be or should be a professional software engineer, a basic understanding of computing concepts and how web/mobile applications work is critical for success in a networked world.
 
-<a id="webapps">1.2: How do web apps work?</a>
+<a id="12-webapps">1.2: How do web apps work?</a>
 -----------------------------
 
 ####1.2a - What Is a Web App?
@@ -34,7 +34,7 @@ Use the links below to jump to a section of this page.
 
 **Key Takeaway:** A web application is software that runs in a browser. The “front-end” of the application is the part the user interacts with in the browser and written using HTML, CSS, and Javascript. 
 
-##<a id="explorehtmlcss">1.3. Explore HTML and CSS</a>
+##<a id="13-explore">1.3. Explore HTML and CSS</a>
 
 ####1.3a: Tools of the Trade - Text Editors 
 
@@ -53,13 +53,13 @@ Use the links below to jump to a section of this page.
 + Attempt to make all the changes listed on page 5 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1VZ8-_vjXeNGnQk3fhnuoX1mDof13Z6u634LaiZgpJ0Y/edit?usp=sharing)
 
 
-##<a id="commandline">1.4. Command Line</a>
+##<a id="14-commandline">1.4. Command Line</a>
 
 + Read [The Command Line](https://docs.google.com/presentation/d/11SEgdvUkPk_AenNiwAoF676yNuJa8R07g5S1rAaVRhE/edit?usp=sharing)
 + Find your shell and practice 
 
 
-##<a id="dom">1.5. Document Object Model</a>
+##<a id="15-dom">1.5. Document Object Model</a>
 
 ####1.5a: Tools of the Trade - The Inspector
 
