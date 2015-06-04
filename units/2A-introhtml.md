@@ -1,75 +1,30 @@
-1: Introduction to HTML
-=========================
-[1.1: Explore HTML and CSS](#11-explore)
+#2A: Introduction to HTML
 
-[1.2: Document Object Model](#12-document-object)
+Welcome to Unit 2A!  In this unit, we'll introduce ourselves to HTML.
 
-[1.3: HTML document structure](#13-html-document-structure)
+Use the links below to jump to a section of this page.
 
-[1.4: Elements, Tags, and Attributes](#14-elements)
-
-[1.5: CSS selectors](#15-css-selectors)
-
-[Resources](#resources)
+- [2A.1: HTML document structure](#2A1-html-document-structure)
+- [2A.2: Elements, Tags, and Attributes](#2A2-elements)
+- [Resources](#resources)
 
 
-<a id="11-explore">1.1: Explore HTML and CSS</a>
----------------------
+##<a id="2A1-html-document-structure">2A.1: HTML Document Structure</a>
 
-**1.1a: Tools of the Trade - Text Editors** 
+####2A.1a: Project 1 - Landing Page
 
-+ Install a text editor. I recommend [Sublime Text](http://www.sublimetext.com/)
++ Read basics of HTML in [2A.3 - HTML Document Structure](https://docs.google.com/presentation/d/1zZWMbWyqmbUJ_piOF9IqCDGo8vbOkNztOXrUOw9InWQ/edit?usp=sharing)
++ Set up the directory structure and add basic content to build a landing page - see pgs 5-8 of [2A.3 - HTML Document Structure](https://docs.google.com/presentation/d/1zZWMbWyqmbUJ_piOF9IqCDGo8vbOkNztOXrUOw9InWQ/edit?usp=sharing)
 
-**1.1b: Hack This Page**
+##<a id="2A2-elements">2A.2: Elements, Tags and Attributes</a>
 
-+ Go to bit.ly/exploreHtmlCss
-+ Download the folder and save it on your desktop
-+ Attempt to make all the changes listed on page 4 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1VZ8-_vjXeNGnQk3fhnuoX1mDof13Z6u634LaiZgpJ0Y/edit?usp=sharing)
+####2A.2a: HTML Elements and tags
 
-**1.1c: More Hack This Page**
-
-+ Go to bit.ly/explorehtml2
-+ Download the folder and save it on your desktop
-+ Attempt to make all the changes listed on page 5 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1VZ8-_vjXeNGnQk3fhnuoX1mDof13Z6u634LaiZgpJ0Y/edit?usp=sharing)
++ Read basics of HTML elements and tags on pgs 4-6 of [2A.4 - Elements, Tags and Attributes](https://docs.google.com/presentation/d/1rNTJ2Et0ppxHZo9cpTeAf2PUuCwa23m_tuRh2CoT3Ao/edit?usp=sharing)
++ Practice researching and writing HTML tags on pg 7 of [2A.4 - Elements, Tags and Attributes](https://docs.google.com/presentation/d/1rNTJ2Et0ppxHZo9cpTeAf2PUuCwa23m_tuRh2CoT3Ao/edit?usp=sharing)
 
 
-<a id="12-document-object">1.2: Document Object Model</a>
----------------------
-
-**1.2a: Tools of the Trade - The Inspector** 
-
-+ Explore the Google homepage using Dev Tools - see pgs 1-3 of [1.2 Document Object Model](https://docs.google.com/presentation/d/13H8RAfpo8VEGlqsJv8ztTcFMAkc9b3nZ7DMGYgUn3l8/edit?usp=sharing)
-
-**1.2b: HTML Document Tree** 
-
-+ Learn about the browser DOM tree - see pg 4 of [1.2 Document Object Model](https://docs.google.com/presentation/d/13H8RAfpo8VEGlqsJv8ztTcFMAkc9b3nZ7DMGYgUn3l8/edit?usp=sharing)
-+ Create a DOM tree of [this web page](http://addasimpletree.neocities.org/)
-
-
-<a id="13-html-document-structure">1.3: HTML Document Structure</a>
----------------------
-
-**1.3a: Project 1 - Landing Page** 
-
-+ Read basics of HTML in [1.3 - HTML Document Structure](https://docs.google.com/presentation/d/1zZWMbWyqmbUJ_piOF9IqCDGo8vbOkNztOXrUOw9InWQ/edit?usp=sharing)
-+ Set up the directory structure and add basic content to build a landing page - see pgs 5-8 of [1.3 - HTML Document Structure](https://docs.google.com/presentation/d/1zZWMbWyqmbUJ_piOF9IqCDGo8vbOkNztOXrUOw9InWQ/edit?usp=sharing)
-
-<a id="14-elements">1.4: Elements, Tags and Attributes</a>
----------------------
-
-**1.4a: HTML Elements and tags** 
-
-+ Read basics of HTML elements and tags on pgs 4-6 of [1.4 - Elements, Tags and Attributes](https://docs.google.com/presentation/d/1rNTJ2Et0ppxHZo9cpTeAf2PUuCwa23m_tuRh2CoT3Ao/edit?usp=sharing)
-+ Practice researching and writing HTML tags on pg 7 of [1.4 - Elements, Tags and Attributes](https://docs.google.com/presentation/d/1rNTJ2Et0ppxHZo9cpTeAf2PUuCwa23m_tuRh2CoT3Ao/edit?usp=sharing)
-
-<a id="15-css-selectors">1.5: CSS Selectors</a>
----------------------
-+ Read basics of CSS selectors in [1.5 - CSS Selectors](https://docs.google.com/presentation/d/1XYLq7HykvftTL4hfpLeEqL17mOGesjSa5P3bpRWXE5g/edit?usp=sharing)
-+ Practice researching and writing CSS rules on page 10 of [1.5 - CSS Selectors](https://docs.google.com/presentation/d/1XYLq7HykvftTL4hfpLeEqL17mOGesjSa5P3bpRWXE5g/edit?usp=sharing)
-
-
-<a id="resources">Resources</a>
------------------------------
+##<a id="resources">Resources</a>
 
 + Watch [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/html/html) (3:35)
 + Watch [Don't Fear the Browser - Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/html/html) (3:35)
