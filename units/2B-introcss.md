@@ -2,7 +2,7 @@
 
 Welcome to Unit 2B!  In this unit, we'll introduce ourselves to CSS.
 
-Use the links below to jump to a section of this page.
+Use the links below to jump to a section on this page.
 
 - [2B.1: CSS Selectors](#2B1-css-selectors)
 - [2B.2: CSS Positioning - The Box Model](#2B2-boxmodel)
