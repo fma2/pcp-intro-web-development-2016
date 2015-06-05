@@ -2,6 +2,8 @@
 
 Congratulations! You’ve learned enough HTML and CSS to build a fully functioning website from scratch. 
 
+Use the links below to jump to a section on this page.
+
 - [Final Project directions](#directions)
 - [Tips for the Final Project](#tips)
 - [Homework submission](#homeworksubmission)

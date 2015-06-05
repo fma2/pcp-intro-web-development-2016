@@ -2,7 +2,7 @@
 
 Welcome to Unit 2C!  
 
-Use the links below to jump to a section of this page.
+Use the links below to jump to a section on this page.
 
 - [2C.1: Advanced Positioning](#2C1-advanced-positioning)
 - [Resources](#resources)
