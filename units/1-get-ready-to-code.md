@@ -3,7 +3,7 @@
 
 Welcome to Unit 1!  Before we get into coding, let's start with basics.
 
-Use the links below to jump to a section of this page.
+Use the links below to jump to a section on this page.
 
 - [1.1: Why Programming?](#11-whyprogramming)
 - [1.2. How do web apps work?](#12-webapps)
