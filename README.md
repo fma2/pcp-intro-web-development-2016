@@ -2,7 +2,7 @@
 
 Welcome to Introduction to Web Development!  Below is the curriculum for this introductory course in HTML/CSS for beginners in the Pre-College Program at Barnard College. 
 
-Use the links below to jump to a section of this page.
+Use the links below to jump to a section on this page.
 
 - [Course Description](#description)
 	- [Learning Outcomes](#outcomes)
@@ -43,7 +43,7 @@ Grades will be based on class attendance each day; active participation in class
 
 | Unit          | Lessons     | Projects |
 | ------------- |-------------|----------|
-| **0**: [Prework](https://github.com/fma2/pcp-intro-web-development/blob/master/units/0-prework)  | |  |
+| **0**: [Prework](https://github.com/fma2/pcp-intro-web-development/blob/master/units/0-prework.md)  | |  |
 | **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)  | 1.1. Why Programming <br>1.2. How do web apps work? <br>1.3. Explore HTML and CSS <br>1.4. Command Line<br> 1.5. Document Object Model |  |
 | **2A**: [Introduction to HTML]()  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | Build a personal landing page |
 
@@ -65,7 +65,7 @@ Grades will be based on class attendance each day; active participation in class
 ####<a id="week4">Week 4</a>
 | Unit          | Lessons     | Projects |
 | ------------- |-------------|----------|
-| **4**: [Special Topics]()  | Wordpress <br>Javascript and jQuery <br>Git<br>Github Pages |  |
+| **4**: [Special Topics]()  | Wordpress <br>Javascript and jQuery <br>Version Control & Git<br>Github Pages |  |
 | **5**: [Putting it All Together: Final Project]()  |  | Final Project |
 
 
