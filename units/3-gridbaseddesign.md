@@ -1,57 +1,88 @@
-4: Grid Based Web Design
-=========================
-[4.1: Responsive Design](#41-responsive)
+#3: Grid Based Web Design
 
-[4.2: Grid Based Web Design](#42-float)
+Welcome to Unit 3!  In this unit, we'll explore grid-based web design and responsive design techniques.
 
-[4.3: Media Queries](#43-media)
+Use the links below to jump to a section on this page.
 
-[4.4: Flexible Images](#44-images)
+- [3.1: Responsive Design](#31-responsive)
+- [3.2: Grid-Based Web Design](#32-float)
+- [3.3: Media Queries](#33-media)
+- [3.4: Flexible Media](#34-images)
+- [3.5: CSS Frameworks - Bootstrap](#35-bootstrap)
+- [Resources](#resources)
 
-[4.5: CSS Frameworks - Bootstrap](#45-bootstrap)
+<br>
+<hr height="10px">
 
-[Resources](#resources)
+##<a id="31-responsive">3.1: Responsive Design</a>
 
-<a id="41-responsive">4.1: Responsive Design</a>
----------------------
+####3.1a: Responsive Design
 
-**4.1: Responsive Design** 
-
-+ Read: [Responsive Design](https://docs.google.com/presentation/d/1LM9LGsGYyRrAWib0crYdQSdu31U_jkGyOfrwMSIb12c/edit?usp=sharing)
-
-
-
-<a id="42-float">4.2: Grid Based Web Design</a>
----------------------
-
-**4.2: Grid Based Web Design** 
-
-+ Read [Grid Based Web Design](https://docs.google.com/presentation/d/12025Umyz1AiPphNRYMRk3uI2kFkFW2hF6M_UCj8mL4Y/edit?usp=sharing)
-
-+ Do [Practice with Grids](https://docs.google.com/document/d/1i5_KJHskdtLzts-A4xKcJwpoCoSx2DjsMAYtgFgz3sM/edit?usp=sharing)
+- Read: [3.1 - Responsive Design](https://docs.google.com/presentation/d/1tH8PllEDxUZGfEvUv0BmacftuFRfRIeihLZHvHV2qCo/edit?usp=sharing)
+- Do this on your desktop (from slide 2 in [3.1 - Responsive Design](https://docs.google.com/presentation/d/1tH8PllEDxUZGfEvUv0BmacftuFRfRIeihLZHvHV2qCo/edit?usp=sharing)):
+> - Go to npr.org 
+> 	- Resize your computer screen by dragging the window
+> - Now, go to: nytimes.com
+> 	- Again, resize your computer screen. 
+> - Write a few sentences describing the differences between the two websites as you resized your page. 
+> 	- What do you notice about the content of the pages?
 
 
-<a id="43-media">4.3: Media Queries</a>
----------------------
 
-**4.3: Media Queries** 
-
-+ Read [Media Queries](https://docs.google.com/presentation/d/1rso--gfx3Ur191mMSopv-JOLBVlFzJuuIh64r-An9zw/edit?usp=sharing)
-
-<a id="44-images">4.4: Flexible Images</a>
----------------------
-
-**4.4: Flexible Images** 
-
-+ Read [Flexible Images](https://docs.google.com/presentation/d/1dBNLt9ogs_k9G3bW4-zNH5iwfaugMr03YgsXrveZBdg/edit?usp=sharing)
-
-<a id="45-bootstrap">4.5: CSS Frameworks - Bootstrap</a>
----------------------
-
-**4.5: CSS Frameworks - Bootstrap** 
-
-+ Read [CSS Frameworks - Bootstrap](https://docs.google.com/presentation/d/1L99a6CysCUMIDEqQdNVoP33msKnaUI__1vF1oH_Xpns/edit?usp=sharing)
+<br>
+<hr height="10px">
+##<a id="32-float">3.2: Grid-Based Web Design</a>
 
 
-<a id="resources">Resources</a>
------------------------------
+####3.2a: Grid Based Web Design
+
+- Read: [Grid Based Web Design](https://docs.google.com/presentation/d/1pHbWFvCVTyxA1kR0i7qMa-m0Qx5h9R4V0VgCMGatT5Q/edit?usp=sharing)
+- Do: **Create Flexible Layouts** (from slide 2 in [Practice with Grids](https://docs.google.com/presentation/d/1pHbWFvCVTyxA1kR0i7qMa-m0Qx5h9R4V0VgCMGatT5Q/edit?usp=sharing))
+
+> - Instead of pixels (fixed layout), use percentages to decide how wide columns should be
+> - Go to: jsbin.com/butuxa
+> 	- Let’s edit this page together using Dev tools
+>	- Remove the fixed page width 
+>	- Change the section, and sidebar to use percentages instead of fixed pixels
+
+- Do: **Let's set up a grid!** (from slide 11 in [Practice with Grids](https://docs.google.com/presentation/d/1pHbWFvCVTyxA1kR0i7qMa-m0Qx5h9R4V0VgCMGatT5Q/edit?usp=sharing))
+
+> - Go to: http://jsbin.com/moyaya
+> - Fill in the HTML and CSS to make your output look like image on slide 11 in [Practice with Grids](https://docs.google.com/presentation/d/1pHbWFvCVTyxA1kR0i7qMa-m0Qx5h9R4V0VgCMGatT5Q/edit?usp=sharing):
+
+
+
+<br>
+<hr height="10px">
+##<a id="33-media">3.3: Media Queries</a>
+
+
+####3.3a: Media Queries
+
+- Read: [Media Queries](https://docs.google.com/presentation/d/1ekk188MbguthhNl3E4CdGMUpxA85mM1_IbSSAHrhFmA/edit?usp=sharing)
+- Let's see media queries at work.  Follow directions in slides 7-10 in [Media Queries](https://docs.google.com/presentation/d/1ekk188MbguthhNl3E4CdGMUpxA85mM1_IbSSAHrhFmA/edit?usp=sharing)
+
+<br>
+<hr height="10px">
+
+##<a id="44-images">3.4: Flexible Media - Images</a>
+
+
+####3.4a: Flexible Media - Images
+
+- Read: [Flexible Images](https://docs.google.com/presentation/d/15EKJiye_qXDzBW_cjas2L5ltLjGZfgb2Col6RCxwwNc/edit?usp=sharing)
+- Try it out. Follow directions on slide 4 in [Flexible Images](https://docs.google.com/presentation/d/15EKJiye_qXDzBW_cjas2L5ltLjGZfgb2Col6RCxwwNc/edit?usp=sharing)
+
+<br>
+<hr height="10px">
+
+##<a id="35-bootstrap">3.5: CSS Frameworks - Bootstrap</a>
+
+
+####3.5a: CSS Frameworks - Bootstrap
+
++ Read: [CSS Frameworks - Bootstrap](https://docs.google.com/presentation/d/1fm8ngfmbd6XxAKqXaBcjPGkNhq43q3TDN5Hg4NjcF6E/edit?usp=sharing)
+
+<br>
+<hr height="10px">
+##<a id="resources">Resources</a>
