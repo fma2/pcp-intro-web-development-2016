@@ -12,7 +12,7 @@ Use the links below to jump to a section on this page.
 - [1.5. Document Object Model](#15-dom)
 - [Resources](#resources)
 
-===
+
 ##<a id="11-whyprogramming">1.1: Why Programming?</a>
 
 ####1.1a: Why Programming?
@@ -20,7 +20,6 @@ Use the links below to jump to a section on this page.
 - Read: [1.1 Why Programming](https://docs.google.com/presentation/d/1AXe2o3v7tBVGNHJbRC2eAEVuL65xvnB4xxNFFgXank8/edit?usp=sharing) 
 - Consider this **key takeaway:** While not everyone wants to be or should be a professional software engineer, a basic understanding of computing concepts and how web/mobile applications work is critical for success in a networked world.
 
-===
 ##<a id="12-webapps">1.2: How do web apps work?</a>
 
 ####1.2a - What Is a Web App?
@@ -32,7 +31,6 @@ Use the links below to jump to a section on this page.
 -  Watch: [Not A Series of Tubes](http://www.dontfeartheinternet.com/the-basics/not-tubes)
 - Consider this **key takeaway:** A web application is software that runs in a browser. The “front-end” of the application is the part the user interacts with in the browser and written using HTML, CSS, and Javascript. 
 
-===
 
 
 ##<a id="13-explore">1.3. Explore HTML and CSS</a>
@@ -54,7 +52,7 @@ Use the links below to jump to a section on this page.
 + Download the folder and save it on your desktop
 + Attempt to make all the changes listed on page 5 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit#slide=id.g6e36b57d0_033)
 
-===
+
 ##<a id="14-commandline">1.4. Command Line</a>
 
 ####1.4a: The Command Line
@@ -80,8 +78,8 @@ Find your shell and practice using the command line - directions below are from 
 
 Remember to think of CLI as a mini programming language you need to understand to give your computer instructions.
 
-
-<hr size="20">
+<br>
+<hr height="10px">
 
 ##<a id="15-dom">1.5. Document Object Model</a>
 
