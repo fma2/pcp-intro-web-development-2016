@@ -84,7 +84,7 @@ Grades will be based on class attendance each day; active participation in class
 
 | Unit          | Modules  | Projects |
 | ------------- |-------------|----------|
-| **3**: [Grid Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
+| **3**: [Grid-Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
 | **4**: [Special Topics]()  | 4.1. Wordpress<br>4.2. Javascript & jQuery|  |
 
 
