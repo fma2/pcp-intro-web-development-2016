@@ -83,6 +83,10 @@ Use the links below to jump to a section on this page.
 
 + Read: [CSS Frameworks - Bootstrap](https://docs.google.com/presentation/d/1fm8ngfmbd6XxAKqXaBcjPGkNhq43q3TDN5Hg4NjcF6E/edit?usp=sharing)
 
+####3.5b: Project 3 - Build a Design Framework, Modify a Site with Bootstrap
+
+[Coming soon!]
+
 <br>
 <hr height="10px">
 ##<a id="resources">Resources</a>
