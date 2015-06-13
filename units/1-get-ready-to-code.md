@@ -21,6 +21,7 @@ Use the links below to jump to a section on this page.
 
 - Read: [1.1 Why Programming](https://docs.google.com/presentation/d/1AXe2o3v7tBVGNHJbRC2eAEVuL65xvnB4xxNFFgXank8/edit?usp=sharing) 
 - Consider this **key takeaway:** While not everyone wants to be or should be a professional software engineer, a basic understanding of computing concepts and how web/mobile applications work is critical for success in a networked world.
+
 <br>
 <hr height="10px">
 
