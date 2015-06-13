@@ -47,7 +47,7 @@ Use the links below to jump to a section of this page.
 
 ######Get your site hosted
 
-We want you to share your final project on a publicly available URL. To do this, you would normally use a web host. Read more about webhosting here. For most of your projects, you’ll want to start with an affordable shared host like [hostgator](http://www.hostgator.com/shared) or [1-on-1](https://www.1and1.com/web-hosting#hosting-system). 
+We want you to share your final project on a publicly available URL. To do this, you would normally use a web host. Read more about webhosting [here](http://www.w3schools.com/website/web_host_intro.asp). For most of your projects, you’ll want to start with an affordable shared host like [hostgator](http://www.hostgator.com/shared) or [1-on-1](https://www.1and1.com/web-hosting#hosting-system). 
 
 Github also provides free hosting through [github pages](https://pages.github.com/). Setup is quick and easy! To set up github pages for an existing repository:
 
