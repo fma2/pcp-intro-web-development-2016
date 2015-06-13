@@ -96,5 +96,7 @@ Use the links below to jump to a section on this page.
 
 ##<a id="resources">Resources</a>
 
+- CSS Selectors
+	- [Video: Don't Fear Starting from Scratch Part 2: CSS](http://www.dontfeartheinternet.com/css/don%E2%80%99t-fear-starting-from-scratch-2)
 - Positioning Content with Floats
 	- [CSS Tricks - All About Floats](https://css-tricks.com/all-about-floats/)

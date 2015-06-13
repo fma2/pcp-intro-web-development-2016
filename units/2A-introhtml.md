@@ -50,11 +50,13 @@ Use the links below to jump to a section of this page.
 
 ##<a id="resources">Resources</a>
 
-- Watch [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/html/html) (3:35)
-+ Watch [Don't Fear the Browser - Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/html/html) (3:35)
-+ Read [Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
-+ Watch [Don't Fear Starting from Scratch Part 1: HTML](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
-+ Watch [Don't Fear Starting from Scratch Part 2: CSS](http://www.dontfeartheinternet.com/css/don%E2%80%99t-fear-starting-from-scratch-2)
+- [W3 Schools: HTML Element Reference](http://www.w3schools.com/tags/default.asp)
+- [W3 Schools: HTML Tutorial](http://www.w3schools.com/html/default.asp)
+- [Video: HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/html/html) (3:35)
+- [Video: Don't Fear Starting from Scratch Part 1: HTML](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
+- [Shaye Howe: Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+- [Shaye Howe: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+- [Shaye Howe: Creating Lists](http://learn.shayhowe.com/html-css/creating-lists/)
 
 
 
