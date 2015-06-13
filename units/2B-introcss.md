@@ -78,9 +78,10 @@ Use the links below to jump to a section on this page.
 ####2B.4a: Advanced Positioning
 - Read: [2B.4 - Advanced Positioning](https://docs.google.com/presentation/d/1TJsbjGFoKpD_-z-vII96heo1LyV5z7NlxJjXuqmJ_gA/edit?usp=sharing)
 - Do: **The trouble with floats** (from slides 2-3 in [2B.4 - Advanced Positioning](https://docs.google.com/presentation/d/1TJsbjGFoKpD_-z-vII96heo1LyV5z7NlxJjXuqmJ_gA/edit?usp=sharing))
->- Go to: http://jsbin.com/kafiro/2/edit
->- Add the additional CSS rules requested in the comments. Your output should resemble
->- Next, float Box 1, Box 2, Box 3 to the left
+
+> - Go to: http://jsbin.com/kafiro/2/edit
+> - Add the additional CSS rules requested in the comments. Your output should resemble
+> - Next, float Box 1, Box 2, Box 3 to the left
 >	- What is their parent element?
 >	- What do you notice about this parent element?
 
