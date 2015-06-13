@@ -53,15 +53,15 @@ Github also provides free hosting through [github pages](https://pages.github.co
 
 1. Go to the repository home on github, i.e., github.com/[yourUsername]/[yourRepositoryName]
 
-![github home](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-repo-home.png =800x)
+![github home](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-repo-home.png)
 
 2. Click the branch: master dropdown
 
-![github dropdown](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-branch-dropdown.png =800x)
+![github dropdown](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-branch-dropdown.png)
 
 3. In the input box that reads “Find or create a branch…” type the words “gh-pages” and click enter4. 
 
-![github gh-pages](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-repo-gh-pages.png =800x)
+![github gh-pages](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-repo-gh-pages.png)
 
 4. That’s it! Your site should be available at: **[yourUsername].github.io/[yourRepositoryName]**
 
