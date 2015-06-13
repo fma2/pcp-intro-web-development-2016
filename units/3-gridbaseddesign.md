@@ -90,3 +90,6 @@ Use the links below to jump to a section on this page.
 <br>
 <hr height="10px">
 ##<a id="resources">Resources</a>
+
+- Responsive Design
+	- [Shaye Howe: Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
