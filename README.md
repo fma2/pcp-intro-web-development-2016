@@ -64,7 +64,7 @@ Grades will be based on class attendance each day; active participation in class
 
 | Unit          | Lessons     | Projects |
 | ------------- |-------------|----------|
-| **2B**: [Introduction to CSS]()  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats<br>2B.4. Advanced Positioning|  |
+| **2B**: [Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats<br>2B.4. Advanced Positioning|  |
 | **3**: [Grid-Based Web Design]()  |3.1. Responsive Design<br>3.2 Grid-Based Web Design  | Build a 3-page website |
 
 
