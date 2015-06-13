@@ -51,19 +51,19 @@ We want you to share your final project on a publicly available URL. To do this,
 
 Github also provides free hosting through [github pages](https://pages.github.com/). Setup is quick and easy! To set up github pages for an existing repository:
 
-1. Go to the repository home on github, i.e., github.com/[yourUsername]/[yourRepositoryName]
+**1**: Go to the repository home on github, i.e., github.com/[yourUsername]/[yourRepositoryName]2. 
 
 ![github home](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-repo-home.png)
 
-2. Click the branch: master dropdown
+**2**: Click the branch: master dropdown
 
-![github dropdown](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-branch-dropdown.png)
+![github dropdown](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-branch-dropdown.png
 
-3. In the input box that reads “Find or create a branch…” type the words “gh-pages” and click enter4. 
+**3**: In the input box that reads “Find or create a branch…” type the words “gh-pages” and click enter4. 
 
 ![github gh-pages](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-repo-gh-pages.png)
 
-4. That’s it! Your site should be available at: **[yourUsername].github.io/[yourRepositoryName]**
+**4**: That’s it! Your site should be available at: **[yourUsername].github.io/[yourRepositoryName]**
 
 ######Pushing changes to github pages
 
