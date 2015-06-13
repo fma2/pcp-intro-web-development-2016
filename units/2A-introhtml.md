@@ -6,7 +6,7 @@ Use the links below to jump to a section of this page.
 
 - [2A.1: HTML document structure](#2A1-html-document-structure)
 - [2A.2: Elements, Tags, and Attributes](#2A2-elements)
-- [2A.3: Elements, Tags, and Attributes](#2A3-elements)
+- [2A.3: Semantic HTML](#2A3-elements)
 - [Resources](#resources)
 
 <br>
