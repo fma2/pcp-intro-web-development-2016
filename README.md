@@ -28,9 +28,11 @@ By the end of the course, you’ll be able to create a website, and have a stron
 
 At the conclusion of the course, students should be able to:
 
-- Design and develop basic web pages using HTML and CSS.
-- Design and develop web pages using CSS styles, internal and/or external style sheets.
-- Design and develop web pages using CSS for layout.
+- Explain how the web works
+- Create the structure and style of a website using HTML and CSS
+- Design web pages using CSS for layout and CSS styles, internal and/or external style sheets.
+- Apply responsive design techniques and interactivity to a site using programming fundamentals
+- Know the basic technical vocabulary to communicate with front-end web developers
 
 ####<a id="topics">Topics</a>
 
@@ -50,7 +52,7 @@ Grades will be based on class attendance each day; active participation in class
 <br>
 <hr height="10px">
 
-##<a id="schedule">Class Schedule</a>
+##<a id="schedule">Course </a>
 
 ####<a id="week1">Week 1</a>
 
