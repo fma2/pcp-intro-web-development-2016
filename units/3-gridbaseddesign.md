@@ -65,7 +65,7 @@ Use the links below to jump to a section on this page.
 <br>
 <hr height="10px">
 
-##<a id="4=34-images">3.4: Flexible Media - Images</a>
+##<a id="34-images">3.4: Flexible Media - Images</a>
 
 
 ####3.4a: Flexible Media - Images
