@@ -54,6 +54,7 @@ At the conclusion of the course, students should be able to:
 	- Version Control
 	- Git & Github
 	- JavaScript & jQuery
+- Unit 5: Putting it all together - Final Project
 
 
 ####<a id="grading">Course Grading</a>
