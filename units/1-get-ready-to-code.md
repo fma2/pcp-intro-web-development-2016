@@ -119,4 +119,6 @@ Remember to think of CLI as a mini programming language you need to understand t
 
 ##<a id="resources">Resources </a>
 
-- [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
+- Tools of the Trade - The Inspector
+	- [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
+
