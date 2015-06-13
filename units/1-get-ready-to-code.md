@@ -114,7 +114,9 @@ Remember to think of CLI as a mini programming language you need to understand t
 - Create a DOM tree describing the structure of [this web page](http://pcpsimpletree.neocities.org/).
 
 
-===
+<br>
+<hr height="10px">
+
 ##<a id="resources">Resources </a>
 
 - [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
