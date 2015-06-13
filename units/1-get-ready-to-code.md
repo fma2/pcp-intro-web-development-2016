@@ -75,10 +75,13 @@ Find your shell and practice using the command line - directions below are from 
 > - Create a directory called cli-practice
 > - Create a file in the directory called index.html
 > - Create another file in the directory called mystyles.css
-> - Rename the html file to something else> - Rename the CSS file to something else
- 
+> - Rename the html file to something else
+> - Rename the CSS file to something else
 
-<hr size="30">
+Remember to think of CLI as a mini programming language you need to understand to give your computer instructions.
+
+
+<hr size="20">
 
 ##<a id="15-dom">1.5. Document Object Model</a>
 
