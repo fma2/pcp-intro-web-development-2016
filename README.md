@@ -6,7 +6,7 @@ Use the links below to jump to a section on this page.
 
 - [Course Description](#description)
 	- [Learning Outcomes](#outcomes)
-	- [Topics](#topics)
+	- [Units & Topics](#topics)
 	- [Course Grading](#grading)
 - [Course Schedule](#schedule)
 	- [Week 1](#week1)
@@ -34,17 +34,27 @@ At the conclusion of the course, students should be able to:
 - Apply responsive design techniques and interactivity to a site using programming fundamentals
 - Know the basic technical vocabulary to communicate with front-end web developers
 
-####<a id="topics">Topics</a>
+####<a id="topics">Units & Topics</a>
 
-- Command Line
-- Document Object Model
-- HTML Document Structure
-- HTML Elements, Tags, and Attributes
-- CSS Selectors
-- CSS Positioning
-- Responsive Design
-- Version Control
-- JavaScript & jQuery
+- Unit 1: Get Ready to Code
+	- Command Line
+	- Document Object Model
+- Unit 2A: Introduction to HTML
+	- HTML Document Structure
+	- HTML Elements, Tags, and Attributes
+- Unit 2B: Introduction to CSS
+	- CSS Selectors
+	- CSS Positioning
+- Unit 3: Grid-Based Web Design
+	- Responsive Design
+	- Media Queries
+	- Flexible Media
+	- CSS Frameworks
+- Unit 4: Special Topics
+	- Version Control
+	- Git & Github
+	- JavaScript & jQuery
+
 
 ####<a id="grading">Course Grading</a>
 Grades will be based on class attendance each day; active participation in class, including preparation; various in-class assignments and projects; and a final project, for which you will build a fully functioning website from scratch.
@@ -74,7 +84,7 @@ Grades will be based on class attendance each day; active participation in class
 
 | Unit          | Modules  | Projects |
 | ------------- |-------------|----------|
-| **3**: [Grid Based Web Design]()  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
+| **3**: [Grid Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
 | **4**: [Special Topics]()  | 4.1. Wordpress<br>4.2. Javascript & jQuery|  |
 
 
