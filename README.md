@@ -8,7 +8,7 @@ Use the links below to jump to a section on this page.
 	- [Learning Outcomes](#outcomes)
 	- [Topics](#topics)
 	- [Course Grading](#grading)
-- [Class Schedule](#schedule)
+- [Course Schedule](#schedule)
 	- [Week 1](#week1)
 	- [Week 2](#week2)
 	- [Week 3](#week3)
@@ -52,7 +52,7 @@ Grades will be based on class attendance each day; active participation in class
 <br>
 <hr height="10px">
 
-##<a id="schedule">Course </a>
+##<a id="schedule">Course Schedule</a>
 
 ####<a id="week1">Week 1</a>
 
