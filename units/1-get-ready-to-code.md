@@ -121,4 +121,5 @@ Remember to think of CLI as a mini programming language you need to understand t
 
 - Tools of the Trade - The Inspector
 	- [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
-
+- The Command Line
+	- [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
