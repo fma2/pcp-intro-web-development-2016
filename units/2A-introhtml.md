@@ -6,7 +6,7 @@ Use the links below to jump to a section of this page.
 
 - [2A.1: HTML document structure](#2A1-html-document-structure)
 - [2A.2: Elements, Tags, and Attributes](#2A2-elements)
-- [2A.3: Semantic HTML](#2A3-elements)
+- [2A.3: Semantic HTML](#2A3-semantic)
 - [Resources](#resources)
 
 <br>
@@ -39,7 +39,7 @@ Use the links below to jump to a section of this page.
 
 <br>
 <hr height="10px">
-##<a id="2A3-elements">2A.3: Semantic HTML</a>
+##<a id="2A3-semantic">2A.3: Semantic HTML</a>
 
 
 [Coming Soon!]
