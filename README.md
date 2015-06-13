@@ -58,7 +58,7 @@ Grades will be based on class attendance each day; active participation in class
 | ------------- |-------------|----------|
 | **0**: [Prework](https://github.com/fma2/pcp-intro-web-development/blob/master/units/0-prework.md)  | |  |
 | **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)  | 1.1. Why Programming <br>1.2. How do web apps work? <br>1.3. Explore HTML and CSS <br>1.4. Command Line<br> 1.5. Document Object Model |  |
-| **2A**: [Introduction to HTML]()  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | Build a personal landing page |
+| **2A**: [Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | Build a personal landing page |
 
 ####<a id="week2">Week 2</a>
 
@@ -72,7 +72,7 @@ Grades will be based on class attendance each day; active participation in class
 
 | Unit          | Lessons     | Projects |
 | ------------- |-------------|----------|
-| **3**: [Grid Based Design]()  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
+| **3**: [Grid Based Web Design]()  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
 | **4**: [Special Topics]()  | 4.1. Wordpress<br>4.2. Javascript & jQuery|  |
 
 
