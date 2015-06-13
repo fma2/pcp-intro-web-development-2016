@@ -1,15 +1,23 @@
-#5: Final Project
+#5: Putting it all together - Final Project
 
-Congratulations! You’ve learned enough HTML and CSS to build a fully functioning website from scratch. 
+Congratulations!  We've made it to the final unit: putting it all together! You’ve now learned enough HTML and CSS to build a fully functioning website from scratch. 
 
 Use the links below to jump to a section on this page.
 
-- [Final Project directions](#directions)
-- [Tips for the Final Project](#tips)
-- [Homework submission](#homeworksubmission)
-- [Final Project submission](#projectsubmission) - Due Thursday, July 16, 2015
+- [5.1: Final Project](#51-finalproject)
+	- [Final Project directions](#directions)
+	- [Tips for the Final Project](#tips)
+	- [Homework submission](#homeworksubmission)
+	- [Final Project submission](#projectsubmission) - Due Thursday, July 16, 2015
+- [5.2: How to continue coding](#52-contcoding)
+- [Resources](#resources)
 
-##<a id="directions">Final Project directions</a>
+<br>
+<hr height="10px">
+
+##<a id="51-finalproject">5.1: Final Project</a>
+
+####<a id="directions">Final Project directions</a>
 
 - Step 1: Choose a project: You have wide latitude in the type of website you build. Your website must include at least 4 pages, media, and use modern, valid HTML and CSS. You may choose to use a framework if you like. Some example frameworks include Bootstrap, Foundation, or Skeleton. If you’re not sure what to build, how about: 
 	- A website for an organization, real or fictitious
@@ -40,7 +48,7 @@ Use the links below to jump to a section on this page.
 - Step 6: Present
 	- During the final class on Tues 4/21, you will present your web pages to your peers
 
-##<a id="tips">Tips for the final project</a>
+####<a id="tips">Tips for the final project</a>
 - Wireframe first! 
 - Once you have a wireframe, set up your project with git and push to github
 - Focus first on the layout of your pages. Add a grid to your CSS, then set up boxes with the right sizes
@@ -51,16 +59,16 @@ Use the links below to jump to a section on this page.
 
 
 
-##<a id="homeworksubmission">Homework Submission (by ______ )</a>
+####<a id="homeworksubmission">Homework Submission (by ______ )</a>
 
-Once you are finished with Steps 1-3,  submit your homework to fmm2118@columbia.edu. Your email subject line should be: “<Your Full Name> - Final Project”, e.g., “Ope Bukola - Final Project.” Your submission should include:
+Once you are finished with Steps 1-3,  submit your homework to fmm2118@columbia.edu. Your email subject line should be: “<Your Full Name> - Final Project”, e.g., “fmm2118@columbia.edu - Final Project.” Your submission should include:
 
 - Your wireframes - attachments of photos is fine
 - A link to your project on github
 
-##<a id="projectsubmission">Final Project Submission (by Thurs July 16)</a>
+####<a id="projectsubmission">Final Project Submission (by Thurs July 16)</a>
 
-Send your final project to ope.bukola@gmail.com. Your email subject line should be: “<Your Full Name> - Final Project Submission”, e.g., “Ope Bukola - Final Project Submission.” Your email should include:
+Send your final project to fmm2118@columbia.edu. Your email subject line should be: “<Your Full Name> - Final Project Submission”, e.g., “Farheen Malik - Final Project Submission.” Your email should include:
 
 - A link to your final project hosted on github pages, in the form <yourUsername>.github.io/<yourRepositoryname>
 - A link to your github repository
@@ -68,4 +76,14 @@ Send your final project to ope.bukola@gmail.com. Your email subject line should 
 General questions? Trouble with git or github? Email ______
 Personal questions? Email fmm2118@columbia.edu
 
+<br>
+<hr height="10px">
 
+##<a id="52-contcoding">5.1: How to Continue Coding</a>
+
+- Read: [How to Continue Coding](https://docs.google.com/presentation/d/1HKhZkG0IFW711XaV9zb4bLQJmHlAaxihJpP1maj5qkc/edit?usp=sharing)
+
+
+<br>
+<hr height="10px">
+##<a id="resources">Resources</a>
