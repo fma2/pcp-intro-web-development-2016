@@ -78,7 +78,7 @@ Find your shell and practice using the command line - directions below are from 
 > - Rename the html file to something else> - Rename the CSS file to something else
  
 
-===
+<hr size="30">
 
 ##<a id="15-dom">1.5. Document Object Model</a>
 
