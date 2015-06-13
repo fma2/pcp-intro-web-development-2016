@@ -8,13 +8,15 @@ Use the links below to jump to a section on this page.
 	- [Learning Outcomes](#outcomes)
 	- [Topics](#topics)
 	- [Course Grading](#grading)
-- [Course Schedule](#schedule)
+- [Class Schedule](#schedule)
 	- [Week 1](#week1)
 	- [Week 2](#week2)
 	- [Week 3](#week3)
 	- [Week 4](#week4)
 - [Homework](#homework)
 
+<br>
+<hr height="10px">
 
 ##<a id="description">Course Description</a>
 
@@ -44,6 +46,9 @@ At the conclusion of the course, students should be able to:
 
 ####<a id="grading">Course Grading</a>
 Grades will be based on class attendance each day; active participation in class, including preparation; various in-class assignments and projects; and a final project, for which you will build a fully functioning website from scratch.
+
+<br>
+<hr height="10px">
 
 ##<a id="schedule">Class Schedule</a>
 
@@ -78,9 +83,14 @@ Grades will be based on class attendance each day; active participation in class
 | **5**: [Putting it All Together: Final Project]()  | 5.1. Final Project <br>5.2. How to continue coding  | Final Project |
 
 
+<br>
+<hr height="10px">
 ##<a id="homework">Homework</a>
 
 List of [Homework Assignments]() 
+
+<br>
+<hr height="10px">
 
 ##Course Evaluation
 
