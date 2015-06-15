@@ -41,9 +41,8 @@ Use the links below to jump to a section of this page.
 <hr height="10px">
 ##<a id="2A3-semantic">2A.3: Semantic HTML</a>
 
-
-[Coming soon!]
-
+- Read: [2A.3 - Semantic HTML](https://docs.google.com/presentation/d/1Q9z3_zY-9c8keImrD4owboUGb6eljRqcRjd5dzrWQZ8/edit?usp=sharing).
+- Practice writing semantic HTML elements -- see slide 12 in [2A.3 - Semantic HTML](https://docs.google.com/presentation/d/1Q9z3_zY-9c8keImrD4owboUGb6eljRqcRjd5dzrWQZ8/edit?usp=sharing).
 
 <br>
 <hr height="10px">
