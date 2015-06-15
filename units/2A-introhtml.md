@@ -21,7 +21,7 @@ Use the links below to jump to a section of this page.
 
 ####2A.1b: Project 1 - Landing Page
 
-- Set up the directory structure and add basic content to build a landing page - see slides 5-8 of [[2A.1 - HTML Document Structure](https://docs.google.com/presentation/d/14V9mqnnqLOpVrp0exf-XlNg8IsVmLDqRIDueO0Xlawc/edit?usp=sharing)
+- Set up the directory structure and add basic content to build a landing page - see slides 5-8 of [2A.1 - HTML Document Structure](https://docs.google.com/presentation/d/14V9mqnnqLOpVrp0exf-XlNg8IsVmLDqRIDueO0Xlawc/edit?usp=sharing)
 
 <br>
 <hr height="10px">
