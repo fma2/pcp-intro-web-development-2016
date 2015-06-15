@@ -119,8 +119,12 @@ Remember to think of CLI as a mini programming language you need to understand t
 
 ##<a id="resources">Resources </a>
 
-- Tools of the Trade - The Inspector
-	- [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
-	- [Video: Don't Fear the Browser - Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/html/html) (3:35
-- The Command Line
-	- [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+- Additional Readings
+	- Tools of the Trade - The Inspector
+		- [Introduction to Chrome Developer Tools, Part One](http://www.html5rocks.com/en/tutorials/developertools/part1/#toc-elements)
+	- The Command Line
+		- [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+- Videos
+	- Tools of the Trade - The Inspector
+		- [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
+		- [Video: Don't Fear the Browser - Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/html/html) (3:35 min)
