@@ -13,7 +13,7 @@ Use the links below to jump to a section on this page.
 	- [Week 2](#week2)
 	- [Week 3](#week3)
 	- [Week 4](#week4)
-- [Homework](#homework)
+- [Assignments](#assignments)
 
 <br>
 <hr height="10px">
@@ -73,12 +73,16 @@ Grades will be based on class attendance each day; active participation in class
 | **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)  | 1.1. Why Programming <br>1.2. How do web apps work? <br>1.3. Explore HTML and CSS <br>1.4. Command Line<br> 1.5. Document Object Model |  |
 | **2A**: [Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | Build a personal landing page |
 
+######Refer to [Homework - Week 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week1.md) for details on homework assignments.
+
 ####<a id="week2">Week 2</a>
 
 | Unit          | Modules    | Projects |
 | ------------- |-------------|----------|
 | **2B**: [Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats<br>2B.4. Advanced Positioning|  |
 | **3**: [Grid-Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  |3.1. Responsive Design<br>3.2 Grid-Based Web Design  | Build a 3-page website |
+
+######Refer to [Homework - Week 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week2.md) for details on homework assignments.
 
 
 ####<a id="week3">Week 3</a>
@@ -87,6 +91,8 @@ Grades will be based on class attendance each day; active participation in class
 | ------------- |-------------|----------|
 | **3**: [Grid-Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
 | **4**: [Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)  | 4.3. Version Control Basics<br>4.4. Git & Github<br>4.5. Github Pages |  |
+
+######Refer to [Homework - Week 3](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week3.md) for details on homework assignments.
 
 ####<a id="week4">Week 4</a>
 | Unit          | Modules    | Projects |
@@ -97,16 +103,18 @@ Grades will be based on class attendance each day; active participation in class
 
 <br>
 <hr height="10px">
-##<a id="homework">Homework</a>
+##<a id="assignments">Assignments</a>
 
-List of [Homework Assignments]() 
+Access information on all assignments (homework and projects) [here]().
 
 <br>
 <hr height="10px">
 
-##Course Evaluation
+##<a id="#">Course Evaluation</a>
 
-[Form]() 
+[Coming soon!]
+
+
 
 
  
