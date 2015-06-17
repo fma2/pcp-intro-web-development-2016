@@ -41,11 +41,44 @@ Use the links below to jump to a section of this page.
 <hr height="10px">
 ##<a id="2A3-semantic">2A.3: Semantic HTML</a>
 
+####2A.3a: About Semantic HTML
 - Read: [2A.3 - Semantic HTML](https://docs.google.com/presentation/d/1Q9z3_zY-9c8keImrD4owboUGb6eljRqcRjd5dzrWQZ8/edit?usp=sharing).
 - Practice writing semantic HTML elements -- see slide 12 in [2A.3 - Semantic HTML](https://docs.google.com/presentation/d/1Q9z3_zY-9c8keImrD4owboUGb6eljRqcRjd5dzrWQZ8/edit?usp=sharing).
 
+####2A.3b: Reverse-Engineer a Page
+
+Pair up and reverse-engineer a page!  
+
+- Choose one or, if time allows, do both of the following--
+	1. Without worrying about styling, recreate the [Google](www.google.com) homepage using semantic HTML.
+	2. Reverse-engineer [THIS](https://docs.google.com/drawings/d/1aBNhlbSW8ZBj_STNxqBLOfTEn3aVHy52rYOyb6w7YSI/edit) page!
+- Create a new html document titled: reverse.html.
+- Work with a partner to write HTML that matches the page.
+
+Reflect:
+
+- Did you have to look up any new elements? Which ones?
+- While you were researching, did you identify any new tags?
+	- Did you add styling (colors for font, etc.) ? How might you do that?
+
+####2A.3c: Update your Resume using HTML
+
+Is your resume still in a Word or PDF document somewhere? Pish-posh. You have the skills now to move it to the web!
+
+- Create a new html document titled: resume.html.
+- Choose to find your resume, create your dream resume, or google a stranger’s resume.
+- Use HTML elements to recreate your chosen resume in your HTML document.
+- Add yourself as author and any relevant keywords for the jobseeker.
+- Use appropriate semantic HTML elements (e.g. footer, article, etc.) wherever you can.
+
+Reflect:
+
+- How many elements did you have to use?
+- Why do the semantic HTML tags you used make sense?
+
 <br>
 <hr height="10px">
+
 
 ##<a id="resources">Resources</a>
 
