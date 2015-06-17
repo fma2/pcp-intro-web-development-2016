@@ -3,7 +3,7 @@
 Below is a list of links to information on all homework and projects.  Remember to **submit your assignments by 9 AM on the the due date listed on each page, via the Google Drive link, doc, or folder provided to you**.  
 
 For general questions, reach out to classmates - pcp-htmlcss-summer2015@googlegroups.com.  
-Please let me know if you have any personal questions and/or issues - barnardpcp@farheen.nyc.
+Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 ##Homework
 
