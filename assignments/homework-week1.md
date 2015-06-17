@@ -1,5 +1,7 @@
 #Homework - Week 1
 
+In the assignments below, you will review additional resources that cover what we did in class.  **Submit your assignments by 9 AM on the the due date listed via the Google Drive link, doc, or folder provided to you**.  Please let me know if you have any issues - fmm2118@columbia.edu.
+
 ###Due Thursday, June 25th
 
 ####Review:
@@ -25,10 +27,20 @@
 
 ####Practice:
 
-- Finish Project 1: Add additional content to your landing page.
+- Project 1: Add additional content to your landing page.
 	- HTML elements
 		- A paragraph with some text about you 
 		- A header element containing an image element
 		- An input element for email submission (it won’t actually submit anything yet!)
 		- Anything else that you think will make the page unique to you!
+
+####Reflect
+
+Answer the following questions: 
+
+- In your own words: what is html, and how does it contribute to a web application?
+- In your own words: what is the DOM and why does it matter?
+- What’s the most interesting thing you’ve learned so far?
+- How confident are you feeling in your grasp of class material so far? Are there particular topics/areas in which you would like more help?
+
 
