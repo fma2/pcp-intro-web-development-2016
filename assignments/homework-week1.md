@@ -21,7 +21,7 @@
 - Read - [Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
 	- Answer the following:
 		- What’s the difference between a block and an inline element in HTML? Give at least 3 examples of each. 
-		- We build the structure of our websites using structural, semantic, elements like '<header>', '<nav>', '<section>', '<footer>', etc. How are structural elements displayed? What’s the advantage of using semantic HTML?
+		- We build the structure of our websites using structural, semantic, elements like `<header>`, `<nav>`, `<section>`, `<footer>`, etc. How are structural elements displayed? What’s the advantage of using semantic HTML?
 
 ####Practice:
 
