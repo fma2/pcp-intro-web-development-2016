@@ -86,13 +86,12 @@ Grades will be based on class attendance each day; active participation in class
 | Unit          | Modules  | Projects |
 | ------------- |-------------|----------|
 | **3**: [Grid-Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | Build a Design Framework, Modify a Site with Bootstrap |
-| **4**: [Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)  | 4.1. Wordpress<br>4.2. Javascript & jQuery|  |
-
+| **4**: [Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)  | 4.3. Version Control Basics<br>4.4. Git & Github<br>4.5. Github Pages |  |
 
 ####<a id="week4">Week 4</a>
 | Unit          | Modules    | Projects |
 | ------------- |-------------|----------|
-| **4**: [Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)  | 4.3. Version Control Basics<br>4.4. Git & Github<br>4.5. Github Pages |  |
+| **4**: [Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)  | 4.1. Wordpress<br>4.2. Javascript & jQuery|  |
 | **5**: [Putting it All Together: Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)  | 5.1. Final Project <br>5.2. How to continue coding  | Final Project |
 
 
