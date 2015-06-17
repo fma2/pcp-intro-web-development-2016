@@ -2,9 +2,8 @@
 
 In the assignments below, you will review additional resources that cover what we did in class.  **Submit your assignments by 9 AM on the the due date listed via the Google Drive link, doc, or folder provided to you**.  
 
-For general questions, reach out to classmates - pcp-htmlcss-summer2015
-pcp-htmlcss-summer2015@googlegroups.com.  
-Please let me know if you have any personal questions and/or issues - fmm2118@columbia.edu.
+For general questions, reach out to classmates - pcp-htmlcss-summer2015@googlegroups.com.  
+Please let me know if you have any personal questions and/or issues - barnardpcp@farheen.nyc.
 
 
 ###By Thursday, July 2nd
