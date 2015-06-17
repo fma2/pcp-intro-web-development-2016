@@ -35,7 +35,7 @@ Use the links below to jump to a section on this page.
 	- Set up the shell of your HTML and CSS pages 
 	- Push to github
 
-** When you are done with the above, [submit the homework]()** 
+** When you are done with the above, remember to submit it as homework (due July 9th)** 
 
 - Step 4: Keep Building!
 	- Continue building out your pages
