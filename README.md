@@ -105,7 +105,7 @@ Grades will be based on class attendance each day; active participation in class
 <hr height="10px">
 ##<a id="assignments">Assignments</a>
 
-Access information on all assignments (homework and projects) [here]().
+Access information on all assignments (homework and projects) [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/all-assignments.md).
 
 <br>
 <hr height="10px">
