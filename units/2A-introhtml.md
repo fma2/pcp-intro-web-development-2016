@@ -50,10 +50,10 @@ Use the links below to jump to a section of this page.
 ##<a id="resources">Resources</a>
 
 - From the Book *Learn to Code HTML & CSS* by Shaye Howe
-		- [Shaye Howe: Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
-		- [Shaye Howe: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
-		- [Shaye Howe: Creating Lists](http://learn.shayhowe.com/html-css/creating-lists/)
-		- [Shaye Howe: Organizing Data with Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
+		- [Shay Howe: Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+		- [Shay Howe: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+		- [Shay Howe: Creating Lists](http://learn.shayhowe.com/html-css/creating-lists/)
+		- [Shay Howe: Organizing Data with Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
 - Additional Readings
 	- [W3 Schools: HTML Element Reference](http://www.w3schools.com/tags/default.asp)
 	- [W3 Schools: HTML Tutorial](http://www.w3schools.com/html/default.asp)

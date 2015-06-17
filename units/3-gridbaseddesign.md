@@ -92,4 +92,4 @@ Use the links below to jump to a section on this page.
 ##<a id="resources">Resources</a>
 
 - Responsive Design
-	- [Shaye Howe: Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+	- [Shay Howe: Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
