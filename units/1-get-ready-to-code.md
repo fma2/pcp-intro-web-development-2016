@@ -113,6 +113,10 @@ Remember to think of CLI as a mini programming language you need to understand t
 
 - Create a DOM tree describing the structure of [this web page](http://pcpsimpletree.neocities.org/).
 
+####Extend Your Learning
+
+- Take the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
+
 
 <br>
 <hr height="10px">
