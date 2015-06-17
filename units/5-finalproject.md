@@ -61,20 +61,22 @@ Use the links below to jump to a section on this page.
 
 ####<a id="homeworksubmission">Homework Submission (by ______ )</a>
 
-Once you are finished with Steps 1-3,  submit your homework to fmm2118@columbia.edu. Your email subject line should be: “<Your Full Name> - Final Project”, e.g., “fmm2118@columbia.edu - Final Project.” Your submission should include:
+Once you are finished with Steps 1-3,  submit your homework. 
+
+Your submission should include:
 
 - Your wireframes - attachments of photos is fine
 - A link to your project on github
 
 ####<a id="projectsubmission">Final Project Submission (by Thurs July 16)</a>
 
-Send your final project to fmm2118@columbia.edu. Your email subject line should be: “<Your Full Name> - Final Project Submission”, e.g., “Farheen Malik - Final Project Submission.” Your email should include:
+Submit your final project with the following items:
 
 - A link to your final project hosted on github pages, in the form <yourUsername>.github.io/<yourRepositoryname>
 - A link to your github repository
 
 General questions? Trouble with git or github? Email ______
-Personal questions? Email fmm2118@columbia.edu
+Personal questions? Email barnardpcp@farheen.nyc
 
 <br>
 <hr height="10px">
