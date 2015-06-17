@@ -1,4 +1,4 @@
-#Assignments
+#Homework and Projects
 
 Below is a list of links to information on all homework and projects.  Remember to **submit your assignments by 9 AM on the the due date listed on each page, via the Google Drive link, doc, or folder provided to you**.  
 
