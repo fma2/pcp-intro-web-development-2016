@@ -71,7 +71,7 @@ Grades will be based on class attendance each day; active participation in class
 | ------------- |-------------|----------|
 | **0**: [Prework](https://github.com/fma2/pcp-intro-web-development/blob/master/units/0-prework.md)  | |  |
 | **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)  | 1.1. Why Programming <br>1.2. How do web apps work? <br>1.3. Explore HTML and CSS <br>1.4. Command Line<br> 1.5. Document Object Model |  |
-| **2A**: [Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | Build a personal landing page |
+| **2A**: [Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | [Project 1, Part 1 - Build a personal landing page](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md) |
 
 ######Refer to [Homework - Week 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week1.md) for details on homework assignments.
 
@@ -79,8 +79,8 @@ Grades will be based on class attendance each day; active participation in class
 
 | Unit          | Modules    | Projects |
 | ------------- |-------------|----------|
-| **2B**: [Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats<br>2B.4. Advanced Positioning|  |
-| **3**: [Grid-Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  |3.1. Responsive Design<br>3.2 Grid-Based Web Design  | Build a 3-page website |
+| **2B**: [Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats<br>2B.4. Advanced Positioning| [Project 1, Part 2 - Build a personal landing page](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md) |
+| **3**: [Grid-Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  |3.1. Responsive Design<br>3.2 Grid-Based Web Design  | [Project 2 - Build a 3-Page Website](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md) |
 
 ######Refer to [Homework - Week 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week2.md) for details on homework assignments.
 
