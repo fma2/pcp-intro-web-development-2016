@@ -93,7 +93,7 @@ To see more details, check out [**Week 1 Pacing**](https://github.com/fma2/pcp-i
 
 ####<a id="week4">Week 4 - July 13 to July 16</a>
 
-**Field trip to Foursquare**
+- **Field trip to Foursquare**
 
 | Unit          | Modules    | Homework & Projects |
 | ------------- |-------------|----------|
