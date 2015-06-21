@@ -92,6 +92,9 @@ To see more details, check out [**Week 1 Pacing**](https://github.com/fma2/pcp-i
 
 
 ####<a id="week4">Week 4 - July 13 to July 16</a>
+
+**Field trip to Foursquare**
+
 | Unit          | Modules    | Homework & Projects |
 | ------------- |-------------|----------|
 | **4**: [Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)  | 4.1. Wordpress<br>4.2. Javascript & jQuery|  |
