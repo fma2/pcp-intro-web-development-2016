@@ -43,20 +43,20 @@ Use the links below to jump to a section on this page.
 
 ####1.3a: Tools of the Trade - Text Editors 
 
-- Read slides 1-3: [1.3 Explore HTML/CSS](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit?usp=sharing)
+- Read slides 1-3: [1.3 Explore HTML/CSS](https://docs.google.com/presentation/d/1MZqxCYIMeO-9MZxCp1pkrQb6QyxHnLqAZ-teiZhHYKw/edit?usp=drive_web)
 - Install a text editor. I recommend [Sublime Text](http://www.sublimetext.com/).
 
 ####1.3b: Hack This Page
 
 - Go to [https://goo.gl/s2Wx9G](https://goo.gl/s2Wx9G)
 - Download the folder and save it on your desktop
-- Attempt to make all the changes listed on slide 4 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit#slide=id.g6e36b57d0_033)
+- Attempt to make all the changes listed on slide 4 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1MZqxCYIMeO-9MZxCp1pkrQb6QyxHnLqAZ-teiZhHYKw/edit?usp=drive_web)
 
 ####1.3c: More Hack This Page
 
 + Go to [https://goo.gl/mJTlk6](https://goo.gl/mJTlk6)
 + Download the folder and save it on your desktop
-+ Attempt to make all the changes listed on page 5 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit#slide=id.g6e36b57d0_033)
++ Attempt to make all the changes listed on page 5 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1MZqxCYIMeO-9MZxCp1pkrQb6QyxHnLqAZ-teiZhHYKw/edit?usp=drive_web)
 
 <br>
 <hr height="10px">
