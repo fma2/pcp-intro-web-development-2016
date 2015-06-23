@@ -107,6 +107,15 @@ To see more details, check out [**Week 1 Pacing**](https://github.com/fma2/pcp-i
 
 Access list of all homework assignments and projects [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/all-assignments.md).
 
+
+<br>
+<hr height="10px">
+##<a id="resources">Resources</a>
+
+- [Intro to HTML/CSS 2-Day Course](http://www.teaching-materials.org/htmlcss-1day/)
+- [Google: Made with Code](www.madewithcode.com)
+- [IEEE Trycomputing.org: Online Computing Education Tools](http://www.trycomputing.org/resources)
+
 <br>
 <hr height="10px">
 
