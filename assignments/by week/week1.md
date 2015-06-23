@@ -19,7 +19,7 @@ This week we will work on getting ready to code and HTML.
 
 ###Tuesday, June 23
 
-- Warm-up Activity
+- [Warm-up Activity](https://docs.google.com/presentation/d/1WSz8UBLOg_FuN_ET1hYWiYkHKDU-p8kbhVR3f77qHPQ/edit?usp=sharing)
 - [Unit 1 - Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)
 	- [1.3: Explore HTML / CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md#13-explore)
 		- 1.3c: Activity 2 - More Hack this Page
@@ -35,7 +35,7 @@ Homework - [due Thursday, June 25](https://github.com/fma2/pcp-intro-web-develop
 
 ###Thursday, June 25
 
-- Warm-up Activity
+- [Warm-up Activity](https://docs.google.com/presentation/d/1WSz8UBLOg_FuN_ET1hYWiYkHKDU-p8kbhVR3f77qHPQ/edit?usp=sharing)
 - [Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
 	- [2A.1: HTML Document Structure](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md#2A1-html-document-structure)
 		- 2A.1a: Presentation - HTML Document Structure
@@ -46,7 +46,7 @@ Homework - [due Thursday, June 25](https://github.com/fma2/pcp-intro-web-develop
 
 ###Friday, June 26
 
-- Warm-up Activity
+- [Warm-up Activity](https://docs.google.com/presentation/d/1WSz8UBLOg_FuN_ET1hYWiYkHKDU-p8kbhVR3f77qHPQ/edit?usp=sharing)
 - [Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md#2A3-semantic)
 	- 2A.3: Semantic HTML
 	- 2A.3a: About Semantic HTML

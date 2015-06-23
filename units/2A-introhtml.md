@@ -92,6 +92,7 @@ Reflect:
 	- [W3 Schools: HTML Tutorial](http://www.w3schools.com/html/default.asp)
 	- [Dive into HTML5 - Intro](http://diveintohtml5.info/index.html)
 	- [Dive into HTML5 - No. 3, What does it all mean?](http://diveintohtml5.info/semantics.html)
+	- [HTML Goodies - Web Developer Class: Learn the Basic HTML Tags!](http://www.htmlgoodies.com/primers/html/article.php/3478151/Web-Developer-Class-Learn-the-Basic-HTML-Tags.htm)
 	- Semantic HTML
 		- [Why Use Semantic HTML?](http://webdesign.about.com/od/htmltags/a/why-semantic-html.htm)
 		- [Semantic Code: What? Why? How?](https://boagworld.com/dev/semantic-code-what-why-how/)
