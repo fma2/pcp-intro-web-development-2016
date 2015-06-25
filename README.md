@@ -60,6 +60,18 @@ At the conclusion of the course, students should be able to:
 ####<a id="grading">Course Grading</a>
 Grades will be based on class attendance each day; active participation in class, including preparation; various in-class assignments and projects; and a final project, for which you will build a fully functioning website from scratch.
 
+######Grade Breakdown
+|  | % of grade |
+| ------------- |-------------|
+|Attendance | 5% |
+|Homework | 15% |
+|Project 1| 15% |
+|Project 2| 15% |
+|Class Participation** * **| 20%|
+|Final Project| 30% |
+
+*** * **"Class Participation" includes active participation in class discussion and all in-class assignments that are not Project 1, Project 2, or the Final Project*
+
 <br>
 <hr height="10px">
 
