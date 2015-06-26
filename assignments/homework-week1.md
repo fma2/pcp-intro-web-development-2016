@@ -50,6 +50,18 @@ Add:
 	- Recent work
 	- Your skills
 
+
+**Optional Practice: Update Your Resume**
+
+Is your resume still in a Word or PDF document somewhere? Pish-posh. You have the skills now to move it to the web!
+
+- Create a new html document titled: resume.html.
+- Choose to find your resume, create your dream resume, or google a stranger’s resume.
+- Use HTML elements to recreate your chosen resume in your HTML document.
+- Add yourself as author and any relevant keywords for the jobseeker.
+- Use appropriate semantic HTML elements (e.g. footer, article, etc.) wherever you can.
+
+
 ####Reflect
 
 Answer the following questions: 
