@@ -30,12 +30,25 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 ####Practice:
 
-- Project 1: Add additional content to your landing page.
-	- HTML elements
-		- A paragraph with some text about you 
-		- A header element containing an image element
-		- An input element for email submission (it won’t actually submit anything yet!)
-		- Anything else that you think will make the page unique to you!
+**Project 1**: If you didn't finish in class, make sure you add additional content to your landing page.
+
+Scenario: Your top choice for college loves that you can code and wants to see some of your work.  
+
+Make the landing page you started in a previous lesson all about you.  Think about what you can include, and add content (see the next slide for details)!
+
+What is your background?  What are your accomplishments? What are your hobbies?  What else are you proud of?
+
+Add: 
+
+- A header element containing an image element
+- An input element for email submission (it won’t actually submit anything yet!)
+- Content about you using at least 6 different elements.  For example, use <p> to introduce yourself
+- Content reviews the following information about you:
+	- Your name and picture
+	- A little bit about who you are
+	- Your contact details (Twitter handle, email, etc.)
+	- Recent work
+	- Your skills
 
 ####Reflect
 
