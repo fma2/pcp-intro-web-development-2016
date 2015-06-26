@@ -65,12 +65,11 @@ Grades will be based on class attendance each day; active participation in class
 | ------------- |-------------|
 |Attendance | 5% |
 |Homework | 15% |
-|Project 1| 15% |
-|Project 2| 15% |
+|Projects | 30% |
 |Class Participation**| 20%|
 |Final Project| 30% |
 
-***"Class Participation" includes active participation in class discussion and all in-class assignments that are not Project 1, Project 2, or the Final Project*
+***"Class Participation" includes active participation in class discussion and all in-class assignments that are not Projects 1 & 2 or the Final Project*
 
 <br>
 <hr height="10px">
