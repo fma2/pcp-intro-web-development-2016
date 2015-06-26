@@ -61,6 +61,7 @@ Is your resume still in a Word or PDF document somewhere? Pish-posh. You have th
 - Add yourself as author and any relevant keywords for the jobseeker.
 - Use appropriate semantic HTML elements (e.g. footer, article, etc.) wherever you can.
 
+Don't forget: when you are done, upload it to your Google Drive folder!
 
 ####Reflect
 
