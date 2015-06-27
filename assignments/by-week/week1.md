@@ -42,15 +42,16 @@ Homework - [due Thursday, June 25](https://github.com/fma2/pcp-intro-web-develop
 		- 2A.1b: Project 1 - Landing Page
 	- [2A.2: Elements, Tags, and Attributes](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md#2A2-elements)
 		- 2A.2a: HTML Elements & Tags
-		- 2A.2b: Project 1, continued - Landing Page
-
+		- 2A.3b: Reverse-Engineer a Page
+		
 ###Friday, June 26
 
 - [Warm-up Activity](https://docs.google.com/presentation/d/1WSz8UBLOg_FuN_ET1hYWiYkHKDU-p8kbhVR3f77qHPQ/edit?usp=sharing)
 - [Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md#2A3-semantic)
 	- 2A.3: Semantic HTML
 	- 2A.3a: About Semantic HTML
-	- 2A.3b: Activity - Reverse-Engineer a Webpage
-	- 2A.3c: Activity - Update your Resume
+	- 2A.3b: Activity - Finish Reverse-Engineering a Webpage
+	- 2A.2b: Project 1, continued - Landing Page
+	- If time allows, 2A.3c: Activity - Update your Resume
 
 Homework - [due Monday, June 29](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week1.md#due-monday-june-29th)
