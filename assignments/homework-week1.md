@@ -42,7 +42,8 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 > - A header element containing an image element
 - An input element for email submission (it won’t actually submit anything yet!)
-- Content about you using at least 6 different elements.  For example, use `<p>` to introduce yourself.  Elements that *do not*count for the 6: `<head>`, `<body>`, `<html>`, `<header>`, and `<input>`.  
+- Content about you using at least 6 different elements.  For example, use `<p>` to introduce yourself.  
+	- Elements that will *not* count for the 6: `<head>`, `<body>`, `<html>`, `<header>`, and `<input>`.  
 - Content reviews the following information about you:
 	- Your name and picture
 	- A little bit about who you are
