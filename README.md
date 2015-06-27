@@ -84,7 +84,7 @@ Grades will be based on class attendance each day; active participation in class
 | **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)  | 1.1. Why Programming <br>1.2. How do web apps work? <br>1.3. Explore HTML and CSS <br>1.4. Command Line<br> 1.5. Document Object Model | *Homework*: review developer tools, practice the command line. <br>For details, see [Homework - Week 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week1.md) |
 | **2A**: [Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | *Homework*: get to know HTML. <br>For details, see [Homework - Week 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week1.md)<br><br>*Project*: [Project 1, Part 1: Build a personal landing page](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md)  |
 
-To see more details, check out [**Week 1 Pacing**](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/by-week/week1.md).
+To see pacing, check out [**Week 1 Pacing**](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/by-week/week1.md).
 
 ####<a id="week2">Week 2 - June 29 to July 2</a>
 
@@ -92,6 +92,9 @@ To see more details, check out [**Week 1 Pacing**](https://github.com/fma2/pcp-i
 | ------------- |-------------|----------|
 | **2B**: [Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)  |  2B.1. CSS Selectors <br> 2B.2. CSS Positioning - The Box Model <br>2B.3. CSS Positioning - Floats<br>2B.4. Advanced Positioning| *Homework*: review CSS rules.  <br>For details, see [Homework - Week 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week2.md)<br><br>*Project*: [Project 1, Part 2 - Build a personal landing page](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md) |
 | **3**: [Grid-Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  |3.1. Responsive Design<br>3.2 Grid-Based Web Design  | *Project*: [Project 2 - Build a 3-Page Website](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md) |
+
+To see pacing, check out [**Week 2 Pacing**](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/by-week/week2.md).
+
 
 ####<a id="week3">Week 3 - July 6 to July 10</a>
 
@@ -126,6 +129,9 @@ Access list of all homework assignments and projects [here](https://github.com/f
 - [Intro to HTML/CSS 2-Day Course](http://www.teaching-materials.org/htmlcss-1day/)
 - [Google: Made with Code](www.madewithcode.com)
 - [IEEE Trycomputing.org: Online Computing Education Tools](http://www.trycomputing.org/resources)
+- [Udacity: Intro to HTML/CSS course](https://www.udacity.com/course/viewer#!/c-ud304/l-2617868617/e-2771378561/m-2771378562)
+- [Code Academy course, HTML/CSS](http://www.codecademy.com/en/tracks/web)
+- [Code Avengers course, HTML/CSS](http://www.codeavengers.com/web/100) 
 
 <br>
 <hr height="10px">
