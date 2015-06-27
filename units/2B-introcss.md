@@ -89,7 +89,7 @@ Use the links below to jump to a section on this page.
 
 ####2B.4b: Project 2 - Build a 3-Page Website
 
-[Coming Soon!]
+See directions [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md)
 
 <br>
 <hr height="10px">
