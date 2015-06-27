@@ -50,6 +50,31 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 	- Recent work
 	- Your skills
 
+- **Optional Practice: Re-examine Webpage Structure**
+
+> - Download [this simple incomplete webpage](https://drive.google.com/file/d/0B2oPzQ6clzPRSEdxQWdkYW5INGM/view?usp=sharing)
+- Open the page in Sublime Text 2.  You can do this by first finding where you downloaded the page on your computer (once it is downloaded off of Google Drive, don't download it again), then right-click and open using Sublime Text 2.  
+- Also open this page in a browser. You can do this by dragging and dropping the file into your browser of choice or by right-clicking and opening using your browser software.
+- What do you see?
+
+- Next, between the <html> and <body> tags, include:
+	- An opening <head> tag
+	- An opening and closing <title> tag with the content “My first webpage!”
+	- A closing </head> tag
+	- Inside your <head>, add a <meta>* tag.
+	- Inside your opening <meta> tag, add the following attributes:
+		- name=”author”
+		- content=”Your_Name_Here”
+		- *Note: <meta> tags are self-closing and do not need a closing tag!
+	- Open your page in the browser. How has your page changed?
+
+- Next, add another <meta> tag to your <head> element. Give it the attributes name=”keywords” and content=”learn to code, codelift, first site”.
+
+- Reflect
+	- When you refresh the page with your new tags, what changes? What shows up on the page and what doesn’t?
+	- Given these changes, what is the difference between the <head> and the <body>?
+	- What’s the purpose of the <meta> element? (Do some research and find out!)
+
 
 - **Optional Practice: Update Your Resume**
 
