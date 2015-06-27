@@ -84,7 +84,7 @@ Grades will be based on class attendance each day; active participation in class
 | **1**: [Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)  | 1.1. Why Programming <br>1.2. How do web apps work? <br>1.3. Explore HTML and CSS <br>1.4. Command Line<br> 1.5. Document Object Model | *Homework*: review developer tools, practice the command line. <br>For details, see [Homework - Week 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week1.md) |
 | **2A**: [Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)  | 2A.1. HTML Document Structure <br> 2A.2. Tags, elements, attributes<br> 2A.3. Semantic HTML | *Homework*: get to know HTML. <br>For details, see [Homework - Week 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week1.md)<br><br>*Project*: [Project 1, Part 1: Build a personal landing page](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md)  |
 
-To see more details, check out [**Week 1 Pacing**](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/by%20week/week1.md).
+To see more details, check out [**Week 1 Pacing**](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/by-week/week1.md).
 
 ####<a id="week2">Week 2 - June 29 to July 2</a>
 
