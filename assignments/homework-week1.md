@@ -30,7 +30,7 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 ####Practice:
 
-- **Project 1**: If you didn't finish in class, make sure you add additional content to your landing page.
+- **Project 1**: If you didn't finish in class, make sure you finish adding additional content to your landing page.
 
 > Scenario: Your top choice for college loves that you can code and wants to see some of your work. 
 >
@@ -42,7 +42,7 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 > - A header element containing an image element
 - An input element for email submission (it won’t actually submit anything yet!)
-- Content about you using at least 6 different elements.  For example, use <p> to introduce yourself
+- Content about you using at least 6 different elements.  For example, use `<p>` to introduce yourself.  Elements that *do not*count for the 6: `<head>`, `<body>`, `<html>`, `<header>`, and `<input>`.  
 - Content reviews the following information about you:
 	- Your name and picture
 	- A little bit about who you are
@@ -63,16 +63,16 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 	- Inside your `<head>`, add a `<meta>`* tag.
 	- Inside your opening `<meta>` tag, add the following attributes:
 		- name=”author”
-		- content=”Your_Name_Here”
+		- content=”*Your_Name_Here*”
 		- *Note: `<meta>` tags are self-closing and do not need a closing tag!
 	- Open your page in the browser. How has your page changed?
 
-> - Next, add another `<meta>` tag to your `<head>` element. Give it the attributes name=”keywords” and content=”learn to code, codelift, first site”.
+> - Next, add another `<meta>` tag to your `<head>` element. Give it the attributes name=”keywords” and content=”learn to code, pcp, first site”.
 
 >- Reflect
 	- When you refresh the page with your new tags, what changes? What shows up on the page and what doesn’t?
 	- Given these changes, what is the difference between the <head> and the `<body>`?
-	- What’s the purpose of the <meta> element? (Do some research and find out!)
+	- What’s the purpose of the `<meta>` element? (Do some research and find out!)
 
 
 - **Optional Practice: Update Your Resume**
