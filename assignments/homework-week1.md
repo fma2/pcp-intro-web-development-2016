@@ -51,17 +51,19 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 	- Your skills
 
 
-**Optional Practice: Update Your Resume**
+- **Optional Practice: Update Your Resume**
 
-Is your resume still in a Word or PDF document somewhere? Pish-posh. You have the skills now to move it to the web!
+> Is your resume still in a Word or PDF document somewhere? Pish-posh. You have the skills now to move it to the web!
 
-- Create a new html document titled: resume.html.
+> - Create a new html document titled: resume.html.
 - Choose to find your resume, create your dream resume, or google a stranger’s resume.
 - Use HTML elements to recreate your chosen resume in your HTML document.
 - Add yourself as author and any relevant keywords for the jobseeker.
 - Use appropriate semantic HTML elements (e.g. footer, article, etc.) wherever you can.
 
-Don't forget: when you are done, upload it to your Google Drive folder!
+> Don't forget: when you are done, upload it to your Google Drive folder!
+
+- Look over the [list of additional resources for Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md#resources).  Read or watch any that cover information on which you need more practice or about which you would like to learn more.
 
 ####Reflect
 
