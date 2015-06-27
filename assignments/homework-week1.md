@@ -54,25 +54,24 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 > - Download [this simple incomplete webpage](https://drive.google.com/file/d/0B2oPzQ6clzPRSEdxQWdkYW5INGM/view?usp=sharing)
 - Open the page in Sublime Text 2.  You can do this by first finding where you downloaded the page on your computer (once it is downloaded off of Google Drive, don't download it again), then right-click and open using Sublime Text 2.  
-- Also open this page in a browser. You can do this by dragging and dropping the file into your browser of choice or by right-clicking and opening using your browser software.
-- What do you see?
+- Also open this page in a browser. You can do this by dragging and dropping the file into your browser of choice or by right-clicking and opening using your browser software. What do you see?
 
-- Next, between the <html> and <body> tags, include:
-	- An opening <head> tag
-	- An opening and closing <title> tag with the content “My first webpage!”
-	- A closing </head> tag
-	- Inside your <head>, add a <meta>* tag.
-	- Inside your opening <meta> tag, add the following attributes:
+> - Next, between the <html> and <body> tags, include:
+	- An opening `<head>` tag
+	- An opening and closing `<title>` tag with the content “My first webpage!”
+	- A closing `</head>` tag
+	- Inside your `<head>`, add a `<meta>`* tag.
+	- Inside your opening `<meta>` tag, add the following attributes:
 		- name=”author”
 		- content=”Your_Name_Here”
-		- *Note: <meta> tags are self-closing and do not need a closing tag!
+		- *Note: `<meta>` tags are self-closing and do not need a closing tag!
 	- Open your page in the browser. How has your page changed?
 
-- Next, add another <meta> tag to your <head> element. Give it the attributes name=”keywords” and content=”learn to code, codelift, first site”.
+> - Next, add another `<meta>` tag to your `<head>` element. Give it the attributes name=”keywords” and content=”learn to code, codelift, first site”.
 
-- Reflect
+>- Reflect
 	- When you refresh the page with your new tags, what changes? What shows up on the page and what doesn’t?
-	- Given these changes, what is the difference between the <head> and the <body>?
+	- Given these changes, what is the difference between the <head> and the `<body>`?
 	- What’s the purpose of the <meta> element? (Do some research and find out!)
 
 
@@ -88,15 +87,16 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 > Don't forget: when you are done, upload it to your Google Drive folder!
 
-- Look over the [list of additional resources for Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md#resources).  Read or watch any that cover information on which you need more practice or about which you would like to learn more.
 
 ####Reflect
 
-Answer the following questions: 
+- Look over the [list of additional resources for Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md#resources).  Read or watch any that cover information on which you need more practice or about which you would like to learn more.
 
-- In your own words: what is html, and how does it contribute to a web application?
-- In your own words: what is the DOM and why does it matter?
-- What’s the most interesting thing you’ve learned so far?
-- How confident are you feeling in your grasp of class material so far? Are there particular topics/areas in which you would like more help?
+- Answer the following questions: 
+
+	- In your own words: what is html, and how does it contribute to a web application?
+	- In your own words: what is the DOM and why does it matter?
+	- What’s the most interesting thing you’ve learned so far?
+	- How confident are you feeling in your grasp of class material so far? Are there particular topics/areas in which you would like more help?
 
 
