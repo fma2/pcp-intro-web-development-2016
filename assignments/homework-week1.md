@@ -74,7 +74,8 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 	- When you refresh the page with your new tags, what changes? What shows up on the page and what doesn’t?
 	- Given these changes, what is the difference between the <head> and the `<body>`?
 	- What’s the purpose of the `<meta>` element? (Do some research and find out!)
-
+	
+> Don't forget: when you are done, upload it to your Google Drive folder!
 
 - **Optional Practice: Update Your Resume**
 
