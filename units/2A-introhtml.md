@@ -96,7 +96,6 @@ Reflect:
 	- [Open Tech School - The template structure](http://opentechschool.github.io/html-css-beginners/en/core/structure.html)
 	- [Open Tech School - HTML5 Structure and Starter CSS](http://opentechschool.github.io/html-css-beginners/en/core/portfolio.html)
 	- [HTML Tag Cheat Sheet](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
-
 	- Semantic HTML
 		- [Why Use Semantic HTML?](http://webdesign.about.com/od/htmltags/a/why-semantic-html.htm)
 		- [Semantic Code: What? Why? How?](https://boagworld.com/dev/semantic-code-what-why-how/)
@@ -106,6 +105,23 @@ Reflect:
 - Videos
 	- [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/html/html) (3:35)
 	- [Don't Fear Starting from Scratch Part 1: HTML](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
+	- HTML Intro - [slides](http://www.teaching-materials.org/htmlcss-1day/html-basics/slides.html#slide1) & [video](https://www.youtube.com/watch?v=b2Lzy10gkGE)
+		- [Video: Text Formatting](http://www.youtube.com/watch?v=Gtgy4T3Vczg)
+		- [Video: Images](http://www.youtube.com/watch?v=aQuupU0nx_c)
+		-	[Video: Links](https://www.youtube.com/watch?v=NHversIxslQ)
+		-	[Video: Comments & Readability](https://www.youtube.com/watch?v=f-Xi7vCn2BI)
+		-	[Video: Developing/Debugging](https://www.youtube.com/watch?v=S5Anao925CU)
+	- HTML Tables - [slides](http://www.teaching-materials.org/htmlcss-1day/html-tables/slides.html) & [video](https://www.youtube.com/watch?v=A2Skq-y8qEM)
+	- HTML Embeds [slides](http://www.teaching-materials.org/htmlcss-1day/html-embeds/slides.html#slide1)
+		-	[Video: Iframes](https://www.youtube.com/watch?v=KmswAAyWMVs)
+		-	[Video: Multimedia](https://www.youtube.com/watch?v=oYnYjoeZ9RM)
+	- HTML Forms [slides](http://www.teaching-materials.org/htmlcss-1day/html-forms/slides.html#slide1)
+		-	[Video: Form Basics](https://www.youtube.com/watch?v=g5Feoodp5q0)
+		-	[Video: Form Fields](http://www.youtube.com/watch?v=-IrqxNwot3E)
+	-	HTTP [slides](http://www.teaching-materials.org/htmlcss-1day/html-http/slides.html) & [video](http://www.youtube.com/watch?v=6BzbCUW4B6Y)
+	-	History of HTML  [slides](http://www.teaching-materials.org/htmlcss-1day/html-history/slides.html) & [video](https://www.youtube.com/watch?v=9AlQO8MiNOw)
+
+
 
 
 
