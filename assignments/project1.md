@@ -4,6 +4,8 @@ For Project 1, you will create your own landing page!
 
 ![Landing Page Sample](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/2Aproject1-landingpage1.png)
 
+Once it is submitted, [here is the rubric]() on which it will be graded.
+
 ##Part 1 - HTML 
 
 ####First step: directory structure
@@ -39,7 +41,7 @@ Questions to consider: What is your background?  What are your accomplishments? 
 - Add:
 	- Header element containing an image element
 	- Input element for the email submission
-	- Content about you using at least 6 different elements. For example, use <p> to introduce yourself.
+	- Content about you using at least 6 different elements. For example, use `<p>` to introduce yourself.
 		- Elements that will not count for the 6: `<head>`, `<body>`, `<html>`, `<header>`, and `<input>`.
 	- Content reviews the following information about you:
 		- Your name and picture, a little bit about who you are, your contact details (Twitter handle, email, etc.), recent work, and your skills
