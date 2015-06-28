@@ -13,6 +13,7 @@ This week we will work on CSS and grid-based design.
 		- 2B.2a: Presentation - The Box Model
 		- 2B.2b: Activity - Boxifying Design
 
+Homework - Finish Project 1[]
 
 ###Tuesday, June 30
 
