@@ -2,7 +2,7 @@
 
 For Project 1, you will create your own landing page!
 
-![Landing Page Sample](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/2Aproject1-landingpage1.png)
+![Landing Page Sample](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/2Aproject1-landingpage1.png)
 
 ##Part 1 - HTML 
 
@@ -20,32 +20,47 @@ HTML Files, CSS Files, Images, Scripts, etc.
 - Save it as index.html in your landing directory
 - Open index.html in Chrome
 
+![Basic Structure](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/2A1htmldocstructure-codesnippet1.png)
+
 ####Add more content
 
 - In the body section of your landing page, add a few sentences with some text about you.
 
+![Basic Structure with some content](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/2A2htmlelements-codesnippet1.png)
+
 ####Add even more: tags, elements, and attributes
 
+Scenario: Your top choice for college loves that you can code and wants to see some of your work. 
+
+Make the landing page you started all about you.  Think about what you can include, and add content (see the next slide for details)!
+
+Questions to consider: What is your background?  What are your accomplishments? What are your hobbies?  What else are you proud of?
+
 - Add:
-	- Input element for email submission
-	- A header element containing and image
-	- 3-5 more elements with text about you.  
+	- Header element containing an image element
+	- Input element for the email submission
+	- Content about you using at least 6 different elements. For example, use <p> to introduce yourself.
+		- Elements that will not count for the 6: `<head>`, `<body>`, `<html>`, `<header>`, and `<input>`.
+	- Content reviews the following information about you:
+		- Your name and picture, a little bit about who you are, your contact details (Twitter handle, email, etc.), recent work, and your skills
+
 
 ##Part 2 - CSS
 
 ####Create and link a stylesheet
 
-- In Sublime, open a new file and save it in your directory as styles.css
-- Add the following:
+- In Sublime, if you do not already have a css file for your project - open a new file and save it in your directory as styles.css
+- If you do have a css file, open it in Sublime
+- Add the following: 
 
-```css
-body {
-	text-align: center; 
-}
-```
-- Add a link in the `<head>` of each HTML page to connect the stylesheet.
+	```css
+	body{
+  	text-align: center; }
+  ```
 
-```
+- Connect your CSS file to your index.html page in the `<head>` tag: 
+
+```html
 <link rel=”stylesheet” href=”styles.css”>
 ```
 
@@ -56,6 +71,9 @@ body {
 	- Header image:
 		- use border-radius to get the rounded image effect
 		- use height and width to resize the image (try starting with 200px)
-	- 3-5 more CSS rules
+	- 10 total CSS rules
+	- Use ID in at least one CSS rule
+	- Use class in at least one CSS rule 
+
 
 
