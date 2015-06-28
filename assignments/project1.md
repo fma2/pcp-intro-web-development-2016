@@ -4,7 +4,7 @@ For Project 1, you will create your own landing page!
 
 ![Landing Page Sample](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/2Aproject1-landingpage1.png)
 
-Once it is submitted, [here is the rubric]() on which it will be graded.
+Once it is submitted, [here is the rubric](https://docs.google.com/spreadsheets/d/1B_hwd9JP8vEuxYJCNLPd7hFa7yzqSAFZpgMk0dCV4PI/edit?usp=sharing) on which it will be graded.
 
 ##Part 1 - HTML 
 
