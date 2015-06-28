@@ -23,8 +23,9 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 ##Projects
 
 - ####Project 1
-	- [Part 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md#part-1---html) - in-class assignment, due **Monday, July 29th** 
+	- [Part 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md#part-1---html) - in-class assignment, due **Monday, June 29th** 
 	- [Part 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md#part-2---css) - in-class assignment, due **Tuesday, June 30th**
+	- Complete project due Tuesday, June 30th, 9 AM
 
 - ####[Project 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md) - in-class assignment, due **Monday, July 6th**
 
