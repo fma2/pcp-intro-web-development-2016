@@ -88,8 +88,8 @@ Validate your HTML and CSS to check for errors.  Follow the links listed below, 
 
 ####How to submit
 
-- Upload your Project 1 folder to your PCP Intro to Web Development Google Drive folder. 
-- Open the folder you uploaded (with the files for Project 1).
+- Upload your "landing" folder to your PCP Intro to Web Development Google Drive folder. 
+- Open the folder you uploaded.
 - Click the share icon in the top-right ![Share Icon](https://lh3.ggpht.com/wT7L2ASU5dabFd038gIVuFdXciuesFY4aN5fdGkl1Yf0in0G5ez16R63xGtBAg=w18-h18)
 - In the "Share with Others" box that appears, select "Advanced" in the bottom right.  
 - Copy the "Link to share" link.
