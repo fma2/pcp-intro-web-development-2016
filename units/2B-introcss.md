@@ -22,17 +22,7 @@ Use the links below to jump to a section on this page.
 ####2B.1b: Project 1, continued - Add CSS to Landing Page
 
 
-- Finish the Landing Page project.  Refer to directions on slides 15-17 in [2B.1 - CSS Selectors](https://docs.google.com/presentation/d/1Gs9I608u4gGIy3oJIAJmLUXduax05i8d0vvIsdbaDlM/edit?usp=sharing)
-
-> - Add CSS to your project
-> - Connect your CSS file to your index.html page
-> - Change the page to be a page that is about you.  You will need to add
-> 	- Two images, one for the headshot and another for background
-> 	- HTML elements 
-> 		- Header element containing an image element
->		- Input element for the email submission 
->	- CSS
->		- Add a background image to the body 
+- Finish the Landing Page project.  Refer to directions [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md#part-2---css) or in [2B.1 - CSS Selectors](https://docs.google.com/presentation/d/1Gs9I608u4gGIy3oJIAJmLUXduax05i8d0vvIsdbaDlM/edit?usp=sharing).
 
 
 <br>
