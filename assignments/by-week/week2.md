@@ -13,7 +13,7 @@ This week we will work on CSS and grid-based design.
 		- 2B.2a: Presentation - The Box Model
 		- 2B.2b: Activity - Boxifying Design
 
-Homework - Finish Project 1[]
+Homework - Finish [Project 1](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md)
 
 ###Tuesday, June 30
 
