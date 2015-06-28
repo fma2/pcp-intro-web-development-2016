@@ -86,9 +86,15 @@ See directions [here](https://github.com/fma2/pcp-intro-web-development/blob/mas
 
 ##<a id="resources">Resources</a>
 
-- CSS Selectors
-	- [Video: Don't Fear Starting from Scratch Part 2: CSS](http://www.dontfeartheinternet.com/css/don%E2%80%99t-fear-starting-from-scratch-2)
-- Positioning Content with Floats
-	- [CSS Tricks - All About Floats](https://css-tricks.com/all-about-floats/)
-	- [Floatutorial](http://css.maxdesign.com.au/floatutorial/)
+- Readings
+	- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+	- CSS Selectors
+		- [CSS Tricks - How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
+	- Positioning Content with Floats
+		- [CSS Tricks - All About Floats](https://css-tricks.com/all-about-floats/)
+		- [Floatutorial](http://css.maxdesign.com.au/floatutorial/)
+- Videos
+	- [Udacity - HTML-CSS-DOM](https://www.youtube.com/watch?t=152&v=tSv2KIF7uE4)
+	- [Udacity: Boxes, Grids, and Rules](https://www.youtube.com/watch?v=fvtm9lK-JM0)
+	- [Don't Fear Starting from Scratch Part 2: CSS](http://www.dontfeartheinternet.com/css/don%E2%80%99t-fear-starting-from-scratch-2)
 	
