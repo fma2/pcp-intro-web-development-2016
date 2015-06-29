@@ -99,10 +99,12 @@ See directions [here](https://github.com/fma2/pcp-intro-web-development/blob/mas
 	- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 	- CSS Selectors
 		- [CSS Tricks - How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
+		- [Selectutorial](http://css.maxdesign.com.au/selectutorial/rule.htm)
 	- Positioning Content with Floats
 		- [CSS Tricks - All About Floats](https://css-tricks.com/all-about-floats/)
 		- [Floatutorial](http://css.maxdesign.com.au/floatutorial/)
-- Videos
+- Presentations & Videos
+	- CSS Selectors - [slides](http://www.teaching-materials.org/htmlcss-1day/css-selectors/slides.html#slide1) & [video](https://www.youtube.com/watch?v=wQXvat7IHmk)
 	- [Udacity - HTML-CSS-DOM](https://www.youtube.com/watch?t=152&v=tSv2KIF7uE4)
 	- [Udacity: Boxes, Grids, and Rules](https://www.youtube.com/watch?v=fvtm9lK-JM0)
 	- [Don't Fear Starting from Scratch Part 2: CSS](http://www.dontfeartheinternet.com/css/don%E2%80%99t-fear-starting-from-scratch-2)
