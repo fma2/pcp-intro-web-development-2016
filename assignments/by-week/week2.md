@@ -19,9 +19,10 @@ Homework - Finish [Project 1](https://github.com/fma2/pcp-intro-web-development/
 
 - [Warm-up Activity](https://docs.google.com/presentation/d/1WSz8UBLOg_FuN_ET1hYWiYkHKDU-p8kbhVR3f77qHPQ/edit?usp=sharing)
 - [Unit 2B: Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)
-	- [2B.3: CSS Positioning Content with Floats](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md#2B3-float)
-		- 2B.3a: Presentation - Positioning Contents with Floats
-		- 2B.3b: Activity - Practice Floats
+	- [2B.3: CSS Positioning](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md#2B3-float)
+		- 2B.3a: Presentation and Practice - Positioning Content 
+		- 2B.3b: Presentation - Positioning Contents with Floats
+		- 2B.3c: Activity - Practice Floats
 	- [2B.4: Advanced Positioning](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md#2B4-advanced)
 		- 2B.4a: Presentation - Advance Positioning
 		- 2B.4b: Project 2 - Build a 3-Page Website
