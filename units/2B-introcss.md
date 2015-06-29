@@ -60,8 +60,6 @@ Use the links below to jump to a section on this page.
 		- The sheep should be around the bottom left, the cow should be on the horizon, the dude should be dancing in the middle, the tree should be on the front right, and the sun should be around the upper right.
 	- As a bonus, position a picture of your face on top of the dude, and watch yourself have a farm party!
 
-![Positioning Exercise 1](http://dl.dropbox.com/u/10998095/Screenshots/pedp54de5i-3.png)
-![Positioning Exercise 2](http://dl.dropbox.com/u/10998095/Screenshots/ynpy5ni_iupd.png)
 
 ####2B.3b: Positioning Content - Floats
 - Read: [2B.3b - Positioning Content with Floats](https://docs.google.com/presentation/d/1izl1PtVtrL195T07F1cnM2WmlUtkbhvPRMvCY0MPPcg/edit?usp=sharing)
