@@ -99,7 +99,9 @@ See directions [here](https://github.com/fma2/pcp-intro-web-development/blob/mas
 	- [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 	- CSS Selectors
 		- [CSS Tricks - How CSS Selectors Work](https://css-tricks.com/how-css-selectors-work/)
-	- Positioning Content with Floats
+	- Positioning Content
+		- [Learn CSS Positioning in Ten Steps](http://www.barelyfitz.com/screencast/html-training/css/positioning/)
+		- [CSS Positioning](http://www.brainjar.com/css/positioning/default.asp)
 		- [CSS Tricks - All About Floats](https://css-tricks.com/all-about-floats/)
 		- [Floatutorial](http://css.maxdesign.com.au/floatutorial/)
 - Videos
