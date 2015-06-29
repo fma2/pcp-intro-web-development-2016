@@ -21,7 +21,7 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 - Look over the official documentation on CSS [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - Create a Cheat Sheet.
-	- For this assignment, you’ll create a cheat sheet for HTML/CSS.  Download and/or print this file: [HTML and CSS Cheat Sheet](https://drive.google.com/file/d/0B1MYP7sU_C0vWng4Ml9ZelhQZWM/view), and fill it out completely. I recommend you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
+	- For this assignment, you’ll create a cheat sheet for HTML/CSS.  Download and/or print this file: [HTML and CSS Cheat Sheet](https://drive.google.com/file/d/0B2oPzQ6clzPRdE9oU1ZxeHJUMTQ/view?usp=sharing), and fill it out completely. I recommend you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
 
 
 ###By Monday, July 6th
