@@ -31,3 +31,11 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 - ####[Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/) due July 16th
 
+
+##How to sharing a file/folder uploaded to Drive in your homework/project submission Google doc
+
+- After uploading the folder or file to your 'PCP Intro to Web Development' Google Drive folder, open the folder or file.
+- Click the share icon in the top-right ![Share Icon](https://lh3.ggpht.com/wT7L2ASU5dabFd038gIVuFdXciuesFY4aN5fdGkl1Yf0in0G5ez16R63xGtBAg=w18-h18)
+- In the "Share with Others" box that appears, select "Advanced" in the bottom right.  
+- Copy the "Link to share" link.
+- Paste the copied link in the provided Google Doc that corresponds with the assignment (e.g. if the assignment is Project 1, the provided Google Doc will have Project 1 in its name and heading).  This document should be in your 'PCP Intro to Web Development' Google Drive folder.
