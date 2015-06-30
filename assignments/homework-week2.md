@@ -16,6 +16,7 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 ####Review:
 
 - Watch - [Don’t Fear Starting From Scratch - Part 2 CSS](http://www.dontfeartheinternet.com/css/don%E2%80%99t-fear-starting-from-scratch-2) (11:03)
+- Read - [Getting to Know CSS](http://learn.shayhowe.com/html-css/getting-to-know-css/)
 
 ####Practice:
 
@@ -49,10 +50,11 @@ The left-hand navigation should be 120px wide including any padding and borders.
 
 The footer text should align with the start of the content text and there should be 20px of space between the footer text and both the bottom of the content area and the bottom of the page.
 
+Upload your completed folder (with the index.html and styles.css files within it) to your PCP Intro to Web Development Google Drive folder.  
+
 #####Create a Cheat Sheet.
 
-- For this assignment, you’ll create a cheat sheet for HTML/CSS.  Download and/or print this file: [HTML and CSS Cheat Sheet](https://drive.google.com/file/d/0B2oPzQ6clzPRdE9oU1ZxeHJUMTQ/view?usp=sharing), and fill it out completely. I recommend you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
-
+- For this assignment, you’ll create a cheat sheet for HTML/CSS.  In the Google doc file for this homework assignment, you will find a table with the title "______'s HTML and CSS Cheat sheet".  Fill it out completely.  It's recommended you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
 
 ###By Monday, July 6th
 
