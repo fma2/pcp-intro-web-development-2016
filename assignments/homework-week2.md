@@ -37,11 +37,17 @@ If you're not familiar with floating in CSS, you might need to take time to read
 
 CSS is fun and really powerful. It takes a bit to get a handle on selectors and their cascading interaction, but the engineers who master it are treated with awe and reverence.
 
-The styles.css file is missing a few rules.  Specifically, it's missing `float`, `clear`, and `position` properties for some selectors.  Modify the styles.css file by adding these properties so the blog post looks like the this:
+The styles.css file is missing a few rules.  Specifically, it's missing `float`, `clear`, and padding properties for some selectors.  Modify the styles.css file by adding these properties so the blog post looks like the this:
 
-![Blog post](https://camo.githubusercontent.com/8b65c343291900491926d831e1706c8a2a161a42/687474703a2f2f662e636c2e6c792f6974656d732f32783059316531553365313230713363325231782f53637265656e25323053686f74253230323031332d30322d31362532306174253230372e32302e3031253230504d2e706e67)
+![Blog post](https://camo.githubusercontent.com/787ea8fd6fa5beadb161d3275a64ef00b4762871/687474703a2f2f662e636c2e6c792f6974656d732f336a30573351304d304f3258324e3136306a31332f53637265656e25323053686f74253230323031332d30322d31362532306174253230372e31322e3138253230504d2e706e67)
 
-Don't change the CSS that is already on the styles.css file--just add `float`, `clear`, and `position` properties as needed.  
+Don't change the CSS that is already on the styles.css file--just add `float`, `clear`, and padding properties as needed.  
+
+The entire page is 720px wide; don't change that. The entire .content area should be 600px wide, including any padding and borders. The h2 which includes the blog post title should be flush against the top of the content area.
+
+The left-hand navigation should be 120px wide including any padding and borders. The list items should not have any bullets and the navigation elements should be flush against the left-hand side of the page.
+
+The footer text should align with the start of the content text and there should be 20px of space between the footer text and both the bottom of the content area and the bottom of the page.
 
 - Create a Cheat Sheet.
 	- For this assignment, you’ll create a cheat sheet for HTML/CSS.  Download and/or print this file: [HTML and CSS Cheat Sheet](https://drive.google.com/file/d/0B2oPzQ6clzPRdE9oU1ZxeHJUMTQ/view?usp=sharing), and fill it out completely. I recommend you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
