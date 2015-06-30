@@ -8,7 +8,7 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 ###By Tuesday, June 30th
 
-- Finish Project 1 - see directions [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md)
+- Finish Project 1 - see directions [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md).
 
 
 ###By Thursday, July 2nd
@@ -19,7 +19,30 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 ####Practice:
 
-- Look over the official documentation on CSS [here](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+- Layout Drill - Left Hand Navigation (adapted from [DBC](www.devbootcamp.com))
+
+We're going to learn some fundamentals about webpage layout. You'll have a HTML file to work with and your job is to change the CSS and only *some* of the CSS to achieve the desired layout.
+
+Download [this folder](https://drive.google.com/folderview?id=0B2oPzQ6clzPRd2hGOWlxbTBnZjA&usp=sharing) which contains a basic HTML file (index.html) that models a block post, including:
+
+- A page header
+- A navigation bar
+- The blog post content
+- A footer
+
+If you're not familiar with floating in CSS, you might need to take time to read these resources:
+
+[A Step-by-Step Float Tutorial](http://css.maxdesign.com.au/floatutorial/)
+[Simple 2 column CSS layout](http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/)
+
+CSS is fun and really powerful. It takes a bit to get a handle on selectors and their cascading interaction, but the engineers who master it are treated with awe and reverence.
+
+The styles.css file is missing a few rules.  Specifically, it's missing `float`, `clear`, and `position` properties for some selectors.  Modify the styles.css file by adding these properties so the blog post looks like the this:
+
+![Blog post](https://camo.githubusercontent.com/8b65c343291900491926d831e1706c8a2a161a42/687474703a2f2f662e636c2e6c792f6974656d732f32783059316531553365313230713363325231782f53637265656e25323053686f74253230323031332d30322d31362532306174253230372e32302e3031253230504d2e706e67)
+
+Don't change the CSS that is already on the styles.css file--just add `float`, `clear`, and `position` properties as needed.  
+
 - Create a Cheat Sheet.
 	- For this assignment, you’ll create a cheat sheet for HTML/CSS.  Download and/or print this file: [HTML and CSS Cheat Sheet](https://drive.google.com/file/d/0B2oPzQ6clzPRdE9oU1ZxeHJUMTQ/view?usp=sharing), and fill it out completely. I recommend you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
 
