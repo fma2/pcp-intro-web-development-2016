@@ -50,7 +50,8 @@ The left-hand navigation should be 120px wide including any padding and borders.
 The footer text should align with the start of the content text and there should be 20px of space between the footer text and both the bottom of the content area and the bottom of the page.
 
 #####Create a Cheat Sheet.
-	- For this assignment, you’ll create a cheat sheet for HTML/CSS.  Download and/or print this file: [HTML and CSS Cheat Sheet](https://drive.google.com/file/d/0B2oPzQ6clzPRdE9oU1ZxeHJUMTQ/view?usp=sharing), and fill it out completely. I recommend you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
+
+- For this assignment, you’ll create a cheat sheet for HTML/CSS.  Download and/or print this file: [HTML and CSS Cheat Sheet](https://drive.google.com/file/d/0B2oPzQ6clzPRdE9oU1ZxeHJUMTQ/view?usp=sharing), and fill it out completely. I recommend you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
 
 
 ###By Monday, July 6th
