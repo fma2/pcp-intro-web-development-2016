@@ -32,8 +32,8 @@ Download [this folder](https://drive.google.com/folderview?id=0B2oPzQ6clzPRd2hGO
 
 If you're not familiar with floating in CSS, you might need to take time to read these resources:
 
-[A Step-by-Step Float Tutorial](http://css.maxdesign.com.au/floatutorial/)
-[Simple 2 column CSS layout](http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/)
+- [A Step-by-Step Float Tutorial](http://css.maxdesign.com.au/floatutorial/)
+- [Simple 2 column CSS layout](http://www.456bereastreet.com/lab/developing_with_web_standards/csslayout/2-col/)
 
 CSS is fun and really powerful. It takes a bit to get a handle on selectors and their cascading interaction, but the engineers who master it are treated with awe and reverence.
 
