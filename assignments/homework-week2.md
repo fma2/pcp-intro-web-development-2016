@@ -19,7 +19,7 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 ####Practice:
 
-- Layout Drill - Left Hand Navigation (adapted from [DBC](www.devbootcamp.com))
+#####Layout Drill - Left Hand Navigation (adapted from [DBC](www.devbootcamp.com))
 
 We're going to learn some fundamentals about webpage layout. You'll have a HTML file to work with and your job is to change the CSS and only *some* of the CSS to achieve the desired layout.
 
@@ -49,7 +49,7 @@ The left-hand navigation should be 120px wide including any padding and borders.
 
 The footer text should align with the start of the content text and there should be 20px of space between the footer text and both the bottom of the content area and the bottom of the page.
 
-- Create a Cheat Sheet.
+#####Create a Cheat Sheet.
 	- For this assignment, you’ll create a cheat sheet for HTML/CSS.  Download and/or print this file: [HTML and CSS Cheat Sheet](https://drive.google.com/file/d/0B2oPzQ6clzPRdE9oU1ZxeHJUMTQ/view?usp=sharing), and fill it out completely. I recommend you print out a hard copy for yourself and/or save your cheat sheet somewhere easily accessible.
 
 
