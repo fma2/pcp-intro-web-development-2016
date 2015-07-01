@@ -24,12 +24,14 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 We're going to learn some fundamentals about webpage layout. You'll have a HTML file to work with and your job is to change the CSS and only *some* of the CSS to achieve the desired layout.
 
-Download [this folder](https://drive.google.com/folderview?id=0B2oPzQ6clzPRd2hGOWlxbTBnZjA&usp=sharing) which contains a basic HTML file (index.html) that models a block post, including:
+Download [this folder](https://drive.google.com/file/d/0B2oPzQ6clzPRZGx5VjJ0UEdTWVk/view?usp=sharing) which contains a basic HTML file (index.html) that models a blog post, including:
 
 - A page header
 - A navigation bar
 - The blog post content
 - A footer
+
+It also contains a CSS file.  
 
 If you're not familiar with floating in CSS, you might need to take time to read these resources:
 
