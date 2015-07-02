@@ -1,4 +1,4 @@
-#3: Grid Based Web Design
+#3: Responsive Design
 
 Welcome to Unit 3!  In this unit, we'll explore grid-based web design and responsive design techniques.
 
@@ -83,9 +83,6 @@ Use the links below to jump to a section on this page.
 
 + Read: [CSS Frameworks - Bootstrap](https://docs.google.com/presentation/d/1fm8ngfmbd6XxAKqXaBcjPGkNhq43q3TDN5Hg4NjcF6E/edit?usp=sharing)
 
-####3.5b: Project 3 - Build a Design Framework, Modify a Site with Bootstrap
-
-[Coming soon!]
 
 <br>
 <hr height="10px">
@@ -94,4 +91,8 @@ Use the links below to jump to a section on this page.
 - Responsive Design
 	- [Shay Howe: Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 	- [Skillcrush - Responsive Design](http://skillcrush.com/2012/05/08/responsive-design/)
-	
+	- [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+	- [This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html) - A collection of patterns and modules for responsive designs
+- Flexible Layouts
+	- [Flexible Math](http://responsv.com/flexible-math/)
+
