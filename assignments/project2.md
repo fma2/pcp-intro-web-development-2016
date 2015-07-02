@@ -14,7 +14,7 @@ As the title suggests, your site should have at least three pages:
 2. *about.html*  - a basic about page (feel free to use elements from the landing page you created in Project 1)
 3. *contact.html* - a page with the restaurant's contact information and input elements for name and email submission (so the user can sign up for the restaurant's mailing list)
 
-**To begin this assignment**, use the Command Line to create a directory called restaurant-website.  In this directory, create the files: index.html, about.html, menu.html, and styles.css.
+**To begin this assignment**, use the Command Line to create a directory called restaurant-website.  In this directory, create the files: index.html, about.html, contact.html, and styles.css.
 
 **Before starting to code**, draw out the layout of your page using boxes (remember, [boxifying design](https://docs.google.com/presentation/d/1CBYD9bsQmbMLX5sZINM4B6Bx5oFDcE64_jezmKzvHLQ/edit)?).  
 
