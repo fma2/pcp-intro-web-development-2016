@@ -14,6 +14,8 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 - Watch - Building a Framework: https://youtu.be/OpiR_euUy8A
 - Watch - Responsive web design: https://youtu.be/NVYspWwBT7M
 
+- Finish Project 2 - see directions [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md).
+
 
 ###By Friday, July 10th
 
