@@ -74,17 +74,35 @@ Upload your completed folder (with the index.html and styles.css files within it
 
 ####Practice:
 
-#####Read
-
-- Read about [responsive design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/).
-- Read about grid-based design: [Grid-Based Layout 101](http://www.sitepoint.com/grid-based-layouts-101/).
-- Get inspired by some examples of grid-based layouts: [Grid Layout websites](http://www.siteinspire.com/websites?categories=101).
-
 #####Add the final touches to a grid-based page
 
-You are going add the final touches to make [this](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) using the grid based CSS framework we created.  
+You are going add the final touches to make [this](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) with this [starter code](http://jsbin.com/xotogocogi/1/edit?html,css,output)
 
-The focus of this assignment is to understand a grid-based framework.  
+The focus of this assignment is to get comfortable with grid-based design.  You won't be making a grid or creating the basic grid-based layout (that has already been done for you).  Rather, you will (1) expose yourself to an existing page with a grid-based layout, (2) add a few final styling touches.
 
+First, review: what is responsive design?
+	- Read about [responsive design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/).
+	- Read about grid-based design: [Grid-Based Layout 101](http://www.sitepoint.com/grid-based-layouts-101/).
+	- Get inspired by some examples of grid-based layouts: [Grid Layout websites](http://www.siteinspire.com/websites?categories=101).
 
-[Updated directions coming soon!]
+- Explore the website in its current form
+	- Check out the HTML and CSS here: [starter code](http://jsbin.com/xotogocogi/1/edit?html,css,output). 
+	- A few things to notice:
+		- I’ve currently included placeholder images from the website placehold.it. Placehold.it is a great resource for getting image placeholders when building a site. It allows you to focus on the layout. You simply put your image size after the url then get a great placeholder image. 
+		- The CSS gives you the grid format--notice the columns (`col-1`, `col-2`,`col-4`....`col-12`) and their widths.  Remember what we worked on in class: http://jsbin.com/sogoci/10/edit?html,css,output.
+		- The HTML uses the grid defined by the CSS--read over the comments I've added. 
+
+- While still on the jsbin page, add the final touches to the grid-based page.  
+	- The page is mostly done with the help of the grid-based layout--there is no need to add `float` or `position`.  
+	- Now, its up to you to add CSS (margins, paddings, etc.) to make your page look similar to the [mock up](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view).  I've already added a few CSS rules.  You will probably want to use classes or IDs. 
+	- Note that there is a ![arrow](http://static.jsbin.com/images/popout.png) in the upper right which allows you to view your output on a full page.
+	- Fonts!
+		- Using google fonts (http://www.google.com/fonts), find a font that mimics the mockup 
+
+- Final push
+	- Run your code through the validator at http://validator.w3.org/ and fix any issues 
+	- If you want, update images 
+
+- Get a link from your jsbin page to share.  
+	- There is a "Share" button in the upper left.  Select the "Share" button.  Under "State", select "Snapshot".  Then, copy and paste the link provided in your homework submission file.
+	
