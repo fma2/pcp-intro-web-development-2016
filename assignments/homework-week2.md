@@ -79,7 +79,7 @@ Upload your completed folder (with the index.html and styles.css files within it
 
 #####Add the final touches to a grid-based page
 
-You are going add the final touches to make [this](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) with this [starter code](http://jsbin.com/xotogocogi/1/edit?html,css,output)
+You are going add the final touches to make [this](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) with this [starter code](http://jsbin.com/wuducenowa/1/edit?html,css,output)
 
 The focus of this assignment is to get comfortable with grid-based design.  You won't be making a grid or creating the basic grid-based layout (that has already been done for you).  Rather, you will (1) expose yourself to an existing page with a grid-based layout, (2) add a few final styling touches.
 
@@ -89,7 +89,7 @@ The focus of this assignment is to get comfortable with grid-based design.  You 
 	- Get inspired by some examples of grid-based layouts: [Grid Layout websites](http://www.siteinspire.com/websites?categories=101).
 
 - Explore the website in its current form
-	- Check out the HTML and CSS here: [starter code](http://jsbin.com/xotogocogi/1/edit?html,css,output). 
+	- Check out the HTML and CSS here: [starter code](http://jsbin.com/wuducenowa/1/edit?html,css,output). 
 	- A few things to notice:
 		- I’ve currently included placeholder images from the website placehold.it. Placehold.it is a great resource for getting image placeholders when building a site. It allows you to focus on the layout. You simply put your image size after the url then get a great placeholder image. 
 		- The CSS gives you the grid format--notice the columns (`col-1`, `col-2`,`col-4`....`col-12`) and their widths.  Remember what we worked on in class: http://jsbin.com/sogoci/10/edit?html,css,output.
