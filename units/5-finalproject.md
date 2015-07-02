@@ -46,7 +46,7 @@ Use the links below to jump to a section on this page.
 
 
 - Step 6: Present
-	- During the final class on Tues 4/21, you will present your web pages to your peers
+	- During the final class on Thurs 7/16, you will present your web pages to your peers
 
 ####<a id="tips">Tips for the final project</a>
 - Wireframe first! 
