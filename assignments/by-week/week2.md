@@ -1,6 +1,6 @@
 #Week 2 Pacing
 
-This week we will work on CSS and grid-based design.
+This week we will work on CSS and responsive design.
 
 ###Monday, June 29
 
