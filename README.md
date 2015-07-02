@@ -98,6 +98,8 @@ To see pacing, check out [**Week 2 Pacing**](https://github.com/fma2/pcp-intro-w
 
 ####<a id="week3">Week 3 - July 6 to July 10</a>
 
+- **Field trip to Google NYC on July 9th**
+
 | Unit          | Modules  | Homework & Projects |
 | ------------- |-------------|----------|
 | **3**: [Grid-Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | *Homework*: review grid-based design.  <br>For details, see [Homework - Week 3](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week3.md)<br><br>Project*: [Project 2 - Build a 3-Page Website, Part 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md)  |
@@ -107,7 +109,7 @@ To see pacing, check out [**Week 2 Pacing**](https://github.com/fma2/pcp-intro-w
 
 ####<a id="week4">Week 4 - July 13 to July 16</a>
 
-- **Field trip to Foursquare**
+- **Field trip to Foursquare on July 14th**
 
 | Unit          | Modules    | Homework & Projects |
 | ------------- |-------------|----------|
