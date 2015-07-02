@@ -74,4 +74,36 @@ Upload your completed folder (with the index.html and styles.css files within it
 
 ####Practice:
 
-#####Layout Drill
+#####Create a page using a grid
+
+You are going to recreate the page [here](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) using the grid based CSS framework we created.
+
+- Set up your project 
+	- Use the Command Line to create a directory called grid-portfolio 
+	- In the directory, create an index.html file, and a styles.css file 
+
+- Link your html and CSS files
+- In your index.html file, add the code:  `<h1> Framework Demo </h1>`
+- In your styles.css file, add CSS to make all text on the page blue 
+- Open index.html in your browser, and verify the text in blue 
+
+- Set up default content
+	- Get the html content of the page by copying/pasting the HTML from here: http://jsbin.com/nutoka/2/edit. A few things to notice:
+		- I’ve currently included placeholder images from the website placehold.it. Placehold.it is a great resource for getting image placeholders when building a site. It allows you to focus on the layout. You simply put your image size after the url then get a great placeholder image
+	- Get the CSS for the grid by copying/pasting the CSS from: http://jsbin.com/sogoci/10/edit?html,css,output. This gives you a grid framework
+	
+- Set up your boxes, and basic layout
+	- Using a pen/pencil, draw out the boxes of your web page, and determine which CSS classes from your framework to use
+		- For example, for the large image that is 960x350 pixels, I would use the classes “row” and “column 12”
+	- Once you have drawn out on paper how you want to arrange your page, go ahead and write the code in your HTML file to add the appropriate classes 
+	- Add additional CSS classes (margins, paddings, etc.) to make your page look similar to the mock up
+
+- Fonts!
+	- Using google fonts (http://www.google.com/fonts), find a font that mimics the mockup 
+
+- Final push
+	- Run your code through the validator at http://validator.w3.org/ and fix any issues 
+	- If you want, update images 
+	- Upload your grid-portfolio directory to your PCP Intro to Web Development folder
+
+
