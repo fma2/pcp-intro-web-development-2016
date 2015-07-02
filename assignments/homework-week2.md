@@ -76,16 +76,16 @@ Upload your completed folder (with the index.html and styles.css files within it
 
 #####Create a page using a grid
 
-You are going to recreate the page [here](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) using the grid based CSS framework we created.
+You are going to recreate the page [here](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) using the grid based CSS framework we created.  The focus of this assignment is to use the grid framework; if your time is limited, don't worry as much about colors and details not mentioned in the directions below.  
 
 - Set up your project 
 	- Use the Command Line to create a directory called grid-portfolio 
 	- In the directory, create an index.html file, and a styles.css file 
 
 - Link your html and CSS files
-- In your index.html file, add the code:  `<h1> Framework Demo </h1>`
-- In your styles.css file, add CSS to make all text on the page blue 
-- Open index.html in your browser, and verify the text in blue 
+	- In your index.html file, add the code:  `<h1> Framework Demo </h1>`
+	- In your styles.css file, add CSS to make all text on the page blue 
+	- Open index.html in your browser, and verify the text in blue 
 
 - Set up default content
 	- Get the html content of the page by copying/pasting the HTML from here: http://jsbin.com/nutoka/2/edit. A few things to notice:
