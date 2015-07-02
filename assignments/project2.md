@@ -35,4 +35,25 @@ In evaluating your work, I will be checking for:
 
 ##Part 2 - Make it responsive
 
-- Improve your website - use grid-based design, media queries, or flexible images.
+- Improve your website by making it responsive.  Use flexible layouts/grid-based design), media queries, or flexible images.
+
+In evaluating your work, I will be checking for:
+
+- Responsiveness: Is there at least one aspect of the page that  provides for an optimal viewing experience across a wide range of devices (desktops, tablets, mobile phones)?
+
+##Submission
+
+####Before Submission
+Validate your HTML and CSS to check for errors.  Follow the links listed below, copy and paste your code and select 'check'.
+
+- [Validate your HTML](http://validator.w3.org/#validate_by_input)
+- [Validate your CSS](http://jigsaw.w3.org/css-validator/#validate_by_input)
+
+####How to submit
+
+- Upload your "restaurant-website" folder to your PCP Intro to Web Development Google Drive folder. 
+- Open the folder you uploaded.
+- Click the share icon in the top-right ![Share Icon](https://lh3.ggpht.com/wT7L2ASU5dabFd038gIVuFdXciuesFY4aN5fdGkl1Yf0in0G5ez16R63xGtBAg=w18-h18)
+- In the "Share with Others" box that appears, select "Advanced" in the bottom right.  
+- Copy the "Link to share" link.
+- Paste the copied link in the Google Doc "Project 2..." found in your Google Drive 
