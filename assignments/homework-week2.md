@@ -82,7 +82,7 @@ Get inspired by some examples of grid-based layouts: [Grid Layout websites](http
 
 You are going to recreate the page [here](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) using the grid based CSS framework we created.  The focus of this assignment is to use the grid framework; if your time is limited, don't worry as much about colors and details not mentioned in the directions below.  
 
-- Set up your project 
+- Set up your directory 
 	- Use the Command Line to create a directory called grid-portfolio 
 	- In the directory, create an index.html file, and a styles.css file 
 
@@ -92,17 +92,17 @@ You are going to recreate the page [here](https://drive.google.com/file/d/0B1MYP
 	- Open index.html in your browser, and verify the text in blue 
 
 - Set up default content
-	- Get the html content of the page by copying/pasting the HTML from here: http://jsbin.com/nutoka/2/edit. A few things to notice:
-		- I’ve currently included placeholder images from the website placehold.it. Placehold.it is a great resource for getting image placeholders when building a site. It allows you to focus on the layout. You simply put your image size after the url then get a great placeholder image
-	- Get the CSS for the grid by copying/pasting the CSS from: http://jsbin.com/sogoci/10/edit?html,css,output. This gives you a grid framework
+	- Get the html content of the page and the CSS for the grid by copying/pasting the HTML and CSS from here: http://jsbin.com/heciyeqoce/1/edit?html,css,output. A few things to notice:
+		- I’ve currently included placeholder images from the website placehold.it. Placehold.it is a great resource for getting image placeholders when building a site. It allows you to focus on the layout. You simply put your image size after the url then get a great placeholder image.  Don't change these placeholder images.
+		- The CSS gives you the grid format
 	
 - Set up your boxes, and basic layout
-	- Using a pen/pencil, draw out the boxes of your web page, and determine which CSS classes from your framework to use
+	- Using a pen/pencil, draw out the boxes of the [page](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view), and determine which CSS classes from your framework to use
 		- For example, for the large image that is 960x350 pixels, I would use the classes “row” and “column 12”
 	- Once you have drawn out on paper how you want to arrange your page, go ahead and write the code in your HTML file to add the appropriate classes 
 	- Add additional CSS classes (margins, paddings, etc.) to make your page look similar to the mock up
 
-- Fonts!
+- Fonts! (optional)
 	- Using google fonts (http://www.google.com/fonts), find a font that mimics the mockup 
 
 - Final push
