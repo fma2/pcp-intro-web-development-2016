@@ -93,3 +93,5 @@ Use the links below to jump to a section on this page.
 
 - Responsive Design
 	- [Shay Howe: Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+	- [Skillcrush - Responsive Design](http://skillcrush.com/2012/05/08/responsive-design/)
+	
