@@ -76,9 +76,9 @@ Upload your completed folder (with the index.html and styles.css files within it
 
 #####Create a page using a grid
 
-Read about grid-based design: [Grid-Based Layout 101](http://www.sitepoint.com/grid-based-layouts-101/).
-
-Get inspired by some examples of grid-based layouts: [Grid Layout websites](http://www.siteinspire.com/websites?categories=101).
+- Read about [responsive design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/).
+- Read about grid-based design: [Grid-Based Layout 101](http://www.sitepoint.com/grid-based-layouts-101/).
+- Get inspired by some examples of grid-based layouts: [Grid Layout websites](http://www.siteinspire.com/websites?categories=101).
 
 You are going to recreate the page [here](https://drive.google.com/file/d/0B1MYP7sU_C0vZkxCOGxSSVBZcXc/view) using the grid based CSS framework we created.  The focus of this assignment is to use the grid framework; if your time is limited, don't worry as much about colors and details not mentioned in the directions below.  
 
