@@ -80,7 +80,7 @@ You are going add the final touches to make [this](https://drive.google.com/file
 
 The focus of this assignment is to get comfortable with grid-based design.  You won't be making a grid or creating the basic grid-based layout (that has already been done for you).  Rather, you will (1) expose yourself to an existing page with a grid-based layout, (2) add a few final styling touches.
 
-First, review: what is responsive design?
+- First, review: what is responsive design?
 	- Read about [responsive design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/).
 	- Read about grid-based design: [Grid-Based Layout 101](http://www.sitepoint.com/grid-based-layouts-101/).
 	- Get inspired by some examples of grid-based layouts: [Grid Layout websites](http://www.siteinspire.com/websites?categories=101).
