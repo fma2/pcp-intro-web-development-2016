@@ -63,7 +63,12 @@ Upload your completed folder (with the index.html and styles.css files within it
 ####Review:
 
 - Review CSS layout - complete the ["Learn CSS Layout" tutorial](http://learnlayout.com/)
-- **Review with a browser-based coding program**.  There are numerous browser-based programs (e.g., Codecademy, Dash) to learn how to code. While they are somewhat lacking as learning tools, they’re excellent for review. You will be going through Codecademy CSS as a refresher. To do the assignment:
+
+####Practice:
+
+#####Browser-based coding program
+
+- **Practice with a browser-based coding program**.  There are numerous browser-based programs (e.g., Codecademy, Dash) to learn how to code. While they are somewhat lacking as learning tools, they’re excellent for review. You will be going through Codecademy CSS as a refresher. To do the assignment:
 	
 	- Go to [http://www.codecademy.com/](http://www.codecademy.com/) and create an account 
 	- Then, go to [http://www.codecademy.com/en/tracks/web](http://www.codecademy.com/en/tracks/web)
@@ -71,8 +76,6 @@ Upload your completed folder (with the index.html and styles.css files within it
 	- The last lesson is a project to build a resume. Do this lesson in codecademy, then: 
 		- Create a new local directory called resume
 		- Create two files: index.html and stylesheet.css and copy/paste the content from codecademy into those files 
-
-####Practice:
 
 #####Add the final touches to a grid-based page
 
