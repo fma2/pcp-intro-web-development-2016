@@ -105,7 +105,7 @@ To see pacing, check out [**Week 2 Pacing**](https://github.com/fma2/pcp-intro-w
 | **3**: [Responsive Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)  | 3.3. Media Queries<br>3.4. Flexible Images<br> 3.5. Using Bootstrap and other frameworks | *Homework*: review grid-based design.  <br>For details, see [Homework - Week 3](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week3.md)<br><br>*Project*: [Project 2, Part 2 - Build a 3-Page Website](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md)  |
 | **4**: [Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)  | 4.3. Version Control Basics<br>4.4. Git & Github<br>4.5. Github Pages | *Homework*: review git.  <br>For details, see [Homework - Week 3](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week3.md).  |
 
-
+To see pacing, check out [**Week 3 Pacing**](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/by-week/week3.md).
 
 ####<a id="week4">Week 4 - July 13 to July 16</a>
 
@@ -115,6 +115,8 @@ To see pacing, check out [**Week 2 Pacing**](https://github.com/fma2/pcp-intro-w
 | ------------- |-------------|----------|
 | **4**: [Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)  | 4.1. Wordpress<br>4.2. Javascript & jQuery|  |
 | **5**: [Putting it All Together: Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)  | 5.1. Final Project <br>5.2. How to continue coding  | *Project*: [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/finalproject.md) |
+
+To see pacing, check out [**Week 4 Pacing**](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/by-week/week4.md).
 
 
 <br>
