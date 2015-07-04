@@ -105,6 +105,7 @@ See directions [here](https://github.com/fma2/pcp-intro-web-development/blob/mas
 		- [CSS Positioning](http://www.brainjar.com/css/positioning/default.asp)
 		- [CSS Tricks - All About Floats](https://css-tricks.com/all-about-floats/)
 		- [Floatutorial](http://css.maxdesign.com.au/floatutorial/)
+	- [CSS Tricks - The Box Model](https://css-tricks.com/the-css-box-model/)
 - Presentations & Videos
 	- CSS Selectors - [slides](http://www.teaching-materials.org/htmlcss-1day/css-selectors/slides.html#slide1) & [video](https://www.youtube.com/watch?v=wQXvat7IHmk)
 	- [Udacity - HTML-CSS-DOM](https://www.youtube.com/watch?t=152&v=tSv2KIF7uE4)
