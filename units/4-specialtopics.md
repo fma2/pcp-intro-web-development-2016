@@ -92,4 +92,5 @@ Anytime you want to make a change, follow the steps again, starting with master,
 
 ##<a id="resources">Resources</a>
 
-
+- JavaScript
+	- [Eloquent JavaScript - The Document Object Model](http://eloquentjavascript.net/13_dom.html)
