@@ -75,7 +75,7 @@ Submit your final project with the following items:
 - A link to your final project hosted on github pages, in the form <yourUsername>.github.io/<yourRepositoryname>
 - A link to your github repository
 
-General questions? Trouble with git or github? Email pcp-htmlcss-summer2015@googlegroups.com.
+General questions? Email pcp-htmlcss-summer2015@googlegroups.com.
 Personal questions? Email barnardpcp@farheen.nyc
 
 <br>
