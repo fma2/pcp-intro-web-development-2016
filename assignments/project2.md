@@ -1,6 +1,6 @@
 #Project 2 - Build a 3-Page Website
 
-For Project 2, you will create a 3-page website.  It is due Thursday, July 9th. 
+For Project 2, you will create a 3-page website.  It is due Thursday, July 9th.  Once it is submitted, [here is the rubric](https://docs.google.com/spreadsheets/d/1Njm4CQYp69O3MAGmKJL5IejrxxEW9SiU4KNHVBwtQng/edit#gid=1763330732) on which it will be graded.
 
 Scenario: You are a freelance front-end web developer, and you have been asked by your favorite restaurant (or a completely new restaurant selling your favorite food) to make them a whole new website similar to the sample below.
 
@@ -18,7 +18,7 @@ As the title suggests, your site should have at least three pages:
 
 **Before starting to code**, draw out the layout of your page using boxes (remember, [boxifying design](https://docs.google.com/presentation/d/1CBYD9bsQmbMLX5sZINM4B6Bx5oFDcE64_jezmKzvHLQ/edit)?).  
 
-**For starter code**, go to [http://jsbin.com/riyodamuqe/3/edit?html,css,output](http://jsbin.com/riyodamuqe/3/edit?html,css,output) and copy and paste the HTML into your index.html file and the CSS into your styles.css file.
+**For starter code**, go to [http://jsbin.com/camoraviqa/1/edit?html,css,output](http://jsbin.com/camoraviqa/1/edit?html,css,output) and copy and paste the HTML into your index.html file and the CSS into your styles.css file.
 
 **Your site should have the following characteristics**:
 
