@@ -19,23 +19,23 @@ Use the links below to jump to a section on this page.
 
 ####<a id="directions">Final Project directions</a>
 
-- Step 1: Choose a project: You have wide latitude in the type of website you build. Your website must include at least 4 pages, media, and use modern, valid HTML and CSS. You may choose to use a framework if you like. Some example frameworks include Bootstrap, Foundation, or Skeleton. If you’re not sure what to build, how about: 
+- Step 1: Choose a project: You have wide latitude in the type of website you build. Your website must include at least 4 pages, media, and use modern, valid HTML and CSS. You may choose to use a framework if you like. Some example frameworks include [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/), or [Skeleton](http://getskeleton.com/). If you’re not sure what to build, how about: 
 	- A website for an organization, real or fictitious
 	- A website for a person, real, historical, or fictitious
 	- A website for an event or a cause
-	- Redesign an existing website (for example, can you make a better yelp? This guy prototyped one)
+	- Redesign an existing website (for example, can you make a better [yelp](http://www.yelp.com/brooklyn)? This guy [prototyped](https://medium.com/@jerrycao_uxpin/the-power-of-minimalism-a-story-of-redesigning-yelp-1a39c0b014f0) one)
 
 - Step 2: Create wireframes
-	- Watch: What is a Wireframe?
-	- Read: The 5 Steps of a Professional UX Design Process
-	- Prepare your wireframes - paper is perfectly fine or you can use an online tool like Google Docs, Google Slides, or an official wireframing tool like balsamiq (don’t buy it, just use free trial!). I suggest you start out wireframing just 4 pages. You can always expand your site later, but start small. 
+	- Watch: [What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks)
+	- Read: T[he 5 Steps of a Professional UX Design Process](http://skillcrush.com/2014/06/24/5-ux-design-deliverables/)
+	- Prepare your wireframes - paper is perfectly fine or you can use an online tool like Google Docs, Google Slides, or an official wireframing tool like [balsamiq](https://balsamiq.com/products/mockups/) (don’t buy it, just use free trial!). I suggest you start out wireframing just 4 pages. You can always expand your site later, but start small. 
 
 - Step 3: Start Building! - Set up your pages 
 	- Set up a local project directory, and make sure you put it under version control with git
 	- Set up the shell of your HTML and CSS pages 
 	- Push to github
 
-** When you are done with the above, remember to submit it as homework (due July 9th)** 
+** When you are done with the above, remember to submit it as homework (due July 10th)** 
 
 - Step 4: Keep Building!
 	- Continue building out your pages
