@@ -28,6 +28,13 @@ As the title suggests, your site should have at least three pages:
 In evaluating your work, I will be checking for:
 
 - Directory structure: organize your code in a logical structure.  - is your code organized in a manner that is logical? You have seen many examples of appropriate directory structures in our work so far.  A good directory structure should be something like:
+```
+restaurant-website
+	|_ index.html 
+	|_ about.html
+	|_ contact.html
+	|_ styles.css
+```
 - Code quality: write valid HTML and CSS. The w3c consortium has an excellent [code validator](http://validator.w3.org/#validate_by_input) which tells you if your html page is valid.  There is also a [CSS validator](http://jigsaw.w3.org/css-validator/). Copy/paste or upload your files to the validator, and fix any errors! 
 - Code readability: write code that is readable by using appropriate formatting (e.g., filenames and tags are all lowercase) and appropriate comments where applicable. Udacity has an excellent [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/) which you should read/use for code readability.
 
