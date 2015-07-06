@@ -59,7 +59,7 @@ Use the links below to jump to a section on this page.
 
 
 
-####<a id="homeworksubmission">Homework Submission (by ______ )</a>
+####<a id="homeworksubmission">Homework Submission (by Friday, July 10th)</a>
 
 Once you are finished with Steps 1-3,  submit your homework. 
 
