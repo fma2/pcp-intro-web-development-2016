@@ -18,7 +18,7 @@ As the title suggests, your site should have at least three pages:
 
 **Before starting to code**, draw out the layout of your page using boxes (remember, [boxifying design](https://docs.google.com/presentation/d/1CBYD9bsQmbMLX5sZINM4B6Bx5oFDcE64_jezmKzvHLQ/edit)?).  
 
-**For starter code**, go to [http://jsbin.com/camoraviqa/1/edit?html,css,output](http://jsbin.com/camoraviqa/1/edit?html,css,output) and copy and paste the HTML into your index.html file and the CSS into your styles.css file.
+**For starter code**, go to [http://jsbin.com/camoraviqa/1/edit?html,css,output](http://jsbin.com/camoraviqa/1/edit?html,css,output) and copy and paste the HTML into your index.html file and the CSS into your styles.css file.  If you need help, download and take a look at [this code](https://drive.google.com/file/d/0B2oPzQ6clzPRb0MwVVRYRHRtWW8/view?usp=sharing)--its for the website pictured above.
 
 **Your site should have the following characteristics**:
 
