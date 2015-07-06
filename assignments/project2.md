@@ -1,6 +1,6 @@
 #Project 2 - Build a 3-Page Website
 
-For Project 2, you will create a 3-page website.  
+For Project 2, you will create a 3-page website.  It is due Thursday, July 9th. 
 
 Scenario: You are a freelance front-end web developer, and you have been asked by your favorite restaurant (or a completely new restaurant selling your favorite food) to make them a whole new website similar to the sample below.
 
