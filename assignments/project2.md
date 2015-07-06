@@ -34,6 +34,10 @@ restaurant-website
 	|_ about.html
 	|_ contact.html
 	|_ styles.css
+	|_ images
+		|_ image1.jpg
+		|_ image2.jpg
+		|_ image3.jpg
 ```
 - Code quality: write valid HTML and CSS. The w3c consortium has an excellent [code validator](http://validator.w3.org/#validate_by_input) which tells you if your html page is valid.  There is also a [CSS validator](http://jigsaw.w3.org/css-validator/). Copy/paste or upload your files to the validator, and fix any errors! 
 - Code readability: write code that is readable by using appropriate formatting (e.g., filenames and tags are all lowercase) and appropriate comments where applicable. Udacity has an excellent [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/) which you should read/use for code readability.
