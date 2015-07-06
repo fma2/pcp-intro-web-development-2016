@@ -42,11 +42,13 @@ restaurant-website
 
 ##Part 2 - Make it responsive
 
-- Improve your website by making it responsive.  Use flexible layouts/grid-based design), media queries, or flexible images.
+Improve your website by making it responsive.  What is responsive design?  Building a website to provide the optimal viewing experience across a wide range of devices (desktops, tablets, mobile phones).  It involves a combination of flexible grids, flexible images and media queries. 
+
+Use flexible layouts/grid-based design, media queries, or flexible images to make your website responsive.
 
 In evaluating your work, I will be checking for:
 
-- Responsiveness: Is there at least one aspect of the page that  provides for an optimal viewing experience across a wide range of devices (desktops, tablets, mobile phones)?
+- Responsiveness: Is there at least **one** aspect of the page that  provides for an optimal viewing experience across a wide range of devices (desktops, tablets, mobile phones)?
 
 ##Submission
 
