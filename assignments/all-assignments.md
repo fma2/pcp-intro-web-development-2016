@@ -27,12 +27,13 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 	- [Part 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md#part-2---css) - in-class assignment, due **Tuesday, June 30th**
 	- Complete project due Tuesday, June 30th, 9 AM
 
-- ####[Project 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md) - in-class assignment, due **Monday, July 6th**
+- ####[Project 2](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md) - in-class assignment, due **Thursday, July 9th**
 
-- ####[Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/) due July 16th
+- ####[Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/)
+	- Steps 1-3 of [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject), due Friday, July 10th
+	- [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject)
 
-
-##How to sharing a file/folder uploaded to Drive in your homework/project submission Google doc
+##How to sharing a file/folder uploaded to Drive in your homework/project submission Google doc, due Thursday, July 16th
 
 - After uploading the folder or file to your 'PCP Intro to Web Development' Google Drive folder, open the folder or file.
 - Click the share icon in the top-right ![Share Icon](https://lh3.ggpht.com/wT7L2ASU5dabFd038gIVuFdXciuesFY4aN5fdGkl1Yf0in0G5ez16R63xGtBAg=w18-h18)
