@@ -50,10 +50,10 @@ examplearts [directory]
 		|_ reviews.html
  
 ```
-| RELATIVE LINK TYPE | EXAMPLE |
+| RELATIVE LINK TYPE | EXAMPLE (from the diagram above)|
 |-------------------|--------|
-|**SAME FOLDER**<br>To link to a file in the same folder, just use the file name. (Nothing else is needed)||
-|**CHILD FOLDER**<br>For a child folder, use the name of the child folder, followed by a forward slash, then the file name||
+|**SAME FOLDER**<br>To link to a file in the same folder, just use the file name. (Nothing else is needed)|To link to music reviews from the music homepage: `<a href="reviews.html">Reviews</a>` |
+|**CHILD FOLDER**<br>For a child folder, use the name of the child folder, followed by a forward slash, then the file name| To link to music listings from the homepage: `<a href="music/listings.html">Listings</a>`|
 |**GRANDCHILD FOLDER**<br>Use the name of the child folder, followed by a forward slash, then the name of the grandchild folder, followed by another forward slash, then the file name.||
 |**PARENT FOLDER**<br>Use `../` to indicate the folder above the current one, then follow it with the file name.||
 |**GRANDPARENT FOLDER**<br>Repeat the `../` to indicate that you want to go up two folders (rather than one), then follow it with the file name.||
