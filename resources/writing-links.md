@@ -1,5 +1,7 @@
 #Writing Links - Cheat Sheet
 
+[adapted from htmlandcssbook.com]
+
 ##LINKING TO EXTERNAL CSS
 
 ```html
@@ -23,6 +25,31 @@ If all the pages of the site are in the same folder, then the value of the `href
 
 If you have different pages of the site in different folders, then you can use a slightly more complete syntax to indicate where the page is in relation to the current page.
 
+For the example below, consider this directory
 
-
+```
+examplearts [directory]
+	|_ index.html
+	|_ images [directory]
+ 		|_ logo.gif
+ 	|_ movies [directory]
+ 		|_ cinema [directory]
+ 			|_ index.html
+ 			|_ listings.html
+ 			|_ reviews.html
+		|_ dvd [directory]
+			|_ index.html
+			|_ reviews.html
+	|_ music [directory]
+		|_ index.html
+		|_ listings.html
+		|_ reviews.html
+	|_ theater [directory]
+		|_ index.html
+		|_ listings.html
+		|_ reviews.html
+ 
+```
+| RELATIVE LINK TYPE | EXAMPLE |
+|-------------------|--------|
 
