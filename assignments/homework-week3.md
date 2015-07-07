@@ -25,12 +25,14 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 ####Practice:
 
-- Complete steps 1-2 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject):
+- Complete steps 1-2 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject)
 
 
 ###By Monday, July 13th
 
-####Review:
+####Review & Practice:
 
+- Complete step 3 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject)
 
-####Practice:
+Read resources and materials from past lessons:
+[list coming soon]
