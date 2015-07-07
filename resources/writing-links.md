@@ -52,4 +52,9 @@ examplearts [directory]
 ```
 | RELATIVE LINK TYPE | EXAMPLE |
 |-------------------|--------|
+|**SAME FOLDER**<br>To link to a file in the same folder, just use the file name. (Nothing else is needed)||
+|**CHILD FOLDER**<br>For a child folder, use the name of the child folder, followed by a forward slash, then the file name||
+|**GRANDCHILD FOLDER**<br>Use the name of the child folder, followed by a forward slash, then the name of the grandchild folder, followed by another forward slash, then the file name.||
+|**PARENT FOLDER**<br>Use `../` to indicate the folder above the current one, then follow it with the file name.||
+|**GRANDPARENT FOLDER**<br>Repeat the `../` to indicate that you want to go up two folders (rather than one), then follow it with the file name.||
 
