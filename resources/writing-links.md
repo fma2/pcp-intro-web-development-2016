@@ -52,9 +52,9 @@ examplearts [directory]
 ```
 | RELATIVE LINK TYPE | EXAMPLE (from the diagram above)|
 |-------------------|--------|
-|**SAME FOLDER**<br>To link to a file in the same folder, just use the file name. (Nothing else is needed)|To link to music reviews from the music homepage: `<a href="reviews.html">Reviews</a>` |
-|**CHILD FOLDER**<br>For a child folder, use the name of the child folder, followed by a forward slash, then the file name| To link to music listings from the homepage: `<a href="music/listings.html">Listings</a>`|
-|**GRANDCHILD FOLDER**<br>Use the name of the child folder, followed by a forward slash, then the name of the grandchild folder, followed by another forward slash, then the file name.||
-|**PARENT FOLDER**<br>Use `../` to indicate the folder above the current one, then follow it with the file name.||
-|**GRANDPARENT FOLDER**<br>Repeat the `../` to indicate that you want to go up two folders (rather than one), then follow it with the file name.||
+|**SAME FOLDER**<br>To link to a file in the same folder, just use the file name. (Nothing else is needed)|To link to music reviews from the music homepage: <br>`<a href="reviews.html">Reviews</a>` |
+|**CHILD FOLDER**<br>For a child folder, use the name of the child folder, followed by a forward slash, then the file name| To link to music listings from the homepage: <br>`<a href="music/listings.html">Listings</a>`|
+|**GRANDCHILD FOLDER**<br>Use the name of the child folder, followed by a forward slash, then the name of the grandchild folder, followed by another forward slash, then the file name.|To link to DVD reviews from the homepage:<br>`<a href="movies/dvd/reviews.html">Reviews</a>`|
+|**PARENT FOLDER**<br>Use `../` to indicate the folder above the current one, then follow it with the file name.|To link to the homepage from the music reviews:<br>`<a href="../index.html">Home</a>`|
+|**GRANDPARENT FOLDER**<br>Repeat the `../` to indicate that you want to go up two folders (rather than one), then follow it with the file name.|To link to the homepage from the DVD reviews:<br>`<a href="../../index.html">Home</a>`|
 
