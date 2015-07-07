@@ -20,6 +20,10 @@ As the title suggests, your site should have at least three pages:
 
 **For starter code**, go to [http://jsbin.com/camoraviqa/1/edit?html,css,output](http://jsbin.com/camoraviqa/1/edit?html,css,output) and copy and paste the HTML into your index.html file and the CSS into your styles.css file.  If you need help, download and take a look at [this code](https://drive.google.com/file/d/0B2oPzQ6clzPRb0MwVVRYRHRtWW8/view?usp=sharing)--its for the website pictured above.
 
+Other tips/tricks:
+- [Group code on a simple navigation bar](http://jsbin.com/zizinucewu/edit?html,css,output)
+- [Cheat sheet on writing links](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/writing-links.md)
+
 **Your site should have the following characteristics**:
 
 - One shared CSS file which controls styling on all of your pages
