@@ -19,7 +19,9 @@ $ git
 
 Remember: The $ is a symbol commonly used to indicate the command line. It simply means that the rest of the line is a command, rather than a sentence. When you are typing a command into the command line, you do not type in the $ because it is simply an indication to the reader, rather than part of the command itself. In other words, if you see a command that starts with a dollar sign, don't type the dollar sign into the command line. ([source](http://www.davidbaumgold.com/tutorials/command-line/))
 
-If git is installed, a list of possible commands will appear.  
+If git is installed, a list of possible commands will appear.
+
+![git-menu](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-menu.png)  
 
 If git is not installed, install it.  Check out [Git's documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac) for help with installation on Mac or Windows.
 
@@ -60,7 +62,7 @@ $ git commit -m "Add index and styles files"
 
 Here is a screenshot of what those commands would look like:
 
-![recording-changes-screenshot]()
+![recording-changes-screenshot](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-recording-changes-flow.png)
 
 
 More on recording changes can be found [here](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
@@ -80,10 +82,12 @@ Before you can add a remote, you need to create a new repository on GitHub.   Fo
 
 - Give your repository a name and select 'create repository'
 
-![]()
+![create-repo](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/github-create-repo.png)
+
 - Copy the HTTPS link
 
-![]()
+![remote-link](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-add-remote-link.png)
+
 - In your command line, add the remote:
 
 ```
