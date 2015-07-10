@@ -108,3 +108,9 @@ After [recording changes to a repository](https://github.com/fma2/pcp-intro-web-
 ```
 $ git push origin master
 ```
+
+##Typical flow
+
+After making a change in your local repository, make sure you `git add <name of file>`, `git commit -m "<Description of Change>"`, and `git push origin master`.
+
+What that could look like--
