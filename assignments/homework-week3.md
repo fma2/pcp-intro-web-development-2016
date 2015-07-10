@@ -52,6 +52,7 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 	- [Unit 4 - Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
 
 - Check out JavaScript/jQuery
+	- Read: [JavaScript Basics](https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics)
 	- Read: [Shay Howe - jQuery](http://learn.shayhowe.com/advanced-html-css/jquery/)
 	- Try: [Code School - High School: JavaScript](http://www.codecademy.com/en/tracks/high-school-javascript)
 	- Try: [Khan Academy - Computer Programming with JS](https://www.khanacademy.org/computing/computer-programming)
