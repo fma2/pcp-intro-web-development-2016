@@ -75,10 +75,14 @@ Before you can add a remote, you need to create a new repository on GitHub.   Fo
 
 - Login to your GitHub account: www.github.com
 - Select the + in the upper right and select "New Repository"
+
 ![new-repository-image](https://s3.amazonaws.com/external_clips/attachments/59198/original/github-create-new-repository.png?1432284535) 
+
 - Give your repository a name and select 'create repository'
+
 ![]()
 - Copy the HTTPS link
+
 ![]()
 - In your command line, add the remote:
 
@@ -90,4 +94,13 @@ $ git remote add origin https://github.com/`<YOUR_GITHUB_USERNAME>`/final-projec
 $ git remote -v
 ```
 
+More on adding a remote can be found [here](https://help.github.com/articles/adding-a-remote/)
+
+
 ##Pushing changes to a remote
+
+After [recording changes to a repository](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#recording-changes-to-the-repository), remember to push your local branch to a remote repository:
+
+```
+$ git push origin master
+```
