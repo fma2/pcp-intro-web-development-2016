@@ -15,11 +15,8 @@ This week we will work on responsive design, special topics, start our final pro
 ###Tuesday, July 7
 - [Warm-up Activity](https://docs.google.com/presentation/d/1WSz8UBLOg_FuN_ET1hYWiYkHKDU-p8kbhVR3f77qHPQ/edit?usp=sharing)
 - [Unit 3: Grid Based Web Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)
-	- [3.5: CSS Frameworks - Bootstrap]()
+	- [3.5: CSS Frameworks - Bootstrap](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md#35-bootstrap)
 		- 3.5a: CSS Frameworks - Bootstrap
-- [Unit 4: Special Topics]()
-	- [4.3: What is version control, and why use it?]()
-		- 4.3a: Version Control Basics
 - [2B.4b: Finish Project 2 - Build a 3-Page Website]()
 - [Unit 5: Putting it all together]()
 	- Directions on the Final Project
@@ -35,12 +32,14 @@ Homework - [due Friday, July 19](https://github.com/fma2/pcp-intro-web-developme
 ###Friday, July 10
 
 - [Warm-up Activity](https://docs.google.com/presentation/d/1WSz8UBLOg_FuN_ET1hYWiYkHKDU-p8kbhVR3f77qHPQ/edit?usp=sharing)
-- [Unit 4: Special Topics]()
-	- [4.4: Git and Github]()
+- [Unit 4: Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)
+	- [4.3: What is version control, and why use it?](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#43-version)
+		- 4.3a: Version Control Basics
+	- [4.4: Git and Github](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#44-github)
 		- 4.4a: Git Practice
 		- 4.4b: Host with Github pages
-- [4.1: Wordpress]() (if time allows)
-- [Unit 5: Putting it all together]()
+- [4.1: Wordpress](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#41-wordpress) (if time allows)
+- [Unit 5: Putting it all together](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)
 	- 5.1: Final Project
 
 Homework - [due Monday, July 13th](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/homework-week3.md#by-monday-july-13th)
