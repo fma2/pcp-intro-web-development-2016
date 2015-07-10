@@ -53,15 +53,15 @@ Github also provides free hosting through [github pages](https://pages.github.co
 
 **1**: Go to the repository home on github, i.e., github.com/[yourUsername]/[yourRepositoryName]2. 
 
-![github home](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-repo-home.png)
+![github home](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-repo-home.png)
 
 **2**: Click the branch: master dropdown
 
-![github dropdown](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-branch-dropdown.png)
+![github dropdown](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-branch-dropdown.png)
 
 **3**: In the input box that reads “Find or create a branch…” type the words “gh-pages” and click enter4. 
 
-![github gh-pages](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/images/git-repo-gh-pages.png)
+![github gh-pages](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-repo-gh-pages.png)
 
 **4**: That’s it! Your site should be available at: **[yourUsername].github.io/[yourRepositoryName]**
 
@@ -94,3 +94,16 @@ Anytime you want to make a change, follow the steps again, starting with master,
 
 - JavaScript
 	- [Eloquent JavaScript - The Document Object Model](http://eloquentjavascript.net/13_dom.html)
+- Version Control, Git, and Github
+	- [Udacity Course: How to Use Git and Github](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+	- [Tuts+ Course: Introduction to Git and Github](http://code.tutsplus.com/courses/introduction-to-git-and-github)
+	- [Skillcrush: Version Control](http://skillcrush.com/2013/02/11/version-control/)
+	- [Skillcrush: Git](http://skillcrush.com/2013/02/18/git/)
+	- [Skillcrush: Getting started working with Git](http://skillcrush.com/2013/02/20/get-started-working-with-git/)
+	- [Git v. Github for Dummies](http://stephaniehoh.github.io/blog/2013/10/07/git-vs-github-for-dummies/)
+	- [Is Git the Same Thing as Github!?](http://jahya.net/blog/git-vs-github/)
+	- [Git videos](http://git-scm.com/videos)
+	- [Video: Learning Git 101](https://www.youtube.com/watch?v=_Jmkvv_nKTE)
+	- [Github Training](https://training.github.com/classes/)
+
+
