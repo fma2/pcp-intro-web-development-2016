@@ -40,8 +40,8 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 		- [Is Git the Same Thing as Github!?](http://jahya.net/blog/git-vs-github/)
 	- Create an account on Code School and try Git: [https://www.codeschool.com/courses/try-git](https://www.codeschool.com/courses/try-git).
 - Final Project
-	- Complete step 3 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject)
-	- Work on step 4 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject).  Keep building!
+	- Complete [step 3](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#step-3-start-building---set-up-your-pages) of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject)
+	- Work on [step 4](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#step-4-keep-building) of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject).  Keep building!
 
 *(optional)*
 - Review information and additional resources from past units/lessons.  It could help clarify something you're confused about, ensuring your final project goes smoothly.
