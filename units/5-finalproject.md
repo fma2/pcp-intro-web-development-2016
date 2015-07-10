@@ -46,6 +46,7 @@ Choose a project: You have wide latitude in the type of website you build. Your 
 #####Step 4: Keep Building!
 
 - Continue building out your pages
+- See [what I will check when evaluating your work](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#evaluation).
 
 #####Step 5: Validate
 - Run your HTML pages through: http://validator.w3.org/
@@ -54,7 +55,7 @@ Choose a project: You have wide latitude in the type of website you build. Your 
 
 #####Step 6: Present
 
-- During the final class on Thurs 7/16, you will present your web pages to your peers
+- During the final class on Thurs 7/16, you will present your website to your peers.
 
 
 ####<a id="evaluation">In evaluating your work, I will be checking for the following:</a>
