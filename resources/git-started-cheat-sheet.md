@@ -2,10 +2,14 @@
 
 Table of Contents:
 
-- First-Time Git Setup
+- [First-Time Git Setup](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#first-time-git-setup)
 	- Check to see if Git is installed
 	- Customize your Git environment
-- 
+- [Put your project under version control](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#first-time-git-setup)
+- [Recording Changes to the Repository](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#recording-changes-to-the-repository)
+- [Adding a remote](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#adding-a-remote)
+- [Pushing changes to a remote](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#pushing-changes-to-a-remote)
+- [Typical flow](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#typical-flow)
 
 
 ##First-Time Git Setup
