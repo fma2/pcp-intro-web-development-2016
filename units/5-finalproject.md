@@ -6,6 +6,7 @@ Use the links below to jump to a section on this page.
 
 - [5.1: Final Project](#51-finalproject)
 	- [Final Project directions](#directions)
+	- [Evaluating your work](#evaluation)
 	- [Tips for the Final Project](#tips)
 	- [Homework submission](#homeworksubmission)
 	- [Final Project submission](#projectsubmission) - Due Thursday, July 16, 2015
@@ -19,41 +20,56 @@ Use the links below to jump to a section on this page.
 
 ####<a id="directions">Final Project directions</a>
 
-- Step 1: Choose a project: You have wide latitude in the type of website you build. Your website must include at least 4 pages, media, and use modern, valid HTML and CSS. You may choose to use a framework if you like. Some example frameworks include [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/), or [Skeleton](http://getskeleton.com/). If you’re not sure what to build, how about: 
+#####Step 1
+
+Choose a project: You have wide latitude in the type of website you build. Your website must include at least 4 pages, media, and use modern, valid HTML and CSS. You may choose to use a framework if you like. Some example frameworks include [Bootstrap](http://getbootstrap.com/), [Foundation](http://foundation.zurb.com/), or [Skeleton](http://getskeleton.com/). If you’re not sure what to build, how about: 
 	- A website for an organization, real or fictitious
 	- A website for a person, real, historical, or fictitious
 	- A website for an event or a cause
 	- Redesign an existing website (for example, can you make a better [yelp](http://www.yelp.com/brooklyn)? This guy [prototyped](https://medium.com/@jerrycao_uxpin/the-power-of-minimalism-a-story-of-redesigning-yelp-1a39c0b014f0) one)
 
-- Step 2: Create wireframes
-	- Watch: [What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks)
-	- Read: T[he 5 Steps of a Professional UX Design Process](http://skillcrush.com/2014/06/24/5-ux-design-deliverables/)
-	- Prepare your wireframes - paper is perfectly fine or you can use an online tool like Google Docs, Google Slides, or an official wireframing tool like [balsamiq](https://balsamiq.com/products/mockups/) (don’t buy it, just use free trial!). I suggest you start out wireframing just 4 pages. You can always expand your site later, but start small. 
+#####Step 2: Create wireframes
+
+- Watch: [What is a Wireframe?](https://www.youtube.com/watch?v=T0vt3nLZKks)
+- Read: T[he 5 Steps of a Professional UX Design Process](http://skillcrush.com/2014/06/24/5-ux-design-deliverables/)
+- Prepare your wireframes - paper is perfectly fine or you can use an online tool like Google Docs, Google Slides, or an official wireframing tool like [balsamiq](https://balsamiq.com/products/mockups/) (don’t buy it, just use free trial!). I suggest you start out wireframing just 4 pages. You can always expand your site later, but start small. 
 
 ** When you are done with the above, remember to submit it as homework (due July 10th)** 
 
-- Step 3: Start Building! - Set up your pages 
-	- Set up a local project directory, and make sure you put it under version control with git
-	- Set up the shell of your HTML and CSS pages 
-	- Push to github
+#####Step 3: Start Building! - Set up your pages 
+- Set up a local project directory, and make sure you put it under version control with git
+- Set up the shell of your HTML and CSS pages 
+- Push to github.  If you need a refresher on getting started with Git, check out [the cheat sheet](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md) I created
 
 ** When you are done with Step 3, remember to submit it as homework (due July 13th)** 
 
-- Step 4: Keep Building!
-	- Continue building out your pages
+#####Step 4: Keep Building!
 
-- Step 5: Validate
-	- Run your HTML pages through: http://validator.w3.org/
-	- Run your CSS page(s) through: https://jigsaw.w3.org/css-validator/
+- Continue building out your pages
+
+#####Step 5: Validate
+- Run your HTML pages through: http://validator.w3.org/
+- Run your CSS page(s) through: https://jigsaw.w3.org/css-validator/
 
 
-- Step 6: Present
-	- During the final class on Thurs 7/16, you will present your web pages to your peers
+#####Step 6: Present
+
+- During the final class on Thurs 7/16, you will present your web pages to your peers
+
+
+####<a id="evaluation">In evaluating your work, I will be checking for the following:</a>
+
+- Directory structure: organize your code in a logical structure. Is your code organized in a manner that is logical? You have seen many examples of appropriate directory structures in our work so far. 
+- Layout:  Does your website's meaningfully improve the appearance and understandability of your content?  Is the website clean with an easy-to-follow navigation system that contributes to a usable webpage layout?  Is the content on the website easy to find? 
+- Responsiveness: Is your page optimized for viewing on a smaller screen than our classroom computers (whether the smaller screen be a smaller browser window or, if you want to challenge yourself, another device like a smartphone)?
+- Code quality: write valid HTML and CSS. The w3c consortium has an excellent [code validator](http://validator.w3.org/#validate_by_input) which tells you if your html page is valid.  There is also a [CSS validator](http://jigsaw.w3.org/css-validator/). Copy/paste or upload your files to the validator, and fix any errors! 
+- Code readability: write code that is readable by using appropriate formatting (e.g., filenames and tags are all lowercase) and appropriate comments where applicable. Udacity has an excellent [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/) which you should read/use for code readability.
+
 
 ####<a id="tips">Tips for the final project</a>
 - Wireframe first! 
 - Once you have a wireframe, set up your project with git and push to github
-- Focus first on the layout of your pages. Add a grid to your CSS, then set up boxes with the right sizes
+- Focus first on the layout of your pages. Perhaps, add a grid to your CSS, then set up boxes with the right sizes
 - Once you have the basic layout, fill in pieces. Start with common pieces like headers and footers 
 - You don’t have to use a framework. The best thing a framework gives you is a grid, and responsive layout. If you do decide to use a framework, don’t copy all the CSS code to your project. Instead, add a link to the CSS code hosted on a CD to your HTML doc (in the head). For example:
 	- Twitter Bootstrap: http://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css
@@ -72,7 +88,7 @@ Your submission should include:
 ####<a id="homeworksubmission">Homework Submission (by Monday, July 13th)</a>
 
 - A link to your project on github
-- If you need a refresher on getting started with Git, check out [this cheat sheet](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md) I created
+- If you need a refresher on getting started with Git, check out [the cheat sheet](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md) I created.
 
 ####<a id="projectsubmission">Final Project Submission (by Thurs July 16)</a>
 
@@ -95,3 +111,9 @@ Personal questions? Email barnardpcp@farheen.nyc
 <br>
 <hr height="10px">
 ##<a id="resources">Resources</a>
+- Review information and additional resources from past units/lessons.  It could help clarify something you're confused about, ensuring your final project goes smoothly.
+	- [Unit 1 - Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)
+	- [Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
+	- [Unit 2B - Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)
+	- [Unit 4 - Responsive Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)
+	- [Unit 4 - Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
