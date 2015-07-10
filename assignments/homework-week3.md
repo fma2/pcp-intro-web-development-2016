@@ -44,7 +44,7 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 	- Work on step 4 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject).  Keep building!
 
 *(optional)*
-- Review information and additional resources from past units/lessons.  It could help clarify something you're confused about, ensuring your final project goes smoothly
+- Review information and additional resources from past units/lessons.  It could help clarify something you're confused about, ensuring your final project goes smoothly.
 	- [Unit 1 - Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)
 	- [Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
 	- [Unit 2B - Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)
