@@ -114,3 +114,5 @@ $ git push origin master
 After making a change in your local repository, make sure you `git add <name of file>`, `git commit -m "<Description of Change>"`, and `git push origin master`.
 
 What that could look like--
+
+![typical-git-flow](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/typical-git-flow.png)
