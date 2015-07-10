@@ -72,6 +72,7 @@ Your submission should include:
 ####<a id="homeworksubmission">Homework Submission (by Monday, July 13th)</a>
 
 - A link to your project on github
+- If you need a refresher on getting started with Git, check out [this cheat sheet](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md) I created
 
 ####<a id="projectsubmission">Final Project Submission (by Thurs July 16)</a>
 
