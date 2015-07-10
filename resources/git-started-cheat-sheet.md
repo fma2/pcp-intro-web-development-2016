@@ -103,7 +103,7 @@ More on adding a remote can be found [here](https://help.github.com/articles/add
 
 ##Pushing changes to a remote
 
-After [recording changes to a repository](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#recording-changes-to-the-repository), remember to push your local branch to a remote repository:
+After [recording changes to a repository](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#recording-changes-to-the-repository), remember to push your local branch to your remote repository on Github:
 
 ```
 $ git push origin master
