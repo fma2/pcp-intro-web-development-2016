@@ -30,9 +30,25 @@ Please let me know if you have any issues - barnardpcp@farheen.nyc.
 
 ###By Monday, July 13th
 
-####Review & Practice:
+####Review and Practice:
 
-- Complete step 3 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject)
+- Git and Github
+	- Read the following resources about git and Github:
+		- [Skillcrush: Version Control](http://skillcrush.com/2013/02/11/version-control/)
+		- [Skillcrush: Git](http://skillcrush.com/2013/02/18/git/)
+		- [Skillcrush: Getting started working with Git](http://skillcrush.com/2013/02/20/get-started-working-with-git/)
+		- [Is Git the Same Thing as Github!?](http://jahya.net/blog/git-vs-github/)
+	- Create an account on Code School and try Git: [https://www.codeschool.com/courses/try-git](https://www.codeschool.com/courses/try-git).
+- Final Project
+	- Complete step 3 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject)
+	- Work on step 4 of the [Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-finalproject).  Keep building!
 
-Read resources and materials from past lessons:
-[list coming soon]
+*(optional)*
+- Review information and additional resources from past units/lessons.  It could help clarify something you're confused about, ensuring your final project goes smoothly
+	- [Unit 1 - Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)
+	- [Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
+	- [Unit 2B - Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)
+	- [Unit 4 - Responsive Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)
+	- [Unit 4 - Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
+
+
