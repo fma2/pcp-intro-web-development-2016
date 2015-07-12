@@ -55,8 +55,14 @@ Choose a project: You have wide latitude in the type of website you build. Your 
 
 #####Step 6: Present
 
-- During the final class on Thurs 7/16, you will present your website to your peers.
-
+- During the final class on Thurs 7/16, you will have 7-10 minutes to present your website to your peers.
+- In your presentation, please cover the following--
+	- **The purpose of your website**: what did you decide to build?  Why did you decide to build it?  Who would or could find your website useful (i.e. target audience)?
+	- **Technologies you used**: what technologies did you use (e.g. HTML, CSS, Bootstrap, etc.) and why? 
+	- **What you learned**: what did you learn about HTML, CSS, and responsive design? What did you learn about web development?
+	- **Struggles/issues**: what struggles and problems did you encounter (technological and/or personal)?
+	- **Reflection**: what would you improve if you had more time?  In hindsight, what might have you done differently?
+	- **What's next**: In its next iteration, how will/would you make it better?
 
 ####<a id="evaluation">In evaluating your work, I will be checking for the following:</a>
 

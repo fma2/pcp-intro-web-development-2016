@@ -4,19 +4,20 @@ This week we will work on look at some special topics, finish our final projects
 
 
 ###Monday, July 13
-- Warm-up Activity
-- Unit 4: Special Topics
-	- 4.2: JavaScript and jQuery
-- Unit 5: Putting it all together
+- [Warm-up Activity](https://docs.google.com/presentation/d/1WSz8UBLOg_FuN_ET1hYWiYkHKDU-p8kbhVR3f77qHPQ/edit?usp=sharing)
+- [Unit 4: Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md)
+	- [4.2: JavaScript and jQuery](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#42-js)
+	- [4.1: What is Wordpress?](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#41-wordpress)
+- [Unit 5: Putting it all together](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)
 	- 5.1: Final Project
 
 ###Tuesday, July 14
 
-- Field trip to Foursquare - meet at 9 AM
+- Field trip to Foursquare - meet at 8:50 AM
 
 ###Thursday, July 16
 
-- Unit 5: Putting it all together
+- [Unit 5: Putting it all together](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)
 	- 5.1: Final Project
 		- Project Presentations
 	- 5.2 How to continue coding
