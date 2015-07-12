@@ -122,3 +122,13 @@ After making a change in your local repository, make sure you `git add <name of 
 What that could look like--
 
 ![typical-git-flow](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/typical-git-flow.png)
+
+##Getting an existing repository from GitHub
+
+- Copy the HTTPS link from the repository's GitHub page
+- In the command line, 
+
+```
+$ git clone `<paste the HTTPS link here>`
+
+```
