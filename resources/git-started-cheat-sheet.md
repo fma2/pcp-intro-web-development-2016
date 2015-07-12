@@ -129,6 +129,6 @@ What that could look like--
 - In the command line, 
 
 ```
-$ git clone `<paste the HTTPS link here>`
+$ git clone <paste the HTTPS link here>
 
 ```
