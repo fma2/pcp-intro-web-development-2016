@@ -10,6 +10,7 @@ Table of Contents:
 - [Adding a remote](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#adding-a-remote)
 - [Pushing changes to a remote](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#pushing-changes-to-a-remote)
 - [Typical flow](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#typical-flow)
+- [Getting an existing repository from GitHub](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md#getting-an-existing-repository-from-github)
 
 
 ##First-Time Git Setup
