@@ -59,18 +59,18 @@ Choose a project: You have wide latitude in the type of website you build. Your 
 - In your presentation, please cover the following--
 	- **The purpose of your website**: what did you decide to build?  Why did you decide to build it?  Who would or could find your website useful (i.e. target audience)?
 	- **Technologies you used**: what technologies did you use (e.g. HTML, CSS, Bootstrap, etc.) and why? 
-	- **What you learned**: what did you learn about HTML, CSS, and responsive design? What did you learn about web development?
+	- **Reflection**: what did you learn about HTML, CSS, and responsive design? What did you learn about web development? What would you improve if you had more time?  In hindsight, what might have you done differently?
 	- **Struggles/issues**: what struggles and problems did you encounter (technological and/or personal)?
-	- **Reflection**: what would you improve if you had more time?  In hindsight, what might have you done differently?
 	- **What's next**: In its next iteration, how will/would you make it better?
 
 ####<a id="evaluation">In evaluating your work, I will be checking for the following:</a>
 
 - Directory structure: organize your code in a logical structure. Is your code organized in a manner that is logical? You have seen many examples of appropriate directory structures in our work so far. 
-- Layout:  Does your website's meaningfully improve the appearance and understandability of your content?  Is the website clean with an easy-to-follow navigation system that contributes to a usable webpage layout?  Is the content on the website easy to find? 
+- Layout:  Does your website's layout meaningfully improve the appearance and understandability of your content?  Is the website clean with an easy-to-follow navigation system that contributes to a usable webpage layout?  Is the content on the website easy to find? 
 - Responsiveness: Is your page optimized for viewing on a smaller screen than our classroom computers (whether the smaller screen be a smaller browser window or, if you want to challenge yourself, another device like a smartphone)?
 - Code quality: write valid HTML and CSS. The w3c consortium has an excellent [code validator](http://validator.w3.org/#validate_by_input) which tells you if your html page is valid.  There is also a [CSS validator](http://jigsaw.w3.org/css-validator/). Copy/paste or upload your files to the validator, and fix any errors! 
 - Code readability: write code that is readable by using appropriate formatting (e.g., filenames and tags are all lowercase) and appropriate comments where applicable. Udacity has an excellent [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/) which you should read/use for code readability.
+- Presentation: Does your presentation thoughtfully and effectively describe the purpose of your website, the technologies used, reflection and issues, and next steps?
 
 
 ####<a id="tips">Tips for the final project</a>
