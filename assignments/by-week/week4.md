@@ -13,7 +13,7 @@ This week we will work on look at some special topics, finish our final projects
 
 ###Tuesday, July 14
 
-- Field trip to Foursquare - meet at 8:50 AM
+- Field trip to Foursquare - meet in front of Barnard Hall at 8:50 AM sharp!
 
 ###Thursday, July 16
 
