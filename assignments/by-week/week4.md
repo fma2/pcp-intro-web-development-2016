@@ -9,7 +9,7 @@ This week we will work on look at some special topics, finish our final projects
 	- [4.2: JavaScript and jQuery](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#42-js)
 	- [4.1: What is Wordpress?](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#41-wordpress)
 - [Unit 5: Putting it all together](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)
-	- [5.1: Final Project]((https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md))
+	- [5.1: Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)
 
 ###Tuesday, July 14
 
@@ -18,7 +18,7 @@ This week we will work on look at some special topics, finish our final projects
 ###Thursday, July 16
 
 - [Unit 5: Putting it all together](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)
-	- [5.1: Final Project]((https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md))
+	- [5.1: Final Project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md)
 		- [Project Presentations](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#step-6-present)
 	- [5.2 How to continue coding](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#51-how-to-continue-coding)
 - Celebrate!
