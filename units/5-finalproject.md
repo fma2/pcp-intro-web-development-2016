@@ -55,6 +55,7 @@ Choose a project: You have wide latitude in the type of website you build. Your 
 
 #####Step 6: Present
 
+- Host your project on GitHub pages. [This is how you get your site hosted on GitHub Pages](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#45a-hosting-with-github-pages). - Remember to [submit your project](https://github.com/fma2/pcp-intro-web-development/blob/master/units/5-finalproject.md#final-project-submission-by-thurs-july-16) by 9 AM on 7/16.
 - During the final class on Thurs 7/16, you will have 7-10 minutes to present your website to your peers.
 - In your presentation, please cover the following--
 	- **The purpose of your website**: what did you decide to build?  Why did you decide to build it?  Who would or could find your website useful (i.e. target audience)?
