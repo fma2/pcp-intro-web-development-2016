@@ -72,6 +72,7 @@ Choose a project: You have wide latitude in the type of website you build. Your 
 - Code readability: write code that is readable by using appropriate formatting (e.g., filenames and tags are all lowercase) and appropriate comments where applicable. Udacity has an excellent [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/) which you should read/use for code readability.
 - Presentation: Does your presentation thoughtfully and effectively describe the purpose of your website, the technologies used, reflection and issues, and next steps?
 
+[Here is the rubric](https://docs.google.com/spreadsheets/d/1umgGoaSNbg2hKaP_QEwuZS0YqTIrzStUVMAvMygDA3g/edit?usp=sharing) on which it will be graded.
 
 ####<a id="tips">Tips for the final project</a>
 - Wireframe first! 
