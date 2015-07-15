@@ -102,7 +102,7 @@ Your submission should include:
 
 Submit your final project with the following items:
 
-- A link to your final project hosted on github pages, in the form <yourUsername>.github.io/<yourRepositoryname>
+- A link to your final project hosted on github pages, in the form <yourUsername>.github.io/<yourRepositoryname>.  [This is how you get your site hosted on GitHub Pages](https://github.com/fma2/pcp-intro-web-development/blob/master/units/4-specialtopics.md#45a-hosting-with-github-pages).
 - A link to your github repository
 
 General questions? Email pcp-htmlcss-summer2015@googlegroups.com.
