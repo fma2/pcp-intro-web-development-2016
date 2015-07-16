@@ -142,7 +142,7 @@ Access list of all homework assignments and projects [here](https://github.com/f
 
 ##<a id="#">Course Evaluation</a>
 
-[Coming soon!]
+Help me improve this course for future students!  Please complete the [Course Evaluation Survey](https://docs.google.com/forms/d/1ZAyUk21jf49--SmqablLz7xW782nlvvHlJ9H8GF9mdg/viewform).
 
 
 
