@@ -13,7 +13,6 @@ Use the links below to jump to a section on this page.
 - [5.2: How to continue coding](#52-contcoding)
 - [Resources](#resources)
 
-<br>
 <hr height="10px">
 
 ##<a id="51-finalproject">5.1: Final Project</a>
