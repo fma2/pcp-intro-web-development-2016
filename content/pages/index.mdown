@@ -38,15 +38,15 @@ At the conclusion of the course, students should be able to:
 
 ###<a id="topics">Modules & Topics</a>
 
-- Module 0: Get ready to code!
+- [Module 0: Get ready to code!](/modules/0-get-ready-to-code)
 	- Setting up your environment
-- Module 1: Introduction to HTML
+- [Module 1: Introduction to HTML](/modules/1-introhtml)
 	- HTML document structure
 	- HTML elements, tags, and attributes
-- Module 2: Introduction to CSS
+- [Module 2: Introduction to CSS](/modules/2-introcss)
 	- CSS selectors
 	- CSS positioning
-- Module 3: Putting it all together
+- [Module 3: Putting it all together](/modules/3-finalproject)
 
 
 ###<a id="grading">Course Grading</a>
