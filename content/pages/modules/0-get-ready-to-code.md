@@ -1,4 +1,4 @@
-#0: Get Ready to Code!
+#Module 0: Get Ready to Code!
 
 Welcome to Introduction to Web Development! Before we get coding, let's start with the basics.
 
@@ -9,7 +9,7 @@ Use the links below to jump to a section on this page.
 - [0.3. Why programming?](#03-whyprogramming)
 - [0.4. How do web apps work?](#04-webapps)
 - [0.5. Explore HTML and CSS](#05-explore)
-- [0.6 Tools of the Trade - The Inspector](#06-inspector)
+
 - [Resources](#resources)
 
 <hr height="10px">
@@ -63,38 +63,7 @@ Use the links below to jump to a section on this page.
 + Download the folder and save it on your desktop
 + Attempt to make all the changes listed on page 5 of [Explore HTML and CSS](https://docs.google.com/presentation/d/1MZqxCYIMeO-9MZxCp1pkrQb6QyxHnLqAZ-teiZhHYKw/edit?usp=drive_web)
 
-<hr height="10px">
 
-##<a id="06-inspector">0.6. Tools of the Trade - The Inspector</a>
-
-####Use Chrome Dev Tools
-
-- Explore the Google homepage using Dev Tools - see slides 1-3 of [1.5 Document Object Model](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit?usp=sharing)
-
-####HTML Document Tree
-
-- Learn about the browser DOM tree - directions below are from slide 4 in [1.5 Document Object Model](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit?usp=sharing)
-
-> Let’s explore a page using Dev Tools:
-
-> - Go to: [en.wikipedia.org](en.wikipedia.org)
-> - In the Chrome menu, select Tools > Developer Tools 
-> - Go to the Elements Tab, and mouse over the lines
-> - What do you notice? (Write down all that apply)
-> - Everything in the elements tab is visible to the user on the page
-> - When you hover over elements on the page, your browser highlights a rectangular area
-> - You can see the same text in the elements tab as on the page
-
-####Create a DOM tree
-
-- Create a DOM tree describing the structure of [this web page](http://pcpsimpletree.neocities.org/).
-
-####Extend Your Learning
-
-- Take the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
-
-
-<br>
 <hr height="10px">
 
 ##<a id="resources">Resources </a>
