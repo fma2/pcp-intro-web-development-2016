@@ -1,32 +1,60 @@
-#2A: Introduction to HTML
+#Module 1: Introduction to HTML
 
-Welcome to Unit 2A!  In this unit, we'll introduce ourselves to HTML.
+Welcome to Module 1!  In this unit, we'll introduce ourselves to HTML.
 
 Use the links below to jump to a section of this page.
 
-- [2A.1: HTML document structure](#2A1-html-document-structure)
-- [2A.2: Elements, Tags, and Attributes](#2A2-elements)
-- [2A.3: Semantic HTML](#2A3-semantic)
+- [1.1. Tools of the Trade - The Inspector](#11-inspector)
+- [1.2. HTML document structure](#12-html-document-structure)
+- [1.3. Elements, Tags, and Attributes](#13-elements)
+- [1.4. Semantic HTML](#14-semantic)
 - [Resources](#resources)
 
-<br>
 <hr height="10px">
 
-##<a id="2A1-html-document-structure">2A.1: HTML Document Structure</a>
+##<a id="11-inspector">1.1. Tools of the Trade - The Inspector</a>
+
+####Use Chrome Dev Tools
+
+- Explore the Google homepage using Dev Tools - see slides 1-3 of [1.5 Document Object Model](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit?usp=sharing)
+
+####HTML Document Tree
+
+- Learn about the browser DOM tree - directions below are from slide 4 in [1.5 Document Object Model](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit?usp=sharing)
+
+> Let’s explore a page using Dev Tools:
+
+> - Go to: [en.wikipedia.org](en.wikipedia.org)
+> - In the Chrome menu, select Tools > Developer Tools 
+> - Go to the Elements Tab, and mouse over the lines
+> - What do you notice? (Write down all that apply)
+> - Everything in the elements tab is visible to the user on the page
+> - When you hover over elements on the page, your browser highlights a rectangular area
+> - You can see the same text in the elements tab as on the page
+
+####Create a DOM tree
+
+- Create a DOM tree describing the structure of [this web page](http://pcpsimpletree.neocities.org/).
+
+####Extend Your Learning
+
+- Take the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
+
+##<a id="12-html-document-structure">1.2: HTML Document Structure</a>
 
 ####2A.1a: HTML Document Structure
 
 - Read basics of HTML in [2A.1 - HTML Document Structure](https://docs.google.com/presentation/d/14V9mqnnqLOpVrp0exf-XlNg8IsVmLDqRIDueO0Xlawc/edit?usp=sharing)
 
+<hr height="10px">
 
 ####2A.1b: Project 1 - Landing Page
 
 - Set up the directory structure and add basic content to build a landing page - see slides 5-8 of [2A.1 - HTML Document Structure](https://docs.google.com/presentation/d/14V9mqnnqLOpVrp0exf-XlNg8IsVmLDqRIDueO0Xlawc/edit?usp=sharing)
 
-<br>
 <hr height="10px">
 
-##<a id="2A2-elements">2A.2: Elements, Tags and Attributes</a>
+##<a id="13-elements">1.3: Elements, Tags and Attributes</a>
 
 ####2A.2a: HTML Elements and tags
 
@@ -37,9 +65,8 @@ Use the links below to jump to a section of this page.
 
 - Add more content to your landing page using the elements and tags.  Feel free to explore these HTML element reference lists: [Mozilla: HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) & [W3 Schools: HTML Element Reference](http://www.w3schools.com/tags/default.asp).  Get creative!
 
-<br>
 <hr height="10px">
-##<a id="2A3-semantic">2A.3: Semantic HTML</a>
+##<a id="14-semantic">1.4: HTML5</a>
 
 ####2A.3a: About Semantic HTML
 - Read: [2A.3 - Semantic HTML](https://docs.google.com/presentation/d/1Q9z3_zY-9c8keImrD4owboUGb6eljRqcRjd5dzrWQZ8/edit?usp=sharing).
@@ -76,7 +103,6 @@ Reflect:
 - How many elements did you have to use?
 - Why do the semantic HTML tags you used make sense?
 
-<br>
 <hr height="10px">
 
 
