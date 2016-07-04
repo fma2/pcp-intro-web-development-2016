@@ -1,6 +1,6 @@
-#5: Putting it all together - Final Project
+#Module 3: Putting it all together
 
-Congratulations!  We've made it to the final unit: putting it all together! You’ve now learned enough HTML and CSS to build a fully functioning website from scratch. 
+Congratulations!  We've made it to the final module: putting it all together! You’ve now learned enough HTML and CSS to build a fully functioning website from scratch. 
 
 Use the links below to jump to a section on this page.
 

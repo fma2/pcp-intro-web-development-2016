@@ -9,6 +9,7 @@ Use the links below to jump to a section on this page.
 - [2.3 Boxes](#23-boxes)
 - [2.4 External v. internal CSS](#24-externalvinternal)
 - [2.5 Layout](#25-layout)
+- [2.6 Responsive design](#26-responsive)
 - [Resources](#resources)
 
 <hr height="10px">
@@ -88,6 +89,73 @@ Use the links below to jump to a section on this page.
 See directions [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md)
 
 <hr height="10px">
+<hr height="10px">
+
+##<a id="31-responsive">3.1: Responsive Design</a>
+
+####3.1a: Responsive Design
+
+- Read: [3.1 - Responsive Design](https://docs.google.com/presentation/d/1tH8PllEDxUZGfEvUv0BmacftuFRfRIeihLZHvHV2qCo/edit?usp=sharing)
+- Do this on your desktop (from slide 2 in [3.1 - Responsive Design](https://docs.google.com/presentation/d/1tH8PllEDxUZGfEvUv0BmacftuFRfRIeihLZHvHV2qCo/edit?usp=sharing)):
+> - Go to npr.org 
+> 	- Resize your computer screen by dragging the window
+> - Now, go to: nytimes.com
+> 	- Again, resize your computer screen. 
+> - Write a few sentences describing the differences between the two websites as you resized your page. 
+> 	- What do you notice about the content of the pages?
+
+<hr height="10px">
+##<a id="32-float">3.2: Grid-Based Web Design</a>
+
+
+####3.2a: Grid Based Web Design
+
+- Read: [Grid Based Web Design](https://docs.google.com/presentation/d/1pHbWFvCVTyxA1kR0i7qMa-m0Qx5h9R4V0VgCMGatT5Q/edit?usp=sharing)
+- Do: **Create Flexible Layouts** (from slide 2 in [Practice with Grids](https://docs.google.com/presentation/d/1pHbWFvCVTyxA1kR0i7qMa-m0Qx5h9R4V0VgCMGatT5Q/edit?usp=sharing))
+
+> - Instead of pixels (fixed layout), use percentages to decide how wide columns should be
+> - Go to: jsbin.com/butuxa
+> 	- Let’s edit this page together using Dev tools
+>	- Remove the fixed page width 
+>	- Change the section, and sidebar to use percentages instead of fixed pixels
+
+- Do: **Let's set up a grid!** (from slide 11 in [Practice with Grids](https://docs.google.com/presentation/d/1pHbWFvCVTyxA1kR0i7qMa-m0Qx5h9R4V0VgCMGatT5Q/edit?usp=sharing))
+
+> - Go to: http://jsbin.com/moyaya
+> - Fill in the HTML and CSS to make your output look like image on slide 11 in [Practice with Grids](https://docs.google.com/presentation/d/1pHbWFvCVTyxA1kR0i7qMa-m0Qx5h9R4V0VgCMGatT5Q/edit?usp=sharing):
+
+
+
+<hr height="10px">
+##<a id="33-media">3.3: Media Queries</a>
+
+
+####3.3a: Media Queries
+
+- Read: [Media Queries](https://docs.google.com/presentation/d/1ekk188MbguthhNl3E4CdGMUpxA85mM1_IbSSAHrhFmA/edit?usp=sharing)
+- Let's see media queries at work.  Follow directions in slides 7-10 in [Media Queries](https://docs.google.com/presentation/d/1ekk188MbguthhNl3E4CdGMUpxA85mM1_IbSSAHrhFmA/edit?usp=sharing)
+
+<hr height="10px">
+
+##<a id="34-images">3.4: Flexible Media - Images</a>
+
+
+####3.4a: Flexible Media - Images
+
+- Read: [Flexible Images](https://docs.google.com/presentation/d/15EKJiye_qXDzBW_cjas2L5ltLjGZfgb2Col6RCxwwNc/edit?usp=sharing)
+- Try it out. Follow directions on slide 4 in [Flexible Images](https://docs.google.com/presentation/d/15EKJiye_qXDzBW_cjas2L5ltLjGZfgb2Col6RCxwwNc/edit?usp=sharing)
+
+<hr height="10px">
+
+##<a id="35-bootstrap">3.5: CSS Frameworks - Bootstrap</a>
+
+
+####3.5a: CSS Frameworks - Bootstrap
+
++ Read: [CSS Frameworks - Bootstrap](https://docs.google.com/presentation/d/1fm8ngfmbd6XxAKqXaBcjPGkNhq43q3TDN5Hg4NjcF6E/edit?usp=sharing)
+
+
+<hr height="10px">
 
 ##<a id="resources">Resources</a>
 
@@ -107,4 +175,11 @@ See directions [here](https://github.com/fma2/pcp-intro-web-development/blob/mas
 	- [Udacity - HTML-CSS-DOM](https://www.youtube.com/watch?t=152&v=tSv2KIF7uE4)
 	- [Udacity: Boxes, Grids, and Rules](https://www.youtube.com/watch?v=fvtm9lK-JM0)
 	- [Don't Fear Starting from Scratch Part 2: CSS](http://www.dontfeartheinternet.com/css/don%E2%80%99t-fear-starting-from-scratch-2)
-	
+- Responsive Design
+	- [Shay Howe: Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+	- [Skillcrush - Responsive Design](http://skillcrush.com/2012/05/08/responsive-design/)
+	- [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
+	- [This is Responsive](http://bradfrost.github.io/this-is-responsive/index.html) - A collection of patterns and modules for responsive designs
+- Flexible Layouts
+	- [Flexible Math](http://responsv.com/flexible-math/)
+

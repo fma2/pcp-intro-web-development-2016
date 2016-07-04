@@ -99,9 +99,9 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
-| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.5. Layout|
+| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.5. Layout<br> 2.6. Responsive design|
 |<br> | <br>|
-| Module 3: <br>[Putting it all together](/modules/5-finalproject)  | 3.1 Cumulative project|
+| Module 3: <br>[Putting it all together](/modules/5-putting-it-all-together)  | 3.1 Cumulative project|
 | | <br> **Homework**: TBA| 
 
 ####<a id="july15">Fri, July 15</a>

@@ -4,3 +4,4 @@ modules
 	modules/1-introhtml
 	modules/2-introcss
 	modules/3-finalproject
+	modules/extendlearning-specialtopics
