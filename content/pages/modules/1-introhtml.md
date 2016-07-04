@@ -114,6 +114,10 @@ Reflect:
 	- [Shay Howe: Creating Lists](http://learn.shayhowe.com/html-css/creating-lists/)
 	- [Shay Howe: Organizing Data with Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
 - Additional Readings
+	- Tools of the Trade - The Inspector
+		- [Introduction to Chrome Developer Tools, Part One](http://www.html5rocks.com/en/tutorials/developertools/part1/#toc-elements)
+	- The Command Line
+		- [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
 	- [W3 Schools: HTML Element Reference](http://www.w3schools.com/tags/default.asp)
 	- [W3 Schools: HTML Tutorial](http://www.w3schools.com/html/default.asp)
 	- [Dive into HTML5 - Intro](http://diveintohtml5.info/index.html)
@@ -146,6 +150,9 @@ Reflect:
 		-	[Video: Form Fields](http://www.youtube.com/watch?v=-IrqxNwot3E)
 	-	HTTP [slides](http://www.teaching-materials.org/htmlcss-1day/html-http/slides.html) & [video](http://www.youtube.com/watch?v=6BzbCUW4B6Y)
 	-	History of HTML  [slides](http://www.teaching-materials.org/htmlcss-1day/html-history/slides.html) & [video](https://www.youtube.com/watch?v=9AlQO8MiNOw)
+	- Tools of the Trade - The Inspector
+		- [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
+		- [Video: Don't Fear the Browser - Developer Tools & Vanilla Ice Cream](http://www.dontfeartheinternet.com/html/html) (3:35 min)
 
 
 
