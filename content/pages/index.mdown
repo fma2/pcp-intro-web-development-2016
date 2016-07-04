@@ -76,7 +76,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
-| Module 0: <br>[Get Ready to Code!](/modules/0-get-ready-to-code)  | 0.1. Welcome & Introductions <br> 0.2. Orientation: syllabus, tools, & setting up your work station <br> 0.3. Why Programming <br>0.4 How do web apps work? <br>0.5. Explore HTML and CSS |
+| Module 0: <br>[Get Ready to Code!](/modules/0-get-ready-to-code)  | 0.1. Welcome & Introductions <br> 0.2. Orientation: syllabus, tools, & setting up your work station <br> 0.3. Why Programming <br>0.4 How do web apps work? <br>0.5. Explore HTML and CSS<br>0.6. Tools of the Trade - The Inspector|
 | | <br> **Homework**: TBA| 
 
 ####<a id="july12">Tues, July 12</a>
