@@ -14,110 +14,39 @@ Use the links below to jump to a section of this page.
 
 ##<a id="11-inspector">1.1. Tools of the Trade - The Inspector</a>
 
-####Use Chrome Dev Tools
+- Slide: [Tools of Trade - The Inspector](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit?usp=sharing)
+  - Activity: [Practice using Dev Tools!](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit#slide=id.g6e36b57d0_033)
 
-- Explore the Google homepage using Dev Tools - see slides 1-3 of [1.5 Document Object Model](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit?usp=sharing)
-
-####HTML Document Tree
-
-- Learn about the browser DOM tree - directions below are from slide 4 in [1.5 Document Object Model](https://docs.google.com/presentation/d/1LhOGcbd3HCZxw5OBC2fA12s59tIy01rE1vRFzVO7e_o/edit?usp=sharing)
-
-> Let’s explore a page using Dev Tools:
-
-> - Go to: [en.wikipedia.org](en.wikipedia.org)
-> - In the Chrome menu, select Tools > Developer Tools 
-> - Go to the Elements Tab, and mouse over the lines
-> - What do you notice? (Write down all that apply)
-> - Everything in the elements tab is visible to the user on the page
-> - When you hover over elements on the page, your browser highlights a rectangular area
-> - You can see the same text in the elements tab as on the page
-
-####Create a DOM tree
-
-- Create a DOM tree describing the structure of [this web page](http://pcpsimpletree.neocities.org/).
-
-####Extend Your Learning
-
-- Take the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
+<hr height="10px">
 
 ##<a id="12-html-document-structure">1.2. HTML Document Structure</a>
 
-####2A.1a: HTML Document Structure
-
-- Read basics of HTML in [2A.1 - HTML Document Structure](https://docs.google.com/presentation/d/14V9mqnnqLOpVrp0exf-XlNg8IsVmLDqRIDueO0Xlawc/edit?usp=sharing)
+- Slides: [HTML Document Structure](https://docs.google.com/presentation/d/1ZsZyQX3ot_CViAI62gQM9zuWw93PSt25ZBKgeB5708Q/edit?usp=sharing)
 
 <hr height="10px">
 
-####2A.1b: Project 1 - Landing Page
+##<a id="13-elements">1.3. Elements, tags and attributes</a>
 
-- Set up the directory structure and add basic content to build a landing page - see slides 5-8 of [2A.1 - HTML Document Structure](https://docs.google.com/presentation/d/14V9mqnnqLOpVrp0exf-XlNg8IsVmLDqRIDueO0Xlawc/edit?usp=sharing)
-
-<hr height="10px">
-
-##<a id="13-elements">1.3. Elements, Tags and Attributes</a>
-
-####2A.2a: HTML Elements and tags
-
-- Read basics of HTML elements and tags on slides 4-6 of [2A.2 - Elements, Tags and Attributes](https://docs.google.com/presentation/d/1yhCjYalgiIQmbId2TnhVReNRDsbLBogQ1FtjDe7syxg/edit?usp=sharing)
-- Practice researching and writing HTML tags on slide 5 of [2A.2 - Elements, Tags and Attributes](https://docs.google.com/presentation/d/1yhCjYalgiIQmbId2TnhVReNRDsbLBogQ1FtjDe7syxg/edit?usp=sharing)
-
-####2A.2b: Project 1 - Landing Page
-
-- Add more content to your landing page using the elements and tags.  Feel free to explore these HTML element reference lists: [Mozilla: HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) & [W3 Schools: HTML Element Reference](http://www.w3schools.com/tags/default.asp).  Get creative!
+- Slides: [Elements, Tags and Attributes](https://docs.google.com/presentation/d/1yhCjYalgiIQmbId2TnhVReNRDsbLBogQ1FtjDe7syxg/edit?usp=sharing)
 
 <hr height="10px">
-##<a id="14-semantic">1.4. HTML5</a>
+##<a id="14-semantic">1.4. HTML5 Layout</a>
 
-####2A.3a: About Semantic HTML
-- Read: [2A.3 - Semantic HTML](https://docs.google.com/presentation/d/1Q9z3_zY-9c8keImrD4owboUGb6eljRqcRjd5dzrWQZ8/edit?usp=sharing).
-- Practice writing semantic HTML elements -- see slide 12 in [2A.3 - Semantic HTML](https://docs.google.com/presentation/d/1Q9z3_zY-9c8keImrD4owboUGb6eljRqcRjd5dzrWQZ8/edit?usp=sharing).
-
-####2A.3b: Reverse-Engineer a Page
-
-Pair up and reverse-engineer a page!  
-
-- Choose one or, if time allows, do both of the following--
-	1. Without worrying about styling, recreate the [Google](www.google.com) homepage using semantic HTML.
-	2. Reverse-engineer [THIS](https://docs.google.com/drawings/d/1aBNhlbSW8ZBj_STNxqBLOfTEn3aVHy52rYOyb6w7YSI/edit) page!
-- Create a new html document titled: reverse.html.
-- Work with a partner to write HTML that matches the page.
-
-Reflect:
-
-- Did you have to look up any new elements? Which ones?
-- While you were researching, did you identify any new tags?
-	- Did you add styling (colors for font, etc.) ? How might you do that?
-
-####2A.3c: Update your Resume using HTML
-
-Is your resume still in a Word or PDF document somewhere? Pish-posh. You have the skills now to move it to the web!
-
-- Create a new html document titled: resume.html.
-- Choose to find your resume, create your dream resume, or google a stranger’s resume.
-- Use HTML elements to recreate your chosen resume in your HTML document.
-- Add yourself as author and any relevant keywords for the jobseeker.
-- Use appropriate semantic HTML elements (e.g. footer, article, etc.) wherever you can.
-
-Reflect:
-
-- How many elements did you have to use?
-- Why do the semantic HTML tags you used make sense?
+- Slides: [HTML5 Layout](https://docs.google.com/presentation/d/1lQyhaouaBeyQ-j5TnfreyaCbCu1eIGIznqfVjbYKDI0/edit?usp=sharing)
 
 <hr height="10px">
 
 
 ##<a id="resources">Resources</a>
-
-- From the Book *Learn to Code HTML & CSS* by Shay Howe
-	- [Shay Howe: Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
-	- [Shay Howe: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
-	- [Shay Howe: Creating Lists](http://learn.shayhowe.com/html-css/creating-lists/)
-	- [Shay Howe: Organizing Data with Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
 - Additional Readings
+	- From the Book *Learn to Code HTML & CSS* by Shay Howe
+		- [Shay Howe: Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
+		- [Shay Howe: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
+		- [Shay Howe: Creating Lists](http://learn.shayhowe.com/html-css/creating-lists/)
+		- [Shay Howe: Organizing Data with Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
 	- Tools of the Trade - The Inspector
 		- [Introduction to Chrome Developer Tools, Part One](http://www.html5rocks.com/en/tutorials/developertools/part1/#toc-elements)
-	- The Command Line
-		- [The Command Line Crash Course](http://cli.learncodethehardway.org/book/)
+		- Check out the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
 	- [W3 Schools: HTML Element Reference](http://www.w3schools.com/tags/default.asp)
 	- [W3 Schools: HTML Tutorial](http://www.w3schools.com/html/default.asp)
 	- [Dive into HTML5 - Intro](http://diveintohtml5.info/index.html)
