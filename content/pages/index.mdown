@@ -16,6 +16,7 @@ Use the links below to jump to a section on this page.
 	- [Wed July 13](#july13)
 	- [Thurs July 14](#july14)
 	- [Thurs July 14](#july15)
+- [Contact information](#contact)
 - [Homework & Projects](#homework)
 - [Resources]()
 - [Course Evaluation]()
@@ -76,7 +77,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
-| Module 0: <br>[Get Ready to Code!](/modules/0-get-ready-to-code)  | 0.1. Welcome & Introductions <br> 0.2. Orientation: syllabus, tools, & setting up your work station <br> 0.3. Why Programming <br>0.4 How do web apps work?<br> 0.5. Explore HTML and CSS|
+| Module 0: <br>[Get Ready to Code!](/modules/0-get-ready-to-code)  | 0.1. Welcome & Introductions <br> 0.2. Orientation: syllabus, tools, & setting up your environment <br> 0.3. Why Programming <br>0.4 How do web apps work?<br> 0.5. Explore HTML and CSS|
 | | <br> **Homework**: TBA| 
 
 ####<a id="july12">Tues, July 12</a>
@@ -110,7 +111,12 @@ If you weren't able to get the book before class, there will be copies at Barnar
 | ------------- |-------------| --------------------|
 | Module 3: <br>[Putting it all together](/modules/3-finalproject)  | 3.1 Cumulative project<br> 3.2 Presentations<br> Extend your learning!|
 
+<hr height="10px">
 
+##<a id="contact">Contact information</a>
+
+- All course material available at [http://pcp-intro-web-dev.herokuapp.com/](http://pcp-intro-web-dev.herokuapp.com/).
+- Reach me at barnardpcp@farheen.nyc.
 
 <hr height="10px">
 ##<a id="homework">Homework & Projects</a>
@@ -126,6 +132,8 @@ If you weren't able to get the book before class, there will be copies at Barnar
 - [Udacity: Intro to HTML/CSS course](https://www.udacity.com/course/viewer#!/c-ud304/l-2617868617/e-2771378561/m-2771378562)
 - [Code Academy course, HTML/CSS](http://www.codecademy.com/en/tracks/web)
 - [Code Avengers course, HTML/CSS](http://www.codeavengers.com/web/100)  -->
+
+
 
 <hr height="10px">
 
