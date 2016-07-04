@@ -14,13 +14,13 @@ Use the links below to jump to a section on this page.
 
 <hr height="10px">
 
-##<a id="01-welcome">0.1: Welcome and Introductions</a>
+##<a id="01-welcome">0.1. Welcome and Introductions</a>
 
 - Read: [Welcome to Introduction to Web Development](https://docs.google.com/presentation/d/1MoaFrrFQXTr7B7TfgtXCCl50y7MJClcs3EmzN8eOWa4/edit?usp=sharing)
 
 <hr height="10px">
 
-##<a id="02-orientation">0.2: Orientation: syllabus, tools, and setting up your work station</a>
+##<a id="02-orientation">0.2. Orientation: syllabus, tools, and setting up your work station</a>
 
 - Check out the most updated syllabus on our course website at [http://pcp-intro-web-dev.herokuapp.com/](http://pcp-intro-web-dev.herokuapp.com/).
 - Verify you computer has a modern web browser. I *highly* recommend using the latest version of Chrome
@@ -34,14 +34,14 @@ Use the links below to jump to a section on this page.
 <hr height="10px">
 
 
-##<a id="03-whyprogramming">0.3: Why Programming?</a>
+##<a id="03-whyprogramming">0.3. Why Programming?</a>
 
 - Read: [0.3 Why Programming](https://docs.google.com/presentation/d/1AXe2o3v7tBVGNHJbRC2eAEVuL65xvnB4xxNFFgXank8/edit?usp=sharing) 
 - Consider this **key takeaway:** While not everyone wants to be or should be a professional software engineer, a basic understanding of computing concepts and how web/mobile applications work is critical for success in a networked world.
 
 <hr height="10px">
 
-##<a id="04-webapps">0.4: How do web apps work?</a>
+##<a id="04-webapps">0.4. How do web apps work?</a>
 
 - Read: [0.4 How web apps work?](https://docs.google.com/presentation/d/1H2VA6pImaF_MLvCaAwBuK75GPIr4aI7a56AfbTH8AhE/edit?usp=sharing) 
 -  Watch: [Not A Series of Tubes](http://www.dontfeartheinternet.com/the-basics/not-tubes)

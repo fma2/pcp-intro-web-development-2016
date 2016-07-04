@@ -40,7 +40,7 @@ Use the links below to jump to a section of this page.
 
 - Take the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
 
-##<a id="12-html-document-structure">1.2: HTML Document Structure</a>
+##<a id="12-html-document-structure">1.2. HTML Document Structure</a>
 
 ####2A.1a: HTML Document Structure
 
@@ -54,7 +54,7 @@ Use the links below to jump to a section of this page.
 
 <hr height="10px">
 
-##<a id="13-elements">1.3: Elements, Tags and Attributes</a>
+##<a id="13-elements">1.3. Elements, Tags and Attributes</a>
 
 ####2A.2a: HTML Elements and tags
 
@@ -66,7 +66,7 @@ Use the links below to jump to a section of this page.
 - Add more content to your landing page using the elements and tags.  Feel free to explore these HTML element reference lists: [Mozilla: HTML element reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element) & [W3 Schools: HTML Element Reference](http://www.w3schools.com/tags/default.asp).  Get creative!
 
 <hr height="10px">
-##<a id="14-semantic">1.4: HTML5</a>
+##<a id="14-semantic">1.4. HTML5</a>
 
 ####2A.3a: About Semantic HTML
 - Read: [2A.3 - Semantic HTML](https://docs.google.com/presentation/d/1Q9z3_zY-9c8keImrD4owboUGb6eljRqcRjd5dzrWQZ8/edit?usp=sharing).

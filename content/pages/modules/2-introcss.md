@@ -1,18 +1,18 @@
-#2B: Intro to CSS
+#Module 2: Introduction to CSS
 
-Welcome to Unit 2B!  In this unit, we'll introduce ourselves to CSS.
+Welcome to Module 2!  In this unit, we'll introduce ourselves to CSS.
 
 Use the links below to jump to a section on this page.
 
-- [2B.1: CSS Selectors](#2B1-css-selectors)
-- [2B.2: CSS Positioning - The Box Model](#2B2-boxmodel)
-- [2B.3: Positioning Content with Floats](#2B3-float)
-- [2B.4: Advanced Positioning](#2B4-advanced)
+- [2.1. CSS Selectors](#21-css-selectors)
+- [2.2 Color, text, images](#22-color-text-images)
+- [2.3 Boxes](#23-boxes)
+- [2.4 External v. internal CSS](#24-externalvinternal)
+- [2.5 Layout](#25-layout)
 - [Resources](#resources)
 
-<br>
 <hr height="10px">
-##<a id="2B1-css-selectors">2B.1: CSS Selectors</a>
+##<a id="21-css-selectors">2.1. CSS Selectors</a>
 
 ####2B.1a: CSS Selectors
 - Read basics of CSS selectors in [2B.1 - CSS Selectors](https://docs.google.com/presentation/d/1Gs9I608u4gGIy3oJIAJmLUXduax05i8d0vvIsdbaDlM/edit?usp=sharing)
@@ -25,7 +25,6 @@ Use the links below to jump to a section on this page.
 - Finish the Landing Page project.  Refer to directions [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project1.md#part-2---css) or in [2B.1 - CSS Selectors](https://docs.google.com/presentation/d/1Gs9I608u4gGIy3oJIAJmLUXduax05i8d0vvIsdbaDlM/edit?usp=sharing).
 
 
-<br>
 <hr height="10px">
 ##<a id="2B2-boxmodel">2B.2: CSS Positioning - The Box Model</a>
 
@@ -48,7 +47,6 @@ Use the links below to jump to a section on this page.
 
 
 
-<br>
 <hr height="10px">
 ##<a id="2B3-float">2B.3: CSS Positioning</a>
 
@@ -69,7 +67,6 @@ Use the links below to jump to a section on this page.
 	- Copy HTML from [bit.ly/3-2-layoutpractice](bit.ly/3-2-layoutpractice)
 	- Add CSS to recreate the layout on slide 8 in [Practice Floats and Clear](https://docs.google.com/presentation/d/1izl1PtVtrL195T07F1cnM2WmlUtkbhvPRMvCY0MPPcg/edit?usp=sharing)
 
-<br>
 <hr height="10px">
 
 ##<a id="2B4-advanced">2B.4: Advanced Positioning</a>
@@ -90,7 +87,6 @@ Use the links below to jump to a section on this page.
 
 See directions [here](https://github.com/fma2/pcp-intro-web-development/blob/master/assignments/project2.md)
 
-<br>
 <hr height="10px">
 
 ##<a id="resources">Resources</a>
