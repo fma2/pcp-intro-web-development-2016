@@ -1,6 +1,6 @@
 #Module 2: Introduction to CSS
 
-Welcome to Module 2!  In this unit, we'll introduce ourselves to CSS.
+Welcome to Module 2!  In this module, we'll introduce ourselves to CSS.
 
 Use the links below to jump to a section on this page.
 
@@ -8,7 +8,8 @@ Use the links below to jump to a section on this page.
 - [2.2 Color, text, images](#22-color-text-images)
 - [2.3 Boxes](#23-boxes)
 - [2.4 Layout](#24-layout)
-- [2.5 Responsive design](#26-responsive)
+- [2.5 Process & Design](#25-processdesign)
+- [2.6 Responsive design](#26-responsive)
 - [Resources](#resources)
 
 <hr height="10px">
@@ -33,7 +34,7 @@ Use the links below to jump to a section on this page.
 
 <hr height="10px">
 
-##<a id="25-responsive">2.5. Responsive Design (if time allows)</a>
+##<a id="25-responsive">2.6. Process and Design</a>
 
 - Slides: [Responsive Design](https://docs.google.com/presentation/d/1gQiJHxh-Mrsba3nelcNRhyXXI8U0nExQ_ny94qTJJWw/edit?usp=sharing)
 - Slides [CSS Frameworks: Bootstrap](https://docs.google.com/presentation/d/1WQ6tC5wQccCHZ7M4JIp-8_GnFhslN6ormCh1yFcNh_M/edit?usp=sharing)

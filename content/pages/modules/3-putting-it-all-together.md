@@ -1,22 +1,43 @@
 #Module 3: Putting it all together
 
-Stay tuned for more details!
-<!-- Congratulations!  We've made it to the final module: putting it all together! You’ve now learned enough HTML and CSS to build a fully functioning website from scratch. 
+Welcome to the final module!  In this module, we'll finalize our landing page/portfolio and check out other ways to continue learning to code.
 
 Use the links below to jump to a section on this page.
 
-- [5.1: Final Project](#51-finalproject)
-	- [Final Project directions](#directions)
-	- [Evaluating your work](#evaluation)
-	- [Tips for the Final Project](#tips)
-	- [Homework submission](#homeworksubmission)
-	- [Final Project submission](#projectsubmission) - Due Thursday, July 16, 2015
-- [5.2: How to continue coding](#52-contcoding)
-- [Resources](#resources)
+- [3.1. Cumulative project - Landing page/portfolio](#31-cumproject)
+- [3.2. How to continue learning](#32-continuelearning)
+- [3.3. What to learn next](#33-learnnext)
 
 <hr height="10px">
 
-##<a id="51-finalproject">5.1: Final Project</a>
+##<a id="31-cumproject">3.1. Cumulative project - landing page/portfolio</a>
+
+***Stay tuned for more details!***
+
+<hr height="10px">
+
+
+##<a id="32-continuelearning">3.2. How to continue learning</a>
+
+- Slides: [How to continue coding]()
+
+<hr height="10px">
+
+##<a id="33-learnnext">3.3. What to learn next</a>
+
+###1.  Responsive Design
+
+- Slides: [Responsive Design](https://docs.google.com/presentation/d/1gQiJHxh-Mrsba3nelcNRhyXXI8U0nExQ_ny94qTJJWw/edit?usp=sharing)
+- Slides [CSS Frameworks: Bootstrap](https://docs.google.com/presentation/d/1WQ6tC5wQccCHZ7M4JIp-8_GnFhslN6ormCh1yFcNh_M/edit?usp=sharing)
+
+###[2.  Special topics](/modules/extendlearning-specialtopics)
+
+- Wordpress
+- JavaScript & jQuery
+- Version control
+- Git and github
+
+<!-- ##<a id="51-finalproject">5.1: Final Project</a>
 
 ####<a id="directions">Final Project directions</a>
 
@@ -114,15 +135,15 @@ Personal questions? Email barnardpcp@farheen.nyc
 
 ##<a id="52-contcoding">5.1: How to Continue Coding</a>
 
-- Read: [How to Continue Coding](https://docs.google.com/presentation/d/1HKhZkG0IFW711XaV9zb4bLQJmHlAaxihJpP1maj5qkc/edit?usp=sharing)
+- Read: [How to Continue Coding](https://docs.google.com/presentation/d/1HKhZkG0IFW711XaV9zb4bLQJmHlAaxihJpP1maj5qkc/edit?usp=sharing) -->
 
-
-<br>
 <hr height="10px">
 ##<a id="resources">Resources</a>
 - Review information and additional resources from past units/lessons.  It could help clarify something you're confused about, ensuring your final project goes smoothly.
-	- [Unit 1 - Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)
+
+<!-- 	- [Unit 1 - Get Ready to Code!](https://github.com/fma2/pcp-intro-web-development/blob/master/units/1-get-ready-to-code.md)
 	- [Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
 	- [Unit 2B - Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)
 	- [Unit 4 - Responsive Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)
-	- [Unit 4 - Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md) -->
+	- [Unit 4 - Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
+ -->

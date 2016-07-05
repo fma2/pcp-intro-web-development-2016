@@ -3,5 +3,5 @@ modules
 	modules/0-get-ready-to-code
 	modules/1-introhtml
 	modules/2-introcss
-	modules/3-finalproject
+	modules/3-putting-it-all-together
 	modules/extendlearning-specialtopics

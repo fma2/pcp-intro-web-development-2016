@@ -1,6 +1,6 @@
 #Extend your learning: Special Topics
 
-Welcome to Unit 4!  In this unit, we'll explore a few special topics in web development.
+Explore a few special topics in web development.
 
 Use the links below to jump to a section of this page.
 
