@@ -104,7 +104,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
-| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.5. Layout<br> 2.6. Responsive design|
+| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.5. Layout<br> 2.6. Responsive design (if time allows)	|
 |<br> | <br>|
 | Module 3: <br>[Putting it all together](/modules/5-putting-it-all-together)  | 3.1 Cumulative project|
 | | <br> **Homework**: TBA| 
@@ -121,11 +121,6 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 - All course material available at [http://pcp-intro-web-dev.herokuapp.com/](http://pcp-intro-web-dev.herokuapp.com/).
 - Reach me at barnardpcp@farheen.nyc.
-
-<hr height="10px">
-##<a id="homework">Homework & Projects</a>
-
-<!-- Access list of all homework assignments and projects [here](). -->
 
 <hr height="10px">
 ##<a id="resources">Resources</a>

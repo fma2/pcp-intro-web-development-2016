@@ -1,6 +1,7 @@
 #Module 3: Putting it all together
 
-Congratulations!  We've made it to the final module: putting it all together! You’ve now learned enough HTML and CSS to build a fully functioning website from scratch. 
+Stay tuned for more details!
+<!-- Congratulations!  We've made it to the final module: putting it all together! You’ve now learned enough HTML and CSS to build a fully functioning website from scratch. 
 
 Use the links below to jump to a section on this page.
 
@@ -124,4 +125,4 @@ Personal questions? Email barnardpcp@farheen.nyc
 	- [Unit 2A - Introduction to HTML](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
 	- [Unit 2B - Introduction to CSS](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2B-introcss.md)
 	- [Unit 4 - Responsive Design](https://github.com/fma2/pcp-intro-web-development/blob/master/units/3-gridbaseddesign.md)
-	- [Unit 4 - Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md)
+	- [Unit 4 - Special Topics](https://github.com/fma2/pcp-intro-web-development/blob/master/units/2A-introhtml.md) -->
