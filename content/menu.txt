@@ -5,3 +5,4 @@ modules
 	modules/2-introcss
 	modules/3-putting-it-all-together
 	modules/extendlearning-specialtopics
+resources

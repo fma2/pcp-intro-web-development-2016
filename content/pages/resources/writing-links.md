@@ -6,7 +6,6 @@
 
 ```html
 <link rel="stylesheet" type="text/css" href="styles.css">
-<!-- make sure the href attribute specifies the correct path to the CSS file -->
 ```
 
 ##LINKING TO OTHER SITES

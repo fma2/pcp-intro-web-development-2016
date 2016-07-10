@@ -1,41 +1,177 @@
 #Module 1: Introduction to HTML
 
-Welcome to Module 1!  In this unit, we'll introduce ourselves to HTML.
+Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewing document structure, elements, tags, and attributes.
 
-Use the links below to jump to a section of this page.
+##Learning Objectives
 
-- [1.1. Tools of the Trade - The Inspector](#11-inspector)
-- [1.2. HTML document structure](#12-html-document-structure)
-- [1.3. Elements, Tags, and Attributes](#13-elements)
-- [1.4. Semantic HTML](#14-semantic)
+1. Properly structure HTML documents
+2. Use HTML markup (elements, tags, attributes)
+3. Understand how HTML5 relates to traditional HTML
+
+##Rundown
+
+- [1.1. HTML document structure](#11-html-document-structure)
+- [1.2. Elements, Tags, and Attributes](#12-elements)
+- [1.3. HTML5 Layout](#13-html5layout)
+
+##Time permitting...
+- [1.4. Tools of the Trade - The Inspector](#14-inspector)
 - [Resources](#resources)
 
 <hr height="10px">
 
-##<a id="11-inspector">1.1. Tools of the Trade - The Inspector</a>
+##<a id="11-html-document-structure">1.1. HTML Document Structure</a>
 
-- Slide: [Tools of Trade - The Inspector](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit?usp=sharing)
-  - Activity: [Practice using Dev Tools!](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit#slide=id.g6e36b57d0_033)
-
-<hr height="10px">
-
-##<a id="12-html-document-structure">1.2. HTML Document Structure</a>
+###View
 
 - Slides: [HTML Document Structure](https://docs.google.com/presentation/d/1ZsZyQX3ot_CViAI62gQM9zuWw93PSt25ZBKgeB5708Q/edit?usp=sharing)
 
+###Exercise/s
+
+1. Coding challenge: [Your first HTML page](https://docs.google.com/presentation/d/1ZsZyQX3ot_CViAI62gQM9zuWw93PSt25ZBKgeB5708Q/edit#slide=id.g68aa363b7_0100)
+
+	- First step: directory structure
+		- Keep all the files for your site in the same directory/folder
+		- HTML Files, CSS Files, Images, Scripts, etc.
+	- Create a directory and name it: ```landing```
+	- Open the directory in Sublime Text
+	- Open a new page in Sublime Text
+	- Type the code below
+
+		```
+		<!DOCTYPE html>
+		<html>
+		<head>
+			<title>Farheen Malik</title>
+		</head>
+		<body>
+
+		</body>
+		</html>
+
+		```
+
+	- Save it as index.html in your landing directory
+	- Open index.html in Chrome. What do you notice on your page?
+	- Add more content
+
+
+		```
+		<!DOCTYPE html>
+		<html>
+		<head>
+			<title>Farheen Malik</title>
+		</head>
+		<body>
+			Hey! I'm Farheen.
+		</body>
+		</html>
+
+		```
+
 <hr height="10px">
 
-##<a id="13-elements">1.3. Elements, tags and attributes</a>
+##<a id="12-elements">1.2. Elements, tags and attributes</a>
 
-- Slides: [Elements, Tags and Attributes](https://docs.google.com/presentation/d/1yhCjYalgiIQmbId2TnhVReNRDsbLBogQ1FtjDe7syxg/edit?usp=sharing)
+###View
+
+- Slides: [Elements, Tags and Attributes](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit?usp=sharing)
+
+###Exercise/s
+
+1. Activity: [Find those tags](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g68aa363b7_0203)
+
+	- Pair up with a friend, look up the following tags and write them down:
+		- A numbered (ordered) list of the best boroughs in NYC
+		- A bulleted (unordered) list of your favorite travel destinations
+		- A link that, when selected, will launch an email program and send an email with subject line “Hi there!”
+		- Some code comments that will not show up in the browser when viewing the code
+
+2. Coding challenge: [Using text markup](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.gb5109d93e_1_163)
+
+	- Download the code: [https://github.com/barnard-pcp-intro-web-dev/html-text-markup](https://github.com/barnard-pcp-intro-web-dev/html-text-markup)
+	- Open index.html in Chrome
+	- Add HTML markup to index.html so it looks like the image [here](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.gb5109d93e_1_163).
+	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
+
+3. Coding challenge: [Writing links](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g1155c6eca3_0_145)
+
+	- Add 4 links to your HTML markup for the ‘Using text markup’ coding challenge
+		- A link for www.google.com
+		- A relative link to about.html
+		- An email link
+		- A link to your favorite website
+	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
+
+4. Coding challenge: [Making lists](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g1155c6eca3_0_113)
+
+	- Add an **ordered list** and an **unordered list** to your HTML markup for the ‘Using text markup’ coding challenge
+	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
+
+5. Coding challenge: [Add an image](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g1155c6eca3_0_261)
+
+	- Add an image element to your HTML markup from the ‘Using text markup’ coding challenge
+	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
+
+6. Coding challenge: [Add more content to your landing page](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g68ab9327c_066)
+
+	- A ```<div class=”header”>```, place your image element inside of this
+	- Add an image element to your HTML markup from the ‘Using text markup’ coding challenge
+	- Content about you using at least 5 different elements, e.g. use ```<p>``` to introduce yourself
+	- Bonus: An input element for email submission (it won’t actually submit anything yet!)
 
 <hr height="10px">
-##<a id="14-semantic">1.4. HTML5 Layout</a>
+##<a id="13-html5layout">1.3. HTML5 Layout</a>
 
-- Slides: [HTML5 Layout](https://docs.google.com/presentation/d/1lQyhaouaBeyQ-j5TnfreyaCbCu1eIGIznqfVjbYKDI0/edit?usp=sharing)
+###View
+- Slides: [HTML5 Layout](https://docs.google.com/presentation/d/1lQyhaouaBeyQ-j5TnfreyaCbCu1eIGIznqfVjbYKDI0/edit#slide=id.g1155c35909_0_0)
+
+###Exercise/s
+
+1. [Turn your landing page into a portfolio page](https://docs.google.com/presentation/d/1lQyhaouaBeyQ-j5TnfreyaCbCu1eIGIznqfVjbYKDI0/edit#slide=id.g1155c35909_0_0)
+
+	Scenario: Your top choice for college loves that you can code and wants to see some of your work.  
+
+	Improve the landing page you started in a previous lesson - make it your portfolio page.  Make it all about you.  Think about what you can include, and add content (see the next slide for details)!
+
+	What is your background?  What are your accomplishments? What are your hobbies?  What else are you proud of?  
+
+
+	Make sure your page has the following.  Be sure to use some HTML5 elements!
+	- A header element containing an image element
+	- An input element for email submission (it won’t actually submit anything yet!)
+	- Content about you using at least 6 different elements.  For example, use <p> to introduce yourself
+	- Content reviews the following information about you:
+	- Your name and picture
+	- A little bit about who you are
+	- Your contact details (Twitter handle, email, etc.)
+	- Recent work
+	- Your skills
+
+
 
 <hr height="10px">
 
+##<a id="14-inspector">1.4. Tools of the Trade - The Inspector</a>
+
+###View
+
+- Slide: [Tools of Trade - The Inspector](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit?usp=sharing)
+
+###Exercise
+ 
+ - Activity: [Practice using Dev Tools!](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit#slide=id.g6e36b57d0_033)
+
+	- Let’s explore a page using Dev Tools: 
+	- Go to: en.wikipedia.org
+	- In the Chrome menu, select Tools > Developer Tools 
+	- Go to the Elements Tab, and mouse over the lines
+	- What do you notice? 
+		- Everything in the elements tab is visible to the user on the page
+		- When you hover over elements on the page, your browser highlights a rectangular area
+		- You can see the same text in the elements tab as on the page
+
+<hr height="10px">
 
 ##<a id="resources">Resources</a>
 - Additional Readings
@@ -55,12 +191,12 @@ Use the links below to jump to a section of this page.
 	- [Open Tech School - The template structure](http://opentechschool.github.io/html-css-beginners/en/core/structure.html)
 	- [Open Tech School - HTML5 Structure and Starter CSS](http://opentechschool.github.io/html-css-beginners/en/core/portfolio.html)
 	- [HTML Tag Cheat Sheet](http://skillcrush.com/wp-content/uploads/2012/06/HTML-Cheatsheet-Skillcrush.pdf)
-	- Semantic HTML
-		- [Why Use Semantic HTML?](http://webdesign.about.com/od/htmltags/a/why-semantic-html.htm)
-		- [Semantic Code: What? Why? How?](https://boagworld.com/dev/semantic-code-what-why-how/)
-		- [W3 Schools: HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
-		- [html5 Doctor: Let's Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
-		- [Semantic Content Markup](http://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)
+	- [HTML5 Sectioning Flowchart](http://html5doctor.com/downloads/h5d-sectioning-flowchart.pdf)
+	- [Why Use Semantic HTML?](http://webdesign.about.com/od/htmltags/a/why-semantic-html.htm)
+	- [Semantic Code: What? Why? How?](https://boagworld.com/dev/semantic-code-what-why-how/)
+	- [W3 Schools: HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
+	- [html5 Doctor: Let's Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
+	- [Semantic Content Markup](http://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)
 - Videos
 	- [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/html/html) (3:35)
 	- [Don't Fear Starting from Scratch Part 1: HTML](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
