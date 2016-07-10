@@ -117,7 +117,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
-| Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.2 Cumulative project<br> 3.2 Presentations<br> 3.3 Extend your learning!|
+| Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.2 Cumulative project presentations<br> 3.3 How to continue coding<br> 3.4 Extend your learning!|
 
 <hr height="10px">
 
@@ -128,13 +128,6 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 <hr height="10px">
 ##<a id="resources">Resources</a>
-
-<!-- - [Intro to HTML/CSS 2-Day Course](http://www.teaching-materials.org/htmlcss-1day/)
-- [Google: Made with Code](www.madewithcode.com)
-- [IEEE Trycomputing.org: Online Computing Education Tools](http://www.trycomputing.org/resources)
-- [Udacity: Intro to HTML/CSS course](https://www.udacity.com/course/viewer#!/c-ud304/l-2617868617/e-2771378561/m-2771378562)
-- [Code Academy course, HTML/CSS](http://www.codecademy.com/en/tracks/web)
-- [Code Avengers course, HTML/CSS](http://www.codeavengers.com/web/100)  -->
 
 
 
