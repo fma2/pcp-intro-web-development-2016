@@ -13,7 +13,7 @@ Welcome to Module 2!  **In this module, we'll introduce ourselves to CSS**.
 - [2.1. CSS Selectors](#21-css-selectors)
 - [2.2. Color, text, images](#22-color-text-images)
 - [2.3. Boxes](#23-boxes)
-- [2.4. Layout](#24-layout)
+- [2.4. Layout - positioning content with ```position``` and ```float```](#24-layout)
 
 ##Time permitting...
 

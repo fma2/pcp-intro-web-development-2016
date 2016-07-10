@@ -1,18 +1,18 @@
 #Module 3: Putting it all together
 
-Welcome to the final module!  In this module, we'll finalize our landing page and check out other ways to continue learning to code.
+Welcome to the final module!  **In this module, we'll finalize our landing page and check out other ways to continue learning to code**.
 
 ##Learning Objectives
 
-1. 
-2. 
-3. 
+1. Understand how to approach building a site.
+2. Launch a landing page all about you.
+3. Understand ways to continue learning after this class and what to learn.
 
 ##Rundown
 
 - [3.1. Process and Design](#31-processdesign)
 - [3.2. Cumulative project - landing page/portfolio](#31-cumproject)
-- [3.3. How to contiue learning](#33-howtocontinue)
+- [3.3. How to continue learning](#33-howtocontinue)
 
 ##Time permitting...
 - [3.4. What to learn next](#34-learnnext)
@@ -27,13 +27,21 @@ Welcome to the final module!  In this module, we'll finalize our landing page an
 
 ###Exercise/s
 
-1. 
+1. Activity: **Sitemaps and wireframes**
+
+	- Sitemaps
+		- Draw a sitemap for [this portfolio site](http://cassiemoy.com/)
+		- Draw a sitemap for [barnard.edu](http://barnard.edu/)
+	- Wireframe
+	  - Draw a wireframe for [this portfolio site](http://eugenenam.com/)
+	  - Draw a wireframe for [barnard.edu](http://barnard.edu/)
+
 
 <hr height="10px">
 
 ##<a id="32-cumproject">3.2. Cumulative Project - Your Landing Page</a>
 
-It's time to launch youf landing page!
+It's time to launch your landing page!
 
 We've been working all week on HTML and CSS for our personal landing page.  Now is the time to make it better!  The website for this cumulative project must include at least 2 pages, media, and use modern, valid HTML and CSS. 
 
@@ -47,8 +55,7 @@ In evaluating your work, I will be checking for the following:
 - Code readability: write code that is readable by using appropriate formatting (e.g., filenames and tags are all lowercase) and appropriate comments where applicable. Udacity has an excellent [style guide](http://udacity.github.io/frontend-nanodegree-styleguide/) which you should read/use for code readability.
 - Presentation: Does your presentation thoughtfully and effectively describe the purpose of your website, the technologies used, reflection and issues, and next steps?
 
-Bonus: 
-- Responsiveness: Is your page optimized for viewing on a smaller screen than our classroom computers (whether the smaller screen be a smaller browser window or, if you want to challenge yourself, another device like a smartphone)?
+Bonus: Responsiveness - Is your page optimized for viewing on a smaller screen than our classroom computers (whether the smaller screen be a smaller browser window or, if you want to challenge yourself, another device like a smartphone)?
 
 [Here is the rubric]() on which it will be graded.
 
@@ -125,7 +132,7 @@ Your website must include at least 2 pages.  For the second page, here are a few
 ####Step 7: Use Github to deploy!
 
 - Create a repo on Github and upload your code there.
-- Then, use Gitbot to publicly launch your page.
+- Then, use [Gitbot](http://www.gitbot.co/) to deploy your page.
 
 ####Step 8: Submit!
 - Send a link to your Github page and to your website to me: <a href="mailto:barnardpcp@farheen.nyc" target="_blank">barnardpcp@farheen.nyc</a>
@@ -144,10 +151,10 @@ Your website must include at least 2 pages.  For the second page, here are a few
 <hr height="10px">
 
 
-##<a id="33-continuelearning">3.3. How to continue learning</a>
+##<a id="33-continuelearning">3.3. How to continue learning to code</a>
 
 ###View
-- Slides: [How to continue coding]()
+- Slides: [Continue learning to code](https://docs.google.com/presentation/d/103ZPzSE-fR7vUTZhhNnE0jh7lvAncZJ7yYBxNcPaN3c/edit?usp=sharing)
 
 <hr height="10px">
 

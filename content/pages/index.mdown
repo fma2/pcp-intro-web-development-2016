@@ -106,7 +106,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
-| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.5. Layout<br> 2.6. Responsive design (if time allows)	|
+| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.4. Layout - positioning content	|
 |<br> | <br>|
 | Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.1 Process and Design<br>3.2 Cumulative project|
 | |<br>**Homework**| 
