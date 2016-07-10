@@ -28,7 +28,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 ###Exercise/s
 
-1. Coding challenge: [Your first HTML page](https://docs.google.com/presentation/d/1ZsZyQX3ot_CViAI62gQM9zuWw93PSt25ZBKgeB5708Q/edit#slide=id.g68aa363b7_0100)
+1. **Coding challenge: Your first HTML page**
 
 	- First step: directory structure
 		- Keep all the files for your site in the same directory/folder
@@ -79,7 +79,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 ###Exercise/s
 
-1. Activity: [Find those tags](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g68aa363b7_0203)
+1. Activity: **Find those tags**
 
 	- Pair up with a friend, look up the following tags and write them down:
 		- A numbered (ordered) list of the best boroughs in NYC
@@ -87,14 +87,14 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		- A link that, when selected, will launch an email program and send an email with subject line “Hi there!”
 		- Some code comments that will not show up in the browser when viewing the code
 
-2. Coding challenge: [Using text markup](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.gb5109d93e_1_163)
+2. Coding challenge: **Using text markup**
 
 	- Download the code: [https://github.com/barnard-pcp-intro-web-dev/html-text-markup](https://github.com/barnard-pcp-intro-web-dev/html-text-markup)
 	- Open index.html in Chrome
-	- Add HTML markup to index.html so it looks like the image [here](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.gb5109d93e_1_163).
+	- Add HTML markup to index.html so it looks like the image [here](https://goo.gl/photos/s3twPwDs74KhGx4V7).
 	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
 
-3. Coding challenge: [Writing links](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g1155c6eca3_0_145)
+3. Coding challenge: **Writing links**
 
 	- Add 4 links to your HTML markup for the ‘Using text markup’ coding challenge
 		- A link for www.google.com
@@ -103,22 +103,24 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		- A link to your favorite website
 	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
 
-4. Coding challenge: [Making lists](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g1155c6eca3_0_113)
+4. Coding challenge: **Making lists**
 
 	- Add an **ordered list** and an **unordered list** to your HTML markup for the ‘Using text markup’ coding challenge
 	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
 
-5. Coding challenge: [Add an image](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g1155c6eca3_0_261)
+5. Coding challenge: **Add an image**
 
 	- Add an image element to your HTML markup from the ‘Using text markup’ coding challenge
 	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
 
-6. Coding challenge: [Add more content to your landing page](https://docs.google.com/presentation/d/1tX2uY4IZB6x1fTB0OsBcTlsel4EIfO-sVvK2mYr8lnU/edit#slide=id.g68ab9327c_066)
+6. Coding challenge: **Add more content to your landing page**
 
 	- A ```<div class=”header”>```, place your image element inside of this
 	- Add an image element to your HTML markup from the ‘Using text markup’ coding challenge
 	- Content about you using at least 5 different elements, e.g. use ```<p>``` to introduce yourself
 	- Bonus: An input element for email submission (it won’t actually submit anything yet!)
+
+	![More content](https://raw.githubusercontent.com/fma2/pcp-intro-web-development-2016/master/content/pages/resources/images/2A1htmldocstructure-codesnippet2.png?token=AGj6MvH0RM8BESFwLXeJMHKcTr0eTM3Kks5XjAu4wA%3D%3D)
 
 <hr height="10px">
 ##<a id="13-html5layout">1.3. HTML5 Layout</a>
@@ -128,7 +130,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 ###Exercise/s
 
-1. Coding challenge: [Turn your landing page into a portfolio page](https://docs.google.com/presentation/d/1lQyhaouaBeyQ-j5TnfreyaCbCu1eIGIznqfVjbYKDI0/edit#slide=id.g1155c35909_0_0)
+1. Coding challenge: **Keep going with your landing page**
 
 	Scenario: Your top choice for college loves that you can code and wants to see some of your work.  
 
@@ -154,11 +156,11 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 ###View
 
-- Slide: [Tools of Trade - The Inspector](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit?usp=sharing)
+- Slides: [Tools of Trade - The Inspector](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit?usp=sharing)
 
 ###Exercise/s
  
- - Activity: [Practice using Dev Tools!](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit#slide=id.g6e36b57d0_033)
+ - Activity: **Practice using Dev Tools**
 
 	- Let’s explore a page using Dev Tools: 
 	- Go to: en.wikipedia.org

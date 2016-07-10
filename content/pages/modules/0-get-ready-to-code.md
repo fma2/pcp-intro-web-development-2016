@@ -25,7 +25,7 @@ Welcome to Introduction to Web Development! Before we get coding, let's start wi
 
 ###Exercise/s
 
-1. Activity: [Marching Orders](https://docs.google.com/presentation/d/1cpWMNOSxkAbZn6uDHEjgzqoMMqEFQVhVScTznWvZ4BI/edit#slide=id.g695938eb7_00)
+1. Activity: **Marching Orders**
 
 	Would it be good if people followed instructions exactly?  What would happen if you pointed to a closed door and said, “Go through that door”?
 
@@ -33,7 +33,7 @@ Welcome to Introduction to Web Development! Before we get coding, let's start wi
 
 	Your task: 
 
-	- Pair up.  Select one person to be the Artist and the other to be the Instructor.
+	- Pair up.  Select one person to be the **Artist** and the other to be the **Instructor**.
 	- Instructor describes the picture provided to them to the Artist.  
 	- Artist can ask questions to clarify instructions.
 	Switch! 
@@ -50,12 +50,13 @@ Welcome to Introduction to Web Development! Before we get coding, let's start wi
 
 ###Exercise/s
 
-1. [Set up your environment](https://docs.google.com/presentation/d/1WVnJt0ur9kBi7l6xPQRnpu67CL7PTsil6z8dOcXfnlg/edit#slide=id.g1155b54377_0_100)
+1. Activity: **Set up your environment**
 
-	- Create a github account at [github.com](http://github.com)
+	- Create a Github account at [github.com](http://github.com)
 	- Verify your account (you'll need to log in to your email)
-	- Check out Sublime Text
+	- Share your Github username with me through this form: [http://goo.gl/forms/b8TUHHXaqhIaqDdo1](http://goo.gl/forms/b8TUHHXaqhIaqDdo1).  I'll use this to add you to the [class GitHub organization](https://github.com/barnard-pcp-intro-web-dev)
 	- Explore the class website: [http://pcp-intro-web-dev.herokuapp.com/](http://pcp-intro-web-dev.herokuapp.com/)
+	- Check out Sublime Text
 
 
 <hr height="10px">
@@ -67,7 +68,7 @@ Welcome to Introduction to Web Development! Before we get coding, let's start wi
 
 ###Exercise/s
 
-1. Discuss: [Should everyone learn to code? Why or why not?](https://docs.google.com/presentation/d/1HjnXxxPWFiiBMXAUj2nvxpaW4DcyhM8BnDcEFwDdoUA/edit#slide=id.p25)
+1. **Discuss**: [Should everyone learn to code? Why or why not?](https://docs.google.com/presentation/d/1HjnXxxPWFiiBMXAUj2nvxpaW4DcyhM8BnDcEFwDdoUA/edit#slide=id.p25)
 
 
 <hr height="10px">
@@ -86,7 +87,7 @@ Welcome to Introduction to Web Development! Before we get coding, let's start wi
 
 ###Exercise/s
 
-1. Hack this page #1
+1. **Hack this page #1**
 
 	- Go to: [https://github.com/barnard-pcp-intro-web-dev/explore-html-css-1](https://github.com/barnard-pcp-intro-web-dev/explore-html-css-1)
 	- Download the folder and save it to your computer
@@ -98,7 +99,7 @@ Welcome to Introduction to Web Development! Before we get coding, let's start wi
 		- Change the text that appears in the browser toolbar to: “Cook with Chrissy” 
 		- Replace the guacamole image with another image
   
-2. Hack this page #2
+2. **Hack this page #2**
 
 	- Go to: [https://github.com/barnard-pcp-intro-web-dev/explore-html-css-2](https://github.com/barnard-pcp-intro-web-dev/explore-html-css-2)
 	- Download the folder, save it to your computer, and open in Sublime
@@ -108,9 +109,7 @@ Welcome to Introduction to Web Development! Before we get coding, let's start wi
 		- Change the color when you hover over words in the navigation bar to green 
 		- Replace the cityscape painting with another image
 
-3. Hack recap
+3. **Hack recap**
 
 	- Discuss: 
 		What differences do you notice between HTML and CSS? How are HTML & CSS connected? What did you discover? What was easy? Hard? Confusing?
-
-Find slides with the above exercises [here](https://docs.google.com/presentation/d/1Jc7RZvG2aPEeTN0MBjtbqbyiBXNwHUUB5sIVFsGlpzU/edit?usp=sharing).

@@ -1,13 +1,12 @@
 #Module 2: Introduction to CSS
 
-Welcome to Module 2!  In this module, we'll introduce ourselves to CSS.
+Welcome to Module 2!  **In this module, we'll introduce ourselves to CSS**.
 
 ##Learning Objectives
 
 1. Understand how to write a CSS rule
 2. Understand how to style text and images
 3. Understand how to use CSS for layout
-
 
 ##Rundown
 
@@ -30,7 +29,7 @@ Welcome to Module 2!  In this module, we'll introduce ourselves to CSS.
 
 ###Exercise/s
 
-1. [Writing CSS rules](https://docs.google.com/presentation/d/1rI8-I3JHOsacf1ZNr_JXSFFniqZHERvy7I3sC-BAG1E/edit#slide=id.g1155caacb6_0_697)
+1. Activity: **Writing CSS rules**
 
 	Let’s practice writing CSS rules. If you’re not sure how, search online using: [https://developer.mozilla.org/en-US/docs/Web/CSS/Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 
@@ -48,10 +47,9 @@ Welcome to Module 2!  In this module, we'll introduce ourselves to CSS.
 	- Underline every visited link in green
 	- Make every element with class “standout” 25px and orange
 
-2. [Add CSS to your portfolio project
-](https://docs.google.com/presentation/d/1rI8-I3JHOsacf1ZNr_JXSFFniqZHERvy7I3sC-BAG1E/edit#slide=id.g1155caacb6_0_825)
+2. Coding challenge: **Add CSS to your landing page**
 
-	- For your landing page/portfolio, create a stylesheet in the same directory as your html pages 
+	- For your landing page from Module 1, create a stylesheet in the same directory as your html pages 
 	- Add a link in the ```<head>``` of each html page to connect the stylesheet
 	- In Sublime, if you do not already have a css file for your project - open a new file and save it in your directory as styles.css
 	- If you do have a css file, open it in Sublime
@@ -82,25 +80,25 @@ Welcome to Module 2!  In this module, we'll introduce ourselves to CSS.
 
 ###Exercise/s
 
-1. Coding challenge: [Add some color](https://docs.google.com/presentation/d/1N53LrCD6j2dn_lOqVoqCPebX5Zm-ugo73NrzNMo6btI/edit#slide=id.g154639d184_0_17)
+1. Coding challenge: **Add some color**
 
 	- Download code: [https://github.com/barnard-pcp-intro-web-dev/css-colors-text-images](https://github.com/barnard-pcp-intro-web-dev/css-colors-text-images)
 	- Give the text between a ```<h1>``` tag a foreground color
 	- Give the text between a ```<a>``` tag a background color. 
 
-2. Coding challenge: [Change typeface and font size](https://docs.google.com/presentation/d/1N53LrCD6j2dn_lOqVoqCPebX5Zm-ugo73NrzNMo6btI/edit#slide=id.g154639d184_0_82)
+2. Coding challenge: **Change typeface and font size**
 
 	- Use code from previous coding challenge.
 	- Change the typeface of the ```<h1>``` text
 	- Change the font size of the ```<p>``` text
 
 
-3. Coding challenge: [Change text styling](https://docs.google.com/presentation/d/1N53LrCD6j2dn_lOqVoqCPebX5Zm-ugo73NrzNMo6btI/edit#slide=id.g154639d184_0_104)
+3. Coding challenge: **Change text styling**
 
 	- Use code from previous coding challenge.
 	- Add bold, italics, capitals, and underlines to text
 
-4. Coding challenge: [Add alignment and spacing](https://docs.google.com/presentation/d/1N53LrCD6j2dn_lOqVoqCPebX5Zm-ugo73NrzNMo6btI/edit#slide=id.g154639d184_0_125)
+4. Coding challenge: **Add alignment and spacing**
 
 	- Use code from previous coding challenge.
 	- Add CSS rules for
@@ -108,7 +106,7 @@ Welcome to Module 2!  In this module, we'll introduce ourselves to CSS.
 		- letter and word spacing
 		- text alignment
 
-5. Coding challenge: [Add CSS to your landing page/portfolio project](https://docs.google.com/presentation/d/1N53LrCD6j2dn_lOqVoqCPebX5Zm-ugo73NrzNMo6btI/edit#slide=id.g1155b8410e_0_466)
+5. Coding challenge: **Add CSS to your landing page**
 
 	- Add a background image to the body
 	- Using the CSS properties you just learned, add at least 5 CSS rules -- e.g. color, size, or font of text
@@ -154,9 +152,9 @@ Welcome to Module 2!  In this module, we'll introduce ourselves to CSS.
 
 ###Exercise/s
 
-1. Coding challenge: [Let's position!](https://docs.google.com/presentation/d/1ItHXO7LH2q5l_jZWxQY7v4kgrE57QYKVQxkLuj6qxoA/edit#slide=id.g1155d75cc6_0_117)
+1. Coding challenge: **Get in position!**
 
-	- Download the code: https://github.com/barnard-pcp-intro-web-dev/css-positioning 
+	- Download the code: [https://github.com/barnard-pcp-intro-web-dev/css-positioning](https://github.com/barnard-pcp-intro-web-dev/css-positioning)
 	- Position each of the img elements appropriately. 
 		- The sheep should be around the bottom left
 		- The cow should be on the horizon
@@ -165,19 +163,28 @@ Welcome to Module 2!  In this module, we'll introduce ourselves to CSS.
 		- The sun should be around the upper right.
 	- As a bonus, position a picture of your face on top of the dude, and watch yourself have a farm party!
 
-2. Coding challenge: [Explore floats!](https://docs.google.com/presentation/d/1ItHXO7LH2q5l_jZWxQY7v4kgrE57QYKVQxkLuj6qxoA/edit#slide=id.g1155d75cc6_1_14)
+2. Coding challenge: **Explore floats**
 
-	- 
+	- Go to: [bit.ly/3-2-float](http://bit.ly/3-2-float). 
+	- Turn it into a 2-column layout with floats. 
 
-3. Coding challenge: [Practice floats again!](https://docs.google.com/presentation/d/1ItHXO7LH2q5l_jZWxQY7v4kgrE57QYKVQxkLuj6qxoA/edit#slide=id.g1155d75cc6_1_37)
+	![2-column layout with floats](https://lh3.googleusercontent.com/JVTEkCCKDTgfvK0J1rrHKOdKVKh5dk9fFJmIvpDdCqNhl77NKSRDcjpeCdUOr12tRVNm2i1Qc_8HTw1563jY1JwWYn-Zz9vu7jUa9_A4_KORtCirzy6pk8TN5GhFRdLblgRa_y5XPnog1UudOW5Ob3HW0QZ4E5pf186tvYJRZgU0OkGK5QDFQ34CuvfDOxdVt9PVOnARF4J_rcyiAIvVKyHBW6KkORpK2eWv7pej1fc_uBPkMibWNoshgU6LUy7EysAaOxbXvimThSkTKg9hXowuIvoCAmJvbK7OpwuVDLSKkLFXXDGtRuF91zmZzY9h5QZfDUlpYB0pjaAoQgLOfMJzYwbOZ99RH7XaHfReLBgGdhorAFDUAbkDx6mznF0tUxYz0o80W8Ralz57G7ADcLM5pyoIPvhqLNgHPmHDj-5WVspnNkRzkwqR0fGlnHKG_kfX6bg1Z-oe8v1Zp9f1pbbE8zAmMdWdzs6DJPv8NXzduNFTUfG4Pw8_-gnK4jJIcYJ4D4fGorza13K09a7ROQu7Z0V6UNWbdBDKJ7GQXnENBzgGMmi1yvjy6O3F3CUmUHs5pQuyNpb0GR92eIUJz7eAHIkpmQFD=w1440-h438-no)
 
-	- 
 
-4. Coding challenge: [Practice positionining with floats and clear](https://docs.google.com/presentation/d/1ItHXO7LH2q5l_jZWxQY7v4kgrE57QYKVQxkLuj6qxoA/edit#slide=id.g1155d75cc6_1_49)
-
-	- Pair with a partner to recreate [this page layout](https://docs.google.com/presentation/d/1ItHXO7LH2q5l_jZWxQY7v4kgrE57QYKVQxkLuj6qxoA/edit#slide=id.g1155d75cc6_1_49). 
+3. Coding challenge: **Practice positionining with floats and clear**
+	
 	- Get starter code at: [https://github.com/barnard-pcp-intro-web-dev/css-positioning](https://github.com/barnard-pcp-intro-web-dev/css-positioning) 
+	- Pair with a partner to recreate the layout below. 
 	- Hint: start by drawing/defining your boxes, then layout the boxes
+
+	![Practice positionining with floats and clear](https://lh3.googleusercontent.com/0n0j-LsP7shCT1OUp1ffs1oiQtWzPhXL0aW2bpb4FT3UGqE1-G5VWmGDvV5i5GDPQIBit6_2axi9Kc4yHL8Dqv9SKWMA_E-Q6zThuGYyBInRSHdytzJG4O3XCygNUwHEyG6JeIgo9LFyz8g5kReMwa4DFPwKAnbn2b31Uoe16EkliJ0ImvqFRl751nk2yh5zXp8xQwAKxjBLwXxddrkc3hnCr6a4Y042GNtKgdoMSSqvqP0CPewR4J1Rriv7zNGco-6SXqQU0mFN-bXmqWCwKFpnAUHoEn5mmiZ8k1qi_h0NvkbRfNR7JIoemvz2LL-6mqL9L1frxbd_0vq91hD8WsNtdm0VJ2EpQslXLbMnJCfQsxTZ4qVFUh_dUEqZn---GFgJ9xnBt4Pd0AVKN0qFwDkowR8lSg8SFaQ7-XAI7H1WfGkjkOJAfG0s1AjYqiQTTpJL3WKlsm8R6_xe4CkIDjdb6YqPechp-q5Mb8pcMvSlT0I0AkKzzgnb4TLAe5drVCCL9nPwEGNE_wn24U5p767rONrfwTza7yBS6_fOOr6QnMdo4ZzszIj1xNjo-Pi6_nwDRY-cH-7VAkC66_rQxEZueKagtlcV=w2224-h800-no)
+
+4. Coding challenge: **More practice with layouts**
+
+	- Go to: [bit.ly/3-2-layoutpractice](bit.ly/3-2-layoutpractice). 
+	- Add CSS to recreate the layout below. 
+
+	![More practice with layouts](https://lh3.googleusercontent.com/R-8rN3v6fWM7PkJsLtirnO2DqiPTpWvmvvDHxXB-BIn1wZgOyMfXdCzGvYdwSZhDfoD8GLIemZKWJCQCAp9c6Gt5NpyhLw4Skxyz0LXqxcgh5z-mnBKP9tZ7LLde7eQxMLeBpW0fmyFoeT9kbaNJ41s7xukHQWyJQwcgWWqiXw-0UFJNNIQcjZ1X8fa3KuwzNBJluv-Qh-6GyEcMmcDUMK-ERuL_4eNjdmsLFhpQbht8QBPnipMOU7TynHkDFXVJcoFsP4BY3igA0e_zTIokfXSi7ZNympIEzETYMu1tJRu9sq0B_MiF5MDUwrKwGc6gpT6srbvTRr3vpTAeY7CIvucer0YDSm6MTx71zb6hpUlzbyWkojZhGIIE0u7W8mOrC6hUgQcmr02sBLVXc1jZpu2wIKolaIzJnAl8p3TFo_pnhgmzNZfox1PJt8_fyfeZbwshQhnYjKmf0rd_Fxc--dEXQOVrm8m9m1CNG9bvPEHFoLYvIdcVL_gc4StnCi2sVzR0B-KYGj-SwVLMhp44xnacIRmTLbczkiwEZZaC12omxIA6vUsjEiYkNynie-XrLuUg2CnVPbB7hk5F1-5-RLD8shssgyAd=w1856-h806-no)
 
 
 <hr height="10px">
