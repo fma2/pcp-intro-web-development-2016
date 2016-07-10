@@ -4,13 +4,25 @@ Welcome to the final module!  In this module, we'll finalize our landing page/po
 
 Use the links below to jump to a section on this page.
 
-- [3.1. Cumulative project - Landing page/portfolio](#31-cumproject)
-- [3.2. How to continue learning](#32-continuelearning)
-- [3.3. What to learn next](#33-learnnext)
+- [3.1. Process and Design](#31-processdesign)
+- [3.2. Cumulative project - landing page/portfolio](#31-cumproject)
+- [3.3. Extend your learning](#33-learnnext)
 
 <hr height="10px">
 
-##<a id="31-cumproject">3.1. Cumulative project - landing page/portfolio</a>
+##<a id="31-processdesign">3.1 Process and Design</a>
+
+###View 
+
+- Slides: [Process and Design](https://docs.google.com/presentation/d/1gtSq4RVqJGId6dw8AIVxevyyc5vCgtZbhpdTEmjkk3s/edit?usp=sharing)
+
+###Exercise/s
+
+1. 
+
+<hr height="10px">
+
+##<a id="31-cumproject">3.1. Cumulative project - landing page/portfolio project</a>
 
 ***Stay tuned for more details!***
 
@@ -23,7 +35,7 @@ Use the links below to jump to a section on this page.
 
 <hr height="10px">
 
-##<a id="33-learnnext">3.3. What to learn next</a>
+##<a id="33-learnnext">3.3. Extend your learning</a>
 
 ###1.  Responsive Design
 

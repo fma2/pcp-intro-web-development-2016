@@ -4,9 +4,9 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 ##Learning Objectives
 
-1. Properly structure HTML documents
-2. Use HTML markup (elements, tags, attributes)
-3. Understand how HTML5 relates to traditional HTML
+1. Understand how to properly structure a HTML document
+2. Understand and use HTML markup (elements, tags, attributes)
+3. Know and use HTML5
 
 ##Rundown
 
@@ -128,26 +128,24 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 ###Exercise/s
 
-1. [Turn your landing page into a portfolio page](https://docs.google.com/presentation/d/1lQyhaouaBeyQ-j5TnfreyaCbCu1eIGIznqfVjbYKDI0/edit#slide=id.g1155c35909_0_0)
+1. Coding challenge: [Turn your landing page into a portfolio page](https://docs.google.com/presentation/d/1lQyhaouaBeyQ-j5TnfreyaCbCu1eIGIznqfVjbYKDI0/edit#slide=id.g1155c35909_0_0)
 
 	Scenario: Your top choice for college loves that you can code and wants to see some of your work.  
 
-	Improve the landing page you started in a previous lesson - make it your portfolio page.  Make it all about you.  Think about what you can include, and add content (see the next slide for details)!
+	Improve the landing page you started in a previous lesson - make it a one-page portfolio page.  Make it all about you.  Think about what you can include, and add content (see the next slide for details)!
 
 	What is your background?  What are your accomplishments? What are your hobbies?  What else are you proud of?  
-
 
 	Make sure your page has the following.  Be sure to use some HTML5 elements!
 	- A header element containing an image element
 	- An input element for email submission (it won’t actually submit anything yet!)
 	- Content about you using at least 6 different elements.  For example, use <p> to introduce yourself
 	- Content reviews the following information about you:
-	- Your name and picture
-	- A little bit about who you are
-	- Your contact details (Twitter handle, email, etc.)
-	- Recent work
-	- Your skills
-
+		- Your name and picture
+		- A little bit about who you are
+		- Your contact details (Twitter handle, email, etc.)
+		- Recent work
+		- Your skills
 
 
 <hr height="10px">
@@ -158,7 +156,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 - Slide: [Tools of Trade - The Inspector](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit?usp=sharing)
 
-###Exercise
+###Exercise/s
  
  - Activity: [Practice using Dev Tools!](https://docs.google.com/presentation/d/1_7zE4LTbNOtMpN3mkOq0MnWqba2HvSaRN1r65sgJFfo/edit#slide=id.g6e36b57d0_033)
 
@@ -174,7 +172,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 <hr height="10px">
 
 ##<a id="resources">Resources</a>
-- Additional Readings
+- Readings
 	- From the Book *Learn to Code HTML & CSS* by Shay Howe
 		- [Shay Howe: Building Your First Web Page](http://learn.shayhowe.com/html-css/building-your-first-web-page/)
 		- [Shay Howe: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)

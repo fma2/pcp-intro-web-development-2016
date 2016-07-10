@@ -96,7 +96,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
-| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.1. CSS selectors <br>2.2. Color, text, images<br> 2.3. Boxes <br>2.4. External v. internal CSS|
+| Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.1. CSS selectors <br>2.2. Color, text, images<br> 2.3. Boxes <br>2.4. Layout - positioning content|
 | |<br>**Homework**| 
 | |<br>*Required* <br> Read Chapter 7, Chapter 15, and Chapter 18 in <br> 'HTML and CSS: Design and Build Websites'|
 | |<br>*Optional* <br>Read Chapter 9 and Chapter 14 in <br> 'HTML and CSS: Design and Build Websites'|
@@ -108,7 +108,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 | ------------- |-------------| --------------------|
 | Module 2: <br>[Introduction to CSS](/modules/2-introcss)  | 2.5. Layout<br> 2.6. Responsive design (if time allows)	|
 |<br> | <br>|
-| Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.1 Cumulative project|
+| Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.1 Process and Design<br>3.2 Cumulative project|
 | |<br>**Homework**| 
 | | <br> *Required* <br>Complete your cumulative project|
 | | <br> *Optional* <br>Bring a treat to celebrate our last day of class|
@@ -117,7 +117,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
-| Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.1 Cumulative project & presentations<br> 3.2 Presentations<br> Extend your learning!|
+| Module 3: <br>[Putting it all together](/modules/3-putting-it-all-together)  | 3.2 Cumulative project<br> 3.2 Presentations<br> 3.3 Extend your learning!|
 
 <hr height="10px">
 
