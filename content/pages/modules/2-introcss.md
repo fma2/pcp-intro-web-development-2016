@@ -121,7 +121,7 @@ Welcome to Module 2!  **In this module, we'll introduce ourselves to CSS**.
 
 ###Exercise/s
 
-1. Activity: [Are you sure everything is a box?](https://docs.google.com/presentation/d/1lCQFdT9hYy8ZJKyWF3jN7_IF0-SO2zXdfHwWwzzYYWk/edit#slide=id.g1155dbd7bd_0_33)
+1. Activity: **Are you sure everything is a box?**
 
 	- Go to: [http://bit.ly/3-1-shapes](http://bit.ly/3-1-shapes) 
 	- Use the inspector to explore the page. Expand the DOM tree in the Elements tab
@@ -129,13 +129,13 @@ Welcome to Module 2!  **In this module, we'll introduce ourselves to CSS**.
 	- Hover over each div with a class of “surprise”. What happens on the page?
 	- Edit the CSS in the browser. Change width, height, and border-radius. What happens?
 
-2. Activity: [Box model - pair up and practice!](https://docs.google.com/presentation/d/1lCQFdT9hYy8ZJKyWF3jN7_IF0-SO2zXdfHwWwzzYYWk/edit#slide=id.g1155dbd7bd_0_99)
+2. Activity: **Box model - pair up and practice!**
 
 	- Download code: [https://github.com/barnard-pcp-intro-web-dev/css-boxes](https://github.com/barnard-pcp-intro-web-dev/css-boxes) 
 	- Experiment with widths, heights, margins, borders, contents. Use colors for different borders, background images, or font styles. 
 	- Extra!: Try experimenting with size and overflow. 
 
-3. Activity: [Boxifying design](https://docs.google.com/presentation/d/1lCQFdT9hYy8ZJKyWF3jN7_IF0-SO2zXdfHwWwzzYYWk/edit#slide=id.g1155dbd7bd_0_147)
+3. Activity: **Boxifying design**
 
 	- Go to: [http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock4-portfolio-2.pdf](http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock4-portfolio-2.pdf) 
 	- How many boxes would you need to recreate this design?
