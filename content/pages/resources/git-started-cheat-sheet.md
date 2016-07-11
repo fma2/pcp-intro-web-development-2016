@@ -26,7 +26,7 @@ Remember: The $ is a symbol commonly used to indicate the command line. It simpl
 
 If git is installed, a list of possible commands will appear.
 
-![git-menu](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-menu.png)  
+![git-menu](/attachments/git-menu.png)  
 
 If git is not installed, install it.  Check out [Git's documentation](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git#Installing-on-Mac) for help with installation on Mac or Windows.
 
@@ -67,7 +67,7 @@ $ git commit -m "Add index and styles files"
 
 Here is a screenshot of what those commands would look like:
 
-![recording-changes-screenshot](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-recording-changes-flow.png)
+![recording-changes-screenshot](/attachments/git-recording-changes-flow.png)
 
 
 More on recording changes can be found [here](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository).
@@ -87,11 +87,11 @@ Before you can add a remote, you need to create a new repository on GitHub.   Fo
 
 - Give your repository a name and select 'create repository'
 
-![create-repo](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/github-create-repo.png)
+![create-repo](/attachments/github-create-repo.png)
 
 - Copy the HTTPS link
 
-![remote-link](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/git-add-remote-link.png)
+![remote-link](/attachments/git-add-remote-link.png)
 
 - In your command line, add the remote:
 
@@ -122,7 +122,7 @@ After making a change in your local repository, make sure you `git add <name of 
 
 What that could look like--
 
-![typical-git-flow](https://raw.githubusercontent.com/fma2/pcp-intro-web-development/master/resources/images/typical-git-flow.png)
+![typical-git-flow](/attachments/typical-git-flow.png)
 
 ##Getting an existing repository from GitHub
 
