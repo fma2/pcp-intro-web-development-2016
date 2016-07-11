@@ -57,7 +57,7 @@ In evaluating your work, I will be checking for the following:
 
 Bonus: Responsiveness - Is your page optimized for viewing on a smaller screen than our classroom computers (whether the smaller screen be a smaller browser window or, if you want to challenge yourself, another device like a smartphone)?
 
-[Here is the rubric]() on which it will be graded.
+[Here is the rubric](https://docs.google.com/spreadsheets/d/16R3-3RxSZ5zkiMJ-rCI37dN3IvtFlt3onJDjqsmp5dE/edit?usp=sharing) on which it will be graded.
 
 ##General tips and suggested steps to follow
 
@@ -107,7 +107,7 @@ Your website must include at least 2 pages.  For the second page, here are a few
 ####Step 5: Keep Building!
 
 - Continue building out your pages
-- See [what I will check when evaluating your work]().
+- See [what I will check when evaluating your work](https://docs.google.com/spreadsheets/d/16R3-3RxSZ5zkiMJ-rCI37dN3IvtFlt3onJDjqsmp5dE/edit?usp=sharing).
 	- Also, consider including the following:
 
 		- Two images--e.g. one for the headshot and another for background
