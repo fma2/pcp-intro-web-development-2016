@@ -46,7 +46,7 @@ At the conclusion of the course, students should be able to:
 - [Module 2: Introduction to CSS](/modules/2-introcss)
 	- CSS selectors
 	- CSS positioning
-- [Module 3: Putting it all together](/modules/3-finalproject)
+- [Module 3: Putting it all together](/modules/3-putting-it-all-together)
 
 
 ###<a id="grading">Course Grading</a>
