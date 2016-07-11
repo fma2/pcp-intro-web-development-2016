@@ -151,7 +151,7 @@ Your website must include at least 2 pages.  For the second page, here are a few
 <hr height="10px">
 
 
-##<a id="33-continuelearning">3.3. How to continue learning to code</a>
+##<a id="33-howtocontinue">3.3. How to continue learning to code</a>
 
 ###View
 - Slides: [Continue learning to code](https://docs.google.com/presentation/d/103ZPzSE-fR7vUTZhhNnE0jh7lvAncZJ7yYBxNcPaN3c/edit?usp=sharing)
