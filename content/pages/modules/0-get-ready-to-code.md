@@ -109,7 +109,9 @@ Welcome to Introduction to Web Development! Before we get coding, let's start wi
 		- Change the color when you hover over words in the navigation bar to green 
 		- Replace the cityscape painting with another image
 
-3. **Hack recap**
+3. Finished hacking? Try this [Code Academy project](https://www.codecademy.com/courses/my-first-webpage/0/1)
+
+4. **Hack recap**
 
 	- Discuss: 
 		What differences do you notice between HTML and CSS? How are HTML & CSS connected? What did you discover? What was easy? Hard? Confusing?
