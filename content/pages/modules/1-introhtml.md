@@ -136,6 +136,8 @@ Finished early? Check out this module's [additional resources](#resources).
 
 6. Coding challenge: **Add more content to your landing page**
 
+	- Open your [yourUsername].github.io directory in Sublime.  
+	- Open the index.html file
 	- Add ```<div class=”header”>```, place a photo of yourself inside an image element inside of ```<div class=”header”>```
 	- Add ```<div class="content”>```, use lists, photos, tables, and any other HTML element you've learned so far to add content about yourself
 		- Add content about you using at least 5 different elements, e.g. use ```<p>``` to introduce yourself
