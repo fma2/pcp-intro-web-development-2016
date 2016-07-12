@@ -45,7 +45,7 @@ $ git config --global user.email johndoe@example.com
 
 ##Put your project under version control
 
-Let's say I have a project in the directory `final-project`.  If you have not made the directory, make sure you make it first: `$ mkdir final-project`.  To put it under version control, I only do the following **once**.
+Let's say you have a project in the directory `final-project`.  If I have not made the directory, I will have to make sure I make it first: `$ mkdir final-project`.  To put it under version control, I only do the following **once**.
 
 ```
 $ cd final-project/

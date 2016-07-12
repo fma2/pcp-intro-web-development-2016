@@ -33,7 +33,12 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 	- First step: directory structure
 		- Keep all the files for your site in the same directory/folder
 		- HTML Files, CSS Files, Images, Scripts, etc.
-	- Create a directory and name it: ```landing```
+	- Create a directory and name it: 
+
+		```
+		[yourUsername].github.io
+		```
+
 	- Open the directory in Sublime Text
 	- Open a new page in Sublime Text
 	- Type the code below
@@ -89,9 +94,15 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 2. Coding challenge: **Using text markup**
 
-	- Download the code: [https://github.com/barnard-pcp-intro-web-dev/html-text-markup](https://github.com/barnard-pcp-intro-web-dev/html-text-markup)
+	- Download the code: [https://github.com/barnard-pcp-intro-web-dev/html-text-markup](https://github.com/barnard-pcp-intro-web-dev/html-text-markup).  Need help remembering how? Read [here](/resources/git-download-zip)!
+	- Unzip the folder and place it in your folder in the D:/ drive
 	- Open index.html in Chrome
-	- Add HTML markup to index.html so it looks like the image [here](https://goo.gl/photos/s3twPwDs74KhGx4V7).
+	- Open Sublime Text
+	- Open the file folder you just unzipped in Sublime Text
+	- Add HTML markup to index.html so it looks like the image below.
+
+	![Using text markup](/attachments/html-using-text-markup.png)
+
 	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
 
 3. Coding challenge: **Writing links**
@@ -101,26 +112,51 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		- A relative link to about.html
 		- An email link
 		- A link to your favorite website
-	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
+	- After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
 
 4. Coding challenge: **Making lists**
 
 	- Add an **ordered list** and an **unordered list** to your HTML markup for the ‘Using text markup’ coding challenge
-	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
+	- After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
 
 5. Coding challenge: **Add an image**
 
 	- Add an image element to your HTML markup from the ‘Using text markup’ coding challenge
-	- BONUS: After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
+	- After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
+
+	- Upload your code to your Github account.  And, if you want, deploy -- i.e. host the page on Github pages. [See how here](/resources/git-upload-and-deploy-pcp).
 
 6. Coding challenge: **Add more content to your landing page**
 
 	- A ```<div class=”header”>```, place your image element inside of this
 	- Add an image element to your HTML markup from the ‘Using text markup’ coding challenge
-	- Content about you using at least 5 different elements, e.g. use ```<p>``` to introduce yourself
-	- Bonus: An input element for email submission (it won’t actually submit anything yet!)
+	- Add content about you using at least 5 different elements, e.g. use ```<p>``` to introduce yourself
+	- BONUS: An input element for email submission (it won’t actually submit anything yet!)
 
-	![More content](https://raw.githubusercontent.com/fma2/pcp-intro-web-development-2016/master/content/pages/resources/images/2A1htmldocstructure-codesnippet2.png?token=AGj6MvH0RM8BESFwLXeJMHKcTr0eTM3Kks5XjAu4wA%3D%3D)
+	![More content](/attachments/2A1htmldocstructure-codesnippet2.png)
+
+7. Coding challenge: **Reverse-engineer a page**
+
+	- Reverse-engineer #1
+		- Create a new directory ```reverse-1```
+		- Create a new html document within that directory: index.html
+		- Write HTML that matches the page below
+	[![Reverse engineer Kitty the Cat page](http://arkhog.com/htm/2.JPG)](http://arkhog.com/htm/2.JPG)
+	*Click image for larger view.*
+
+	- Reverse-engineer #2
+		- Create a new directory ```reverse-2```
+		- Create a new html document within that directory: index.html
+		- Write HTML that matches the page
+	[![Reverse engineer Dev Bootcamp page ](/attachments/reverse-engineer-image1.jpg)](/attachments/reverse-engineer-image1.jpg)
+	*Click image for larger view.*
+
+	- Reverse-engineer #3
+		- Create a new directory ```reverse-3```
+		- Create a new html document within that directory: index.html
+		- Without worrying about styling, recreate the [Google](www.google.com) homepage using semantic HTML.
+	[![Reverse engineer Google](http://www.valuewalk.com/wp-content/uploads/2016/04/Google-World-Order.png)](http://www.valuewalk.com/wp-content/uploads/2016/04/Google-World-Order.png)
+	*Click image for larger view.*
 
 <hr height="10px">
 ##<a id="13-html5layout">1.3. HTML5 Layout</a>
