@@ -80,7 +80,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 	- Save and open index.html in Chrome.
 	- When you're done, save to your folder in the D:/ drive.
 
-Finished early? Check out this module's [resources](#resources).
+Finished early? Check out this module's [additional resources](#resources).
 
 <hr height="10px">
 
@@ -198,6 +198,8 @@ Finished early? Check out this module's [resources](#resources).
 		- Your skills
 
 	When you're done, save to your folder in the D:/ drive.
+
+Finished early? Check out this module's [additional resources](#resources).
 
 <hr height="10px">
 
