@@ -29,6 +29,8 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 ###Exercise/s
 
 1. **Coding challenge: Your first HTML page**
+	
+	Let's begin to create a landing page 
 
 	- First step: directory structure
 		- Keep all the files for your site in the same directory/folder
@@ -207,6 +209,10 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		- When you hover over elements on the page, your browser highlights a rectangular area
 		- You can see the same text in the elements tab as on the page
 
+- Activity: **Code School: Explore and Master DevTools**
+	
+	- Check out the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
+
 <hr height="10px">
 
 ##<a id="resources">Resources</a>
@@ -216,9 +222,6 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		- [Shay Howe: Getting to Know HTML](http://learn.shayhowe.com/html-css/getting-to-know-html/)
 		- [Shay Howe: Creating Lists](http://learn.shayhowe.com/html-css/creating-lists/)
 		- [Shay Howe: Organizing Data with Tables](http://learn.shayhowe.com/html-css/organizing-data-with-tables/)
-	- Tools of the Trade - The Inspector
-		- [Introduction to Chrome Developer Tools, Part One](http://www.html5rocks.com/en/tutorials/developertools/part1/#toc-elements)
-		- Check out the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
 	- [W3 Schools: HTML Element Reference](http://www.w3schools.com/tags/default.asp)
 	- [W3 Schools: HTML Tutorial](http://www.w3schools.com/html/default.asp)
 	- [Dive into HTML5 - Intro](http://diveintohtml5.info/index.html)
@@ -233,6 +236,9 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 	- [W3 Schools: HTML5 Semantic Elements](http://www.w3schools.com/html/html5_semantic_elements.asp)
 	- [html5 Doctor: Let's Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
 	- [Semantic Content Markup](http://webstyleguide.com/wsg3/5-site-structure/2-semantic-markup.html)
+	- Tools of the Trade - The Inspector
+		- [Introduction to Chrome Developer Tools, Part One](http://www.html5rocks.com/en/tutorials/developertools/part1/#toc-elements)
+		- Check out the Code School free course to learn more about the inspector: [Code School: Explore and Master DevTools](http://discover-devtools.codeschool.com/)
 - Videos
 	- [HTML - Hamburger Text Markup Language](http://www.dontfeartheinternet.com/html/html) (3:35)
 	- [Don't Fear Starting from Scratch Part 1: HTML](http://www.dontfeartheinternet.com/html/don%E2%80%99t-fear-starting-from-scratch)
