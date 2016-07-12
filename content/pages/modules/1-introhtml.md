@@ -28,9 +28,11 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 ###Exercise/s
 
-1. **Coding challenge: Your first HTML page**
+1. Coding challenge: **Your first HTML page**
 	
-	Let's begin to create a landing page 
+	Begin to create a landing page all about you.
+
+	![Landing page example](/attachments/landing-page-example.png)
 
 	- First step: directory structure
 		- Keep all the files for your site in the same directory/folder
@@ -42,7 +44,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		```
 
 	- Open the directory in Sublime Text
-	- Open a new page in Sublime Text
+	- Open a new page in Sublime Text 
 	- Type the code below
 
 		```
@@ -58,7 +60,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 
 		```
 
-	- Save it as index.html in your landing directory
+	- Save it as index.html in your  ```[yourUsername].github.io``` directory
 	- Open index.html in Chrome. What do you notice on your page?
 	- Add more content
 
@@ -75,6 +77,10 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		</html>
 
 		```
+	- Save and open index.html in Chrome.
+	- When you're done, save to your folder in the D:/ drive.
+
+Finished early? Check out this module's [resources](#resources).
 
 <hr height="10px">
 
@@ -126,7 +132,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 	- Add an image element to your HTML markup from the ‘Using text markup’ coding challenge
 	- After finishing your page, send it through the W3C validator ([http://validator.w3.org/](http://validator.w3.org/)) and fix any issues identified
 
-	- Upload your code to your Github account.  And, if you want, deploy -- i.e. host the page on Github pages. [See how here](/resources/git-upload-and-deploy-pcp).
+	- Upload your code to your Github account.  And, if you want, deploy it (i.e. host the page on Github pages)! [See how here](/resources/git-upload-and-deploy-pcp).
 
 6. Coding challenge: **Add more content to your landing page**
 
@@ -143,13 +149,16 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		- Create a new directory ```reverse-1```
 		- Create a new html document within that directory: index.html
 		- Write HTML that matches the page below
+		- When you're done, upload your code to your Github account.  And, if you want, deploy it (i.e. host the page on Github pages)! [See how here](/resources/git-upload-and-deploy-pcp).
 	[![Reverse engineer Kitty the Cat page](http://arkhog.com/htm/2.JPG)](http://arkhog.com/htm/2.JPG)
 	*Click image for larger view.*
+
 
 	- Reverse-engineer #2
 		- Create a new directory ```reverse-2```
 		- Create a new html document within that directory: index.html
 		- Write HTML that matches the page
+		- When you're done, upload your code to your Github account.  And, if you want, deploy it (i.e. host the page on Github pages)! [See how here](/resources/git-upload-and-deploy-pcp).
 	[![Reverse engineer Dev Bootcamp page ](/attachments/reverse-engineer-image1.jpg)](/attachments/reverse-engineer-image1.jpg)
 	*Click image for larger view.*
 
@@ -157,6 +166,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		- Create a new directory ```reverse-3```
 		- Create a new html document within that directory: index.html
 		- Without worrying about styling, recreate the [Google](www.google.com) homepage using semantic HTML.
+		- When you're done, upload your code to your Github account.  And, if you want, deploy it (i.e. host the page on Github pages)! [See how here](/resources/git-upload-and-deploy-pcp).
 	[![Reverse engineer Google](http://www.valuewalk.com/wp-content/uploads/2016/04/Google-World-Order.png)](http://www.valuewalk.com/wp-content/uploads/2016/04/Google-World-Order.png)
 	*Click image for larger view.*
 
@@ -187,6 +197,7 @@ Welcome to Module 1!  In this module, we'll introduce ourselves to HTML, reviewi
 		- Recent work
 		- Your skills
 
+	When you're done, save to your folder in the D:/ drive.
 
 <hr height="10px">
 
