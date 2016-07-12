@@ -136,9 +136,9 @@ Finished early? Check out this module's [additional resources](#resources).
 
 6. Coding challenge: **Add more content to your landing page**
 
-	- A ```<div class=”header”>```, place your image element inside of this
-	- Add an image element to your HTML markup from the ‘Using text markup’ coding challenge
-	- Add content about you using at least 5 different elements, e.g. use ```<p>``` to introduce yourself
+	- Add ```<div class=”header”>```, place a photo of yourself inside an image element inside of ```<div class=”header”>```
+	- Add ```<div class="content”>```, use lists, photos, tables, and any other HTML element you've learned so far to add content about yourself
+		- Add content about you using at least 5 different elements, e.g. use ```<p>``` to introduce yourself
 	- BONUS: An input element for email submission (it won’t actually submit anything yet!)
 
 	![More content](/attachments/2A1htmldocstructure-codesnippet2.png)
