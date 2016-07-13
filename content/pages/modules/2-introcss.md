@@ -82,26 +82,41 @@ Welcome to Module 2!  **In this module, we'll introduce ourselves to CSS**.
 
 1. Coding challenge: **Add some color**
 
-	- Download code: [https://github.com/barnard-pcp-intro-web-dev/css-colors-text-images](https://github.com/barnard-pcp-intro-web-dev/css-colors-text-images)
-	- Give the text between a ```<h1>``` tag a foreground color
-	- Give the text between a ```<a>``` tag a background color. 
+	- Open your landing page folder (e.g. fma2.github.io) in Sublime Text
+	- Open the index.html file in your landing page folder
+	- In Sublime, add the following html above your ```</body>``` tag: 
+
+		```
+		<h2>Colors everywhere!</h2>
+		```
+
+	- Open your styles.css file and add a CSS rule to give the text between this ```<h2>``` tag a foreground color
+	- Add the following html below ```<h2>Colors everywhere!</h2>```:
+
+		```
+		<p>I'm studying web development at <a href="http://barnard.edu/" target="_blank">Barnard College</a> this summer</p>
+		```
+
+	- Open your styles.css file and add a CSS rule to give the text between this ```<a>``` tag a background color. 
 
 2. Coding challenge: **Change typeface and font size**
 
-	- Use code from previous coding challenge.
-	- Change the typeface of the ```<h1>``` text
-	- Change the font size of the ```<p>``` text
-
+	- Open your landing page folder (e.g. fma2.github.io) in Sublime Text
+	- Open the index.html file in your landing page folder
+	- Open your styles.css file and change the typeface of the ```<h2>``` text
+	- Open your styles.css file and change the font size of the ```<p>``` text
 
 3. Coding challenge: **Change text styling**
 
-	- Use code from previous coding challenge.
-	- Add bold, italics, capitals, and underlines to text
+	- Open your landing page folder (e.g. fma2.github.io) in Sublime Text
+	- Open the index.html file in your landing page folder
+	- Open your styles.css file and add bold, italics, capitals, and underlines to text
 
 4. Coding challenge: **Add alignment and spacing**
 
-	- Use code from previous coding challenge.
-	- Add CSS rules for
+	- Open your landing page folder (e.g. fma2.github.io) in Sublime Text
+	- Open the index.html file in your landing page folder
+	- Open your styles.css file and add CSS rules for
 		- line height
 		- letter and word spacing
 		- text alignment
@@ -125,23 +140,32 @@ Welcome to Module 2!  **In this module, we'll introduce ourselves to CSS**.
 
 	- Go to: [http://bit.ly/3-1-shapes](http://bit.ly/3-1-shapes) 
 	- Use the inspector to explore the page. Expand the DOM tree in the Elements tab
-	- Hover over reach div of class “row”. What do you notice in the browser?
+	- Hover over each div of class “row”. What do you notice in the browser?
 	- Hover over each div with a class of “surprise”. What happens on the page?
 	- Edit the CSS in the browser. Change width, height, and border-radius. What happens?
 
-2. Activity: **Box model - pair up and practice!**
-
-	- Download code: [https://github.com/barnard-pcp-intro-web-dev/css-boxes](https://github.com/barnard-pcp-intro-web-dev/css-boxes) 
-	- Experiment with widths, heights, margins, borders, contents. Use colors for different borders, background images, or font styles. 
-	- Extra!: Try experimenting with size and overflow. 
-
-3. Activity: **Boxifying design**
+2. Activity: **Boxifying design**
 
 	- Go to: [http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock4-portfolio-2.pdf](http://assignments.udacity-extras.appspot.com/courses/html-css/img/mock4-portfolio-2.pdf) 
 	- How many boxes would you need to recreate this design?
 	- Draw it out in your notebook.
 	- Finished?  Try to boxify the design of other samples: [http://assignments.udacity-extras.appspot.com/courses/html-css/index.html](http://assignments.udacity-extras.appspot.com/courses/html-css/index.html) 
 
+3. **Coding Challenge**: **Box model - pair up and practice!**
+
+	- Download code: [https://github.com/barnard-pcp-intro-web-dev/css-boxes](https://github.com/barnard-pcp-intro-web-dev/css-boxes) 
+	- Experiment with widths, heights, margins, borders, contents. Use colors for different borders, background images, or font styles. 
+	- Extra!: Try experimenting with size and overflow. 
+
+4. If time allows - Coding Challenge: **Reverse-engineer this page**
+
+	- Create a new directory ```reverse-1```
+	- Create a new html document within that directory: index.html
+	- Write HTML that matches the page below
+	- When you're done, upload your code to your Github account.  And, if you want, deploy it (i.e. host the page on Github pages)! [See how here](/resources/git-upload-and-deploy-pcp).
+
+		[![Reverse engineer Kitty the Cat page](http://arkhog.com/htm/2.JPG)](http://arkhog.com/htm/2.JPG)
+	*Click image for larger view.*
 
 <hr height="10px">
 ##<a id="24-layout">2.4. Layout - positioning content with ```position``` and ```float```</a>
