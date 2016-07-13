@@ -191,7 +191,7 @@ Finished early? Check out this module's [additional resources](#resources).
 	Make sure your page has the following.  Be sure to use some HTML5 elements!
 	- A header element containing an image element
 	- An input element for email submission (it won’t actually submit anything yet!)
-	- Content about you using at least 6 different elements.  For example, use <p> to introduce yourself
+	- Content about you using at least 6 different elements.  For example, use ```<p>``` to introduce yourself
 	- Content reviews the following information about you:
 		- Your name and picture
 		- A little bit about who you are
