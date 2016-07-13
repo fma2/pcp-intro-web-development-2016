@@ -47,7 +47,7 @@ Welcome to Module 2!  **In this module, we'll introduce ourselves to CSS**.
 	- Underline every visited link in green
 	- Make every element with class “standout” 25px and orange
 
-2. Coding challenge: **Add CSS to your landing page**
+2. Coding challenge: **Add a link to a CSS page to your landing page**
 
 	- For your landing page from Module 1, create a stylesheet in the same directory as your html pages 
 	- Add a link in the ```<head>``` of each html page to connect the stylesheet
