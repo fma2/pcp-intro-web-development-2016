@@ -186,7 +186,7 @@ Welcome to Module 2!  **In this module, we'll introduce ourselves to CSS**.
 
 2. Coding challenge: **Practice positioning with floats and clear**
 	
-	- Go to: (http://bit.ly/29Sinpf)[http://bit.ly/29Sinpf]
+	- Go to: [http://bit.ly/29Sinpf](http://bit.ly/29Sinpf)
 	- Change the CSS to recreate the layout below. 
 	- Hint: start by drawing/defining your boxes, then layout the boxes
 
