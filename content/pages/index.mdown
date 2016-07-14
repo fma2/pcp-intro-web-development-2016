@@ -103,7 +103,7 @@ If you weren't able to get the book before class, there will be copies at Barnar
 | |<br>*Optional* <br>Read Chapter 9 and Chapter 14 in <br> 'HTML and CSS: Design and Build Websites'|
 
 
-####<a id="july16">Thu, July 14</a>
+####<a id="july14">Thu, July 14</a>
 
 | Module          | Topics, Challenges, and Homework     |
 | ------------- |-------------| --------------------|
