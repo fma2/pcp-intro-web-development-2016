@@ -62,7 +62,6 @@ Bonus: Responsiveness - Is your page optimized for viewing on a smaller screen t
 ##General tips and suggested steps to follow
 
 - Wireframe first! 
-- Once you have a wireframe, set up your project with git and push to github
 - Focus first on the layout of your pages. Perhaps, add a grid to your CSS, then set up boxes with the right sizes
 - Once you have the basic layout, fill in pieces. Start with common pieces like headers and footers 
 - You don’t have to use a framework. The best thing a framework gives you is a grid, and responsive layout. If you do decide to use a framework, don’t copy all the CSS code to your project. Instead, add a link to the CSS code hosted on a CD to your HTML doc (in the head). For example:
@@ -102,8 +101,6 @@ Your website must include at least 2 pages.  For the second page, here are a few
 - Set up a local project directory, and make sure you put it under version control with git
 - Set up the shell of your HTML and CSS pages 
 
-<!-- - Push to github.  If you need a refresher on getting started with Git, check out [the cheat sheet](https://github.com/fma2/pcp-intro-web-development/blob/master/resources/git-started-cheat-sheet.md) I created -->
-
 ####Step 5: Keep Building!
 
 - Continue building out your pages
@@ -129,13 +126,16 @@ Your website must include at least 2 pages.  For the second page, here are a few
 - Run your HTML pages through: [http://validator.w3.org/](http://validator.w3.org/)
 - Run your CSS page through: [https://jigsaw.w3.org/css-validator/](https://jigsaw.w3.org/css-validator/)
 
-####Step 7: Use Github to deploy!
+####Step 7: Use Github to deploy!*
 
 - Create a repo on Github and upload your code there.
-- Then, use [Gitbot](http://www.gitbot.co/) to deploy your page.
+- Then follow [these directions] to deploy.
+
+*We will take care of this on Fridy at the start of class.
 
 ####Step 8: Submit!
-- Send a link to your Github page and to your website to me: <a href="mailto:barnardpcp@farheen.nyc" target="_blank">barnardpcp@farheen.nyc</a>
+
+- Use [this form](http://goo.gl/forms/tR4VCzCIx5fb7Eff1) to submit your project. You'll need a link to your Github repo and a link to your landing page.
 
 
 ####Step 9: Present
