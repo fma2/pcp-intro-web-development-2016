@@ -129,7 +129,7 @@ Your website must include at least 2 pages.  For the second page, here are a few
 ####Step 7: Use Github to deploy!*
 
 - Create a repo on Github and upload your code there.
-- Then follow [these directions] to deploy.
+- Then follow [these directions](/resources/git-upload-and-deploy-pcp) to deploy.
 
 *We will take care of this on Fridy at the start of class.
 
